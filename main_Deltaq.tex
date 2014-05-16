@@ -1,0 +1,292 @@
+\documentclass[11pt]{report}
+%\hoffset 0.23in
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MASTER FILE TO COMPILE THE FULL DOCUMENT OF THE PAC42 Delta_q Proposal Write-Up
+% VERSION: May 10th, 2014.   X.J. Start up
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  LIST OF PACKAGES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{wrapfig}
+\usepackage{color}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{makeidx}
+
+%%%%% for sidebars
+\usepackage{multicap,color}
+\usepackage{multicol}
+\usepackage{multirow}
+%\usepackage{url}
+%\usepackage[dvips]{epsfig,graphicx}
+%\usepackage{epstopdf} 
+
+% package to produce hyperlinks
+% include this package last if adding more
+\usepackage[linktocpage]{hyperref}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COLOR CODE FOR EDITTING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{White}          {named}{White}
+\definecolor{Mycolor}{rgb}{0.0,0.0,0.8}
+\definecolor{Zeineddine}{rgb}{1.0,0.0,0.0}
+%\definecolor{Jianwei}{rgb}{0.0,0.0,1.0}
+%\definecolor{Abhay}{rgb}{0.0,1.0,0.0}
+%\newcommand{\new}[1]{\textcolor{Mycolor}  { #1}}
+%\newcommand{\rcb}[1]{\textcolor{Mycolor}{\sc #1}}
+\newcommand{\zm}[1]{\textcolor{White}{#1}}
+%\newcommand{\jq}[1]{\textcolor{Jianwei}{#1}}
+%\newcommand{\ad}[1]{\textcolor{Abhay}{#1}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SETTINGS AND DEFINITIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{-0.55in}
+\setlength{\textheight}{9in}
+
+\renewcommand{\bibname}{{\LARGE References}}
+\renewcommand{\arraystretch}{1.2}
+\allowdisplaybreaks[2]
+
+% some units
+\newcommand{\gev}{\operatorname{GeV}}
+\newcommand{\mev}{\operatorname{MeV}}
+\newcommand{\fm}{\operatorname{fm}}
+\newcommand{\mb}{\operatorname{mb}}
+\newcommand{\fb}{\operatorname{fb}}
+\newcommand{\pb}{\operatorname{pb}}
+\newcommand{\zh}{z}
+\newcommand{\bpar}{\mathcal{B}_T}
+\newcommand{\bparx}{\mathcal{B}_L}
+
+% J/Psi with proper spacing
+\newcommand{\jpsi}{J\mskip -2mu/\mskip -0.5mu\Psi}
+
+% less but not much less than
+\newcommand{\lsim}{\raisebox{-4pt}{$\,\stackrel{\textstyle <}{\sim}\,$}}
+% more but not much more than
+\newcommand{\gsim}{\raisebox{-4pt}{$\,\stackrel{\textstyle >}{\sim}\,$}}
+
+% begin and end equation
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+
+\newcommand{\dha}[1]{{\it{\color{red} #1}}}
+\newcommand{\tom}[1]{{\it{\color{blue} #1}}}
+\newcommand{\ms}{\mskip 1.5mu}
+\newcommand{\open}{{<\kern -0.3em{\scriptscriptstyle )}}}
+\newcommand{\bm}{\boldsymbol}
+%
+
+
+%
+%  Useful definitions
+\newcommand{\st}{{\scriptstyle T}}
+\newcommand{\xbj}{x}
+\newcommand{\lo}{leading order~}
+\newcommand{\loo}{leading order}
+\newcommand{\nlo}{next-to-leading order~}
+\newcommand{\nloo}{next-to-leading order}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ADDITIONAL DEFINITIONS 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\as}{\alpha_s}
+\def\eq#1{{Eq.~(\ref{#1})}}
+\def\fig#1{{Fig.~\ref{#1}}}
+
+\definecolor{BlueA}     {hsb}{1.00,0.0,1.0}
+\definecolor{BlueB}     {hsb}{0.50,0.5,0.5}
+\definecolor{ColorA}    {hsb}{0.18,0.5,1.0}
+\definecolor{ColorB}    {hsb}{0.18,0.5,0.7}
+\definecolor{gray50}    {gray}{0.7}
+%blues
+\definecolor{Blue}           {named}{Blue}
+\definecolor{SkyBlue}        {named}{SkyBlue}
+\definecolor{CornflowerBlue} {named}{CornflowerBlue}
+\definecolor{RoyalBlue}      {named}{RoyalBlue}
+\definecolor{BlueGreen}      {named}{BlueGreen}
+\definecolor{MBlue}          {named}{MidnightBlue}
+\definecolor{Cyan}           {named}{Cyan}
+\definecolor{darkblue}       {rgb}{0,0,0.5}
+%pinks
+\definecolor{Lavender}       {named}{Lavender}
+\definecolor{Magenta}        {named}{Magenta}
+\definecolor{Thistle}        {named}{Thistle}
+\definecolor{VioletRed}      {named}{VioletRed}
+\definecolor{Rhodamine}      {named}{Rhodamine}
+\definecolor{Orchid}         {named}{Orchid}
+\definecolor{Plum}           {named}{Plum}
+\definecolor{pink}           {rgb}{1,0.5,0.5}
+\definecolor{lila}           {rgb}{0.6,0.0,1.0}
+\definecolor{Magenta1}       {cmyk}{0.0,0.2,0.0,0.0}
+%reds
+\definecolor{Red}            {named}{Red}
+\definecolor{darkred}        {rgb}{0.5,0,0}
+\definecolor{lightred}       {rgb}{1.0,0,0}
+\definecolor{Red1}           {cmyk}{0.0,0.4,0.2,0.0}
+%greens
+\definecolor{Green}          {named}{Green}
+\definecolor{SGreen}         {named}{SpringGreen}
+\definecolor{FGreen}         {named}{ForestGreen}
+\definecolor{LGreen}         {named}{LimeGreen}
+\definecolor{FGreen}         {named}{YellowGreen}
+\definecolor{darkgreen}      {rgb}{0,0.5,0}
+%yellows
+\definecolor{Yellow3}        {rgb}{0.0,0.0,1.0}
+\definecolor{Yellow4}        {rgb}{0.5,0.5,0}
+\definecolor{Yellow1}        {cmyk}{0.0,0.0,0.6,0.0}
+\definecolor{Yellow2}        {cmyk}{0.0,0.0,0.2,0.0}
+\definecolor{Yellow}         {named}{Yellow}
+\definecolor{GYellow}        {named}{GreenYellow}
+\definecolor{YOrange}        {named}{YellowOrange}
+\definecolor{Orange}         {named}{Orange}
+\definecolor{OrangeRed}      {named}{OrangeRed}
+\definecolor{White}          {named}{White}
+\definecolor{LightYellow}{cmyk}{0.0,0.0,0.1,0.0}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BEGIN THE DOCUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%\pagecolor{BlueB}
+\pagecolor{White}
+
+%
+% COVER PAGE
+%
+\begin{titlepage}
+\voffset 1.0in
+\begin{center}
+%\zm{
+{
+{\bf {\Huge A Draft of PAC42 Hall A Proposal }}
+\vskip 0.25in 
+{\bf {\huge Measurements of SIDIS Double-Spin Asymmetries on a Longitudinally Polarized $^3$He Target }}
+\vskip 0.25in 
+{\bf { (Draft version as of May 15, 2014.)  }} }
+\end{center}
+
+\vskip 0.25in 
+
+%A nice figure here.
+
+%\begin{figure} [h]
+%  \centering
+%    \includegraphics[width=1.0\linewidth]{figures/cover_file.pdf}
+% \end{figure}
+
+
+\end{titlepage}
+\newpage \pagecolor{white}
+
+%
+% AUTHORS
+%
+\centerline{\Large\bf LANL folks + UConn Folks+SBS Collaborators}
+\vskip 0.3in
+
+\begin{center}
+Xiaodong~Jiang  \\
+ {\it  Los Alamos National Laboratory}
+\vskip 0.15in
+Andrew~Puckett \\
+{\it University of Connecticut}
+\end{center}
+
+\vskip 1.0in
+This is a working draft.  \\
+
+% Abstract here.
+
+\begin{abstract}
+  Precision measurements of longitudinal double-spin asymmetries
+  $A_{1n}^{h}$, $h = \pi^+, \pi^-, \pi^0, K^+, K^-$ in semi-inclusive
+  deep-inelastic scattering on a longitudinally polarized $^3$He
+  target are proposed. These asymmetries are sensitive to the
+  flavor-separated quark helicity distributions of the nucleon. The
+  flavor decomposition of nucleon spin is one of the major physics
+  goals of the JLab 12 GeV upgrade. The experiment will
+  reach high statistical figure-of-merit using a high-luminosity
+  polarized $^3$He target and the BigBite and Super BigBite
+  spectrometers in Hall A, in a configuration identical to
+  approved experiment E12-09-018, that will measure transverse
+  single-spin asymmetries in SIDIS. Compared to existing and planned measurements on proton
+  and deuteron targets, SIDIS asymmetries measured on $^3$He provide
+  superior sensitivity to $\Delta d$ and $\Delta \bar{d}$. The kaon SIDIS
+  asymmetries measured by this experiment will provide access to the polarized strange quark
+  distribution $\Delta s$. A total of 30 days of running in Hall A are
+  requested, including 20 days at 11 GeV and 10 days at 8.8 GeV. The
+  proposed experiment will dramatically improve our knowledge of the
+  flavor-separated quark helicity distributions in the valence region,
+  and provide precision data for the next generation of NLO QCD global
+  analysis of polarized PDFs. 
+\end{abstract}
+
+%\vskip 0.8in
+%
+% SET COUNTS, LINE NUMBERS
+%
+
+\setcounter{tocdepth}{4}
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INPUT CHAPTERS AND SECTIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EXECUTIVE SUMMARY - OVERALL INTRODUCTION
+\chapter{Executive Summary}
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\input{./files_tex/executive_summary} 
+
+%
+\chapter{Introduction and Physics Motivation}
+
+\input{./files_tex/introduction} 
+%
+\chapter{The Experiment}
+%
+\input{./files_tex/ExperimentDescription} 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CONCLUDING MATERIALS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACKNOWLEDGMENT
+%
+%\input{./files_tex/acknowledgment}
+\addcontentsline{toc}{chapter}{Acknowledgments}
+
+
+%
+% REFERENCES
+%
+%
+\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{References}
+
+%\bibliography{main_Deltaq}{}
+%\bibliographystyle{plain}
+%\bibliographystyle{ieeetr}
+%\bibliographystyle{h-physrev5}
+
+\bibliographystyle{unsrturl}
+\bibliography{main_Deltaq}{}
+
+%\small{
+%\bibliography{./bibliography/all}{}
+%}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% END DOCUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

@@ -1,0 +1,94 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main_Deltaq.aux
+The style file: unsrturl.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: main_Deltaq.bib
+Warning--I didn't find a database entry for "Frankfurt"
+Warning--I didn't find a database entry for "hermes2002"
+Warning--I didn't find a database entry for "hermesthesis"
+Warning--I didn't find a database entry for "smc1998"
+Warning--I didn't find a database entry for "compass2007"
+Warning--I didn't find a database entry for "jimayuan04"
+Warning--I didn't find a database entry for "jimayuan04_2"
+Warning--I didn't find a database entry for "rolf"
+Warning--I didn't find a database entry for "leader2"
+Warning--I didn't find a database entry for "PhysRevLett.101.072001"
+Warning--I didn't find a database entry for "deFlorian:2014yva"
+Warning--I didn't find a database entry for "epjcxj2006"
+Warning--I didn't find a database entry for "sassotnlo"
+Warning--I didn't find a database entry for "xiaochao"
+Warning--I didn't find a database entry for "kevin"
+Warning--I didn't find a database entry for "lit:goeke"
+Warning--I didn't find a database entry for "cao"
+Warning--I didn't find a database entry for "lit:grsv2000"
+Warning--I didn't find a database entry for "lit:bbfit"
+Warning--I didn't find a database entry for "hermes99"
+Warning--I didn't find a database entry for "graudenz"
+Warning--I didn't find a database entry for "wilson"
+Warning--I didn't find a database entry for "stratmann2001"
+Warning--I didn't find a database entry for "defs2000"
+Warning--I didn't find a database entry for "ssissakian2"
+Warning--I didn't find a database entry for "bunce00"
+Warning--I didn't find a database entry for "e8661"
+Warning--I didn't find a database entry for "e8662"
+Warning--I didn't find a database entry for "jcpengpol"
+Warning--I didn't find a database entry for "eichten"
+Warning--I didn't find a database entry for "thomas"
+Warning--I didn't find a database entry for "fries"
+Warning--I didn't find a database entry for "Boreskov"
+Warning--I didn't find a database entry for "Kumano"
+Warning--I didn't find a database entry for "fries2"
+Warning--I didn't find a database entry for "gluck"
+Warning--I didn't find a database entry for "steffens"
+Warning--I didn't find a database entry for "dressler"
+Warning--I didn't find a database entry for "wakamatsu"
+Warning--I didn't find a database entry for "dorokhov"
+Warning--I didn't find a database entry for "bbs"
+Warning--I didn't find a database entry for "bhalerao"
+Warning--empty journal in Adamczyk:2014xyw
+You've used 21 entries,
+            2522 wiz_defined-function locations,
+            790 strings with 10645 characters,
+and the built_in function-call counts, 7736 in all, are:
+= -- 769
+> -- 318
+< -- 0
++ -- 101
+- -- 80
+* -- 516
+:= -- 1086
+add.period$ -- 79
+call.type$ -- 21
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 185
+empty$ -- 789
+format.name$ -- 80
+if$ -- 2109
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 16
+newline$ -- 125
+num.names$ -- 21
+pop$ -- 99
+preamble$ -- 2
+purify$ -- 0
+quote$ -- 0
+skip$ -- 575
+stack$ -- 0
+substring$ -- 315
+swap$ -- 53
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 36
+width$ -- 23
+write$ -- 273
+(There were 43 warnings)

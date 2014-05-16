@@ -1,0 +1,200 @@
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
+\begin{thebibliography}{10}
+
+\bibitem{Adamczyk:2014xyw}
+L.~Adamczyk et~al.
+\newblock {Measurement of longitudinal spin asymmetries for weak boson
+  production in polarized proton-proton collisions at RHIC}.
+\newblock 2014.
+\newblock \href {http://arxiv.org/abs/1404.6880} {\path{arXiv:1404.6880}}.
+
+\bibitem{dssv2008}
+Daniel de~Florian, Rodolfo Sassot, Marco Stratmann, and Werner Vogelsang.
+\newblock Global analysis of helicity parton densities and their uncertainties.
+\newblock {\em Phys. Rev. Lett.}, 101:072001, Aug 2008.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.101.072001},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.101.072001}
+  {\path{doi:10.1103/PhysRevLett.101.072001}}.
+
+\bibitem{BigBiteOptics1998}
+D.J.J.de Lange et~al.
+\newblock The optical properties of the bigbite spectrometer at \{NIKHEF\}.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  412(2–3):254 -- 264, 1998.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900298004768},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-9002(98)00476-8}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-9002(98)00476-8}}.
+
+\bibitem{BigBite1998}
+D.J.J de~Lange, J.J.M Steijger, H~de~Vries, M~Anghinolfi, M~Taiuti, D.W
+  Higinbotham, B.E Norum, and E~Konstantinov.
+\newblock A large acceptance spectrometer for the internal target facility at
+  \{NIKHEF\}.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 406(2):182
+  -- 194, 1998.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900298919817},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-9002(98)91981-7}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-9002(98)91981-7}}.
+
+\bibitem{BigBiteOptics2012}
+M.~Mihovilovič et~al.
+\newblock Methods for optical calibration of the bigbite hadron spectrometer.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 686(0):20
+  -- 30, 2012.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900212004901},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/j.nima.2012.04.085}
+  {\path{doi:http://dx.doi.org/10.1016/j.nima.2012.04.085}}.
+
+\bibitem{SBS_CDR}
+J.~J. LeRose, B.~Wojtsekhowski, et~al.
+\newblock {The Super-Bigbite Spectrometer for Jefferson Lab Hall A}.
+\newblock \url{https://userweb.jlab.org/\%7Ebogdanw/SBS-CDR/SBS-CDR.pdf}, 2009.
+
+\bibitem{SBS_CDR_NEW}
+J.~J. LeRose, B.~Wojtsekhowski, et~al.
+\newblock {The Super-Bigbite Spectrometer for Jefferson Lab Hall A}.
+\newblock \url{https://userweb.jlab.org/~mahbub/HallA/SBS/SBS-CDR_New.pdf},
+  2010.
+
+\bibitem{SBS_SIDIS}
+G.~Cates, E.~Cisbani, G.~Franklin, A.~Puckett, B.~Wojtsekhowski, et~al.
+\newblock {Target Single-Spin Asymmetries in Semi-Inclusive Pion and Kaon
+  Electroproduction on a Transversely Polarized $^3$He Target using Super
+  BigBite and BigBite in Hall A}.
+\newblock
+  \url{http://www.jlab.org/exp_prog/PACpage/PAC38/proposals/Conditionally\%20Approved/C12-09-018_Update.pdf},
+  2011.
+
+\bibitem{Helium3_target}
+P.A.M. Dolph, J.~Singh, T.~Averett, A.~Kelleher, K.E. Mooney, et~al.
+\newblock {Gas dynamics in high-luminosity polarized He-3 targets using
+  diffusion and convection}.
+\newblock {\em Phys.Rev.}, C84:065201, 2011.
+\newblock \href {http://arxiv.org/abs/1107.1902} {\path{arXiv:1107.1902}},
+  \href {http://dx.doi.org/10.1103/PhysRevC.84.065201}
+  {\path{doi:10.1103/PhysRevC.84.065201}}.
+
+\bibitem{GEN2}
+G.~Cates, S.~Riordan, B.~Wojtsekhowski, et~al.
+\newblock {Measurement of the Neutron Electromagnetic Form Factor Ratio
+  $G_E^n/G_M^n$ at High $Q^2$}.
+\newblock \url{http://hallaweb.jlab.org/collab/PAC/PAC34/PR-09-016-gen.pdf},
+  2009.
+
+\bibitem{E06010_AUT_PRL}
+X.~Qian et~al.
+\newblock Single spin asymmetries in charged pion production from
+  semi-inclusive deep inelastic scattering on a transversely polarized
+  $^{3}\mathrm{He}$ target at
+  ${Q}^{2}=1.4\char21{}2.7\text{\,}\text{\,}{\mathrm{gev}}^{2}$.
+\newblock {\em Phys. Rev. Lett.}, 107:072003, Aug 2011.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.107.072003},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.107.072003}
+  {\path{doi:10.1103/PhysRevLett.107.072003}}.
+
+\bibitem{GEN2010}
+S.~Riordan et~al.
+\newblock Measurements of the electric form factor of the neutron up to
+  $q^{2}=3.4\,\,gev^{2}$ using the reaction $^{3}he[over \rightarrow{}](e[over
+  \rightarrow{}],e^{'{}}n)pp$.
+\newblock {\em Phys. Rev. Lett.}, 105(26):262302, Dec 2010.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.105.262302}
+  {\path{doi:10.1103/PhysRevLett.105.262302}}.
+
+\bibitem{Sauli_GEM}
+F.~Sauli.
+\newblock Gem: A new concept for electron amplification in gas detectors.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  386(2–3):531 -- 534, 1997.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900296011722},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-9002(96)01172-2}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-9002(96)01172-2}}.
+
+\bibitem{GEM_test_1999}
+A~Bressan, J.C Labbé, P~Pagano, L~Ropelewski, and F~Sauli.
+\newblock Beam tests of the gas electron multiplier.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  425(1–2):262 -- 276, 1999.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900298014065},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-9002(98)01406-5}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-9002(98)01406-5}}.
+
+\bibitem{GEP5}
+E.~Brash, E.~Cisbani, M.~Jones, M.~Khandaker, L.~Pentchev, C.~F. Perdrisat,
+  V.~Punjabi, B.~Wojtsekhowski, et~al.
+\newblock {Large Acceptance Proton Form Factor Ratio Measurements at 13 and 15
+  GeV$^2$ Using Recoil Polarization Method}.
+\newblock \url{http://www.jlab.org/exp_prog/proposals/07/PR12-07-109.pdf},
+  2007.
+
+\bibitem{HCAL1}
+N.V. Vlasov et~al.
+\newblock A calorimeter for detecting hadrons with energies of 10–100 gev.
+\newblock {\em Instruments and Experimental Techniques}, 49(1):41--55, 2006.
+\newblock URL: \url{http://dx.doi.org/10.1134/S0020441206010040}, \href
+  {http://dx.doi.org/10.1134/S0020441206010040}
+  {\path{doi:10.1134/S0020441206010040}}.
+
+\bibitem{HERMES_RICH_long_NIM}
+N~Akopov et~al.
+\newblock The \{HERMES\} dual-radiator ring imaging cherenkov detector.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  479(2–3):511 -- 530, 2002.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900201009329},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-9002(01)00932-9}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-9002(01)00932-9}}.
+
+\bibitem{GEANT42003}
+S.~Agostinelli et~al.
+\newblock Geant4—a simulation toolkit.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 506(3):250
+  -- 303, 2003.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900203013688},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-9002(03)01368-8}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-9002(03)01368-8}}.
+
+\bibitem{CTEQ6}
+W.K. Tung, H.L. Lai, A.~Belyaev, J.~Pumplin, D.~Stump, et~al.
+\newblock {Heavy Quark Mass Effects in Deep Inelastic Scattering and Global QCD
+  Analysis}.
+\newblock {\em JHEP}, 0702:053, 2007.
+\newblock \href {http://arxiv.org/abs/hep-ph/0611254}
+  {\path{arXiv:hep-ph/0611254}}, \href
+  {http://dx.doi.org/10.1088/1126-6708/2007/02/053}
+  {\path{doi:10.1088/1126-6708/2007/02/053}}.
+
+\bibitem{DSS2007}
+Daniel de~Florian, Rodolfo Sassot, and Marco Stratmann.
+\newblock {Global analysis of fragmentation functions for pions and kaons and
+  their uncertainties}.
+\newblock {\em Phys.Rev.}, D75:114010, 2007.
+\newblock \href {http://arxiv.org/abs/hep-ph/0703242}
+  {\path{arXiv:hep-ph/0703242}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.75.114010}
+  {\path{doi:10.1103/PhysRevD.75.114010}}.
+
+\bibitem{PhysRevD.71.074006}
+M.~Anselmino, M.~Boglione, U.~D'Alesio, A.~Kotzinian, F.~Murgia, and
+  A.~Prokudin.
+\newblock Role of cahn and sivers effects in deep inelastic scattering.
+\newblock {\em Phys. Rev. D}, 71:074006, Apr 2005.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevD.71.074006}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.71.074006}
+  {\path{doi:10.1103/PhysRevD.71.074006}}.
+
+\end{thebibliography}

@@ -1,0 +1,546 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title: threshold.eps
+%%Creator: fig2dev Version 3.2 Patchlevel 3d
+%%CreationDate: Mon Mar 12 08:50:26 2007
+%%For: shahinya@agen3.jlab.org (Albert Shahinyan)
+%%BoundingBox: 0 0 359 310
+%%Magnification: 0.5000
+%%EndComments
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col1 {0.000 0.000 1.000 srgb} bind def
+/col2 {0.000 1.000 0.000 srgb} bind def
+/col3 {0.000 1.000 1.000 srgb} bind def
+/col4 {1.000 0.000 0.000 srgb} bind def
+/col5 {1.000 0.000 1.000 srgb} bind def
+/col6 {1.000 1.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+/col8 {0.000 0.000 0.560 srgb} bind def
+/col9 {0.000 0.000 0.690 srgb} bind def
+/col10 {0.000 0.000 0.820 srgb} bind def
+/col11 {0.530 0.810 1.000 srgb} bind def
+/col12 {0.000 0.560 0.000 srgb} bind def
+/col13 {0.000 0.690 0.000 srgb} bind def
+/col14 {0.000 0.820 0.000 srgb} bind def
+/col15 {0.000 0.560 0.560 srgb} bind def
+/col16 {0.000 0.690 0.690 srgb} bind def
+/col17 {0.000 0.820 0.820 srgb} bind def
+/col18 {0.560 0.000 0.000 srgb} bind def
+/col19 {0.690 0.000 0.000 srgb} bind def
+/col20 {0.820 0.000 0.000 srgb} bind def
+/col21 {0.560 0.000 0.560 srgb} bind def
+/col22 {0.690 0.000 0.690 srgb} bind def
+/col23 {0.820 0.000 0.820 srgb} bind def
+/col24 {0.500 0.190 0.000 srgb} bind def
+/col25 {0.630 0.250 0.000 srgb} bind def
+/col26 {0.750 0.380 0.000 srgb} bind def
+/col27 {1.000 0.500 0.500 srgb} bind def
+/col28 {1.000 0.630 0.630 srgb} bind def
+/col29 {1.000 0.750 0.750 srgb} bind def
+/col30 {1.000 0.880 0.880 srgb} bind def
+/col31 {1.000 0.840 0.000 srgb} bind def
+
+end
+save
+newpath 0 310 moveto 0 0 lineto 359 0 lineto 359 310 lineto closepath clip newpath
+-14.0 314.6 translate
+1 -1 scale
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+ /DrawEllipse {
+	/endangle exch def
+	/startangle exch def
+	/yrad exch def
+	/xrad exch def
+	/y exch def
+	/x exch def
+	/savematrix mtrx currentmatrix def
+	x y tr xrad yrad sc 0 0 1 startangle endangle arc
+	closepath
+	savematrix setmatrix
+	} def
+
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+$F2psBegin
+10 setmiterlimit
+ 0.03150 0.03150 sc
+%
+% Fig objects follow
+%
+15.000 slw
+% Ellipse
+n 2655 630 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 2970 1125 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 3645 1485 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 4230 1890 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 4815 2295 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 5445 2790 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 6795 3780 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 8010 4545 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Ellipse
+n 9315 4995 127 127 0 360 DrawEllipse gs col4 1.00 shd ef gr gs col4 s gr
+
+% Polyline
+30.000 slw
+n 1710 9000 m 1710 225 l 11070 225 l 11070 9000 l
+ 1710 9000 l  cp gs col0 s gr 
+% Polyline
+n 1710 7830 m
+ 11070 7830 l gs col0 s gr 
+% Polyline
+n 1710 7290 m
+ 2025 7290 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 1710 6435 m
+ 1935 6435 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 1710 5580 m
+ 2025 5580 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 1710 4725 m
+ 1935 4725 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 1710 3870 m
+ 2025 3870 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 1710 3015 m
+ 1935 3015 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 1710 2160 m
+ 2025 2160 l gs col0 s gr 
+% Polyline
+n 1710 450 m
+ 2025 450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 1710 1305 m
+ 1935 1305 l gs col0 s gr 
+% Polyline
+n 2340 7830 m
+ 2340 7605 l gs col0 s gr 
+% Polyline
+n 2025 9000 m
+ 2025 8775 l gs col0 s gr 
+% Polyline
+n 2340 9000 m
+ 2340 8775 l gs col0 s gr 
+% Polyline
+n 2655 9000 m
+ 2655 8775 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 2970 7830 m
+ 2970 7515 l gs col0 s gr 
+% Polyline
+n 2970 9000 m
+ 2970 8685 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 3600 7830 m
+ 3600 7605 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 4230 7830 m
+ 4230 7515 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 4860 7830 m
+ 4860 7605 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 5490 7830 m
+ 5490 7515 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 6120 7830 m
+ 6120 7605 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 6750 7830 m
+ 6750 7515 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 7380 7830 m
+ 7380 7605 l gs col0 s gr 
+% Polyline
+n 8640 7830 m
+ 8640 7605 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 9270 7830 m
+ 9270 7515 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 9900 7830 m
+ 9900 7605 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 10530 7830 m
+ 10530 7515 l gs col0 s gr 
+% Polyline
+n 4230 9000 m
+ 4230 8685 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 3285 9000 m
+ 3285 8775 l gs col0 s gr 
+% Polyline
+n 3600 9000 m
+ 3600 8775 l gs col0 s gr 
+% Polyline
+n 3915 9000 m
+ 3915 8775 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 5490 9000 m
+ 5490 8685 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 4545 9000 m
+ 4545 8775 l gs col0 s gr 
+% Polyline
+n 4860 9000 m
+ 4860 8775 l gs col0 s gr 
+% Polyline
+n 5175 9000 m
+ 5175 8775 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 6750 9000 m
+ 6750 8685 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 5805 9000 m
+ 5805 8775 l gs col0 s gr 
+% Polyline
+n 6120 9000 m
+ 6120 8775 l gs col0 s gr 
+% Polyline
+n 6435 9000 m
+ 6435 8775 l gs col0 s gr 
+% Polyline
+n 7065 9000 m
+ 7065 8775 l gs col0 s gr 
+% Polyline
+n 7380 9000 m
+ 7380 8775 l gs col0 s gr 
+% Polyline
+n 7695 9000 m
+ 7695 8775 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 9270 9000 m
+ 9270 8685 l gs col0 s gr 
+% Polyline
+n 8010 7830 m
+ 8010 7515 l gs col0 s gr 
+% Polyline
+n 8010 9000 m
+ 8010 8685 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 8325 9000 m
+ 8325 8775 l gs col0 s gr 
+% Polyline
+n 8640 9000 m
+ 8640 8775 l gs col0 s gr 
+% Polyline
+n 8955 9000 m
+ 8955 8775 l gs col0 s gr 
+% Polyline
+n 9585 9000 m
+ 9585 8775 l gs col0 s gr 
+% Polyline
+n 9900 9000 m
+ 9900 8775 l gs col0 s gr 
+% Polyline
+n 10215 9000 m
+ 10215 8775 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 10530 9000 m
+ 10530 8685 l gs col0 s gr 
+% Polyline
+15.000 slw
+gs  clippath
+10200 7845 m 10320 7845 l 10320 7558 l 10260 7798 l 10200 7558 l cp
+eoclip
+n 10260 6930 m
+ 10260 7830 l gs col0 s gr gr
+
+% arrowhead
+n 10200 7558 m 10260 7798 l 10320 7558 l 10200 7558 l  cp gs 0.00 setgray ef gr  col0 s
+% Polyline
+30.000 slw
+n 10755 450 m
+ 11070 450 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 10845 1305 m
+ 11070 1305 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 10755 2160 m
+ 11070 2160 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 10800 3015 m
+ 11025 3015 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 10755 3870 m
+ 11070 3870 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 10845 4725 m
+ 11070 4725 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 10755 5580 m
+ 11070 5580 l gs col0 s gr 
+% Polyline
+15.000 slw
+n 10800 6435 m
+ 11025 6435 l gs col0 s gr 
+% Polyline
+30.000 slw
+n 10755 7290 m
+ 11070 7290 l gs col0 s gr 
+/Times-Roman ff 300.00 scf sf
+2835 8145 m
+gs 1 -1 sc (0.3) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+4095 8145 m
+gs 1 -1 sc (0.6) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+5355 8145 m
+gs 1 -1 sc (0.9) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+6615 8145 m
+gs 1 -1 sc (1.2) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+7920 8145 m
+gs 1 -1 sc (1.5) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+9135 8145 m
+gs 1 -1 sc (1.8) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+10395 8145 m
+gs 1 -1 sc (2.1) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+1260 9000 m
+gs 1 -1 sc (1) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+4095 9450 m
+gs 1 -1 sc (40) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+2835 9450 m
+gs 1 -1 sc (20) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+1665 9450 m
+gs 1 -1 sc (0) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+5400 9450 m
+gs 1 -1 sc (60) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+6615 9450 m
+gs 1 -1 sc (80) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+7830 9450 m
+gs 1 -1 sc (100) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+9045 9450 m
+gs 1 -1 sc (120) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+10305 9450 m
+gs 1 -1 sc (140) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+1035 7470 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+720 6300 m
+gs 1 -1 sc  90.0 rot (Counting rate [Hz]) col0 sh gr
+/Times-Roman ff 450.00 scf sf
+9765 6705 m
+gs 1 -1 sc (E) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+10035 6885 m
+gs 1 -1 sc (elastic) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+11295 7470 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+5265 8550 m
+gs 1 -1 sc (Threshold  [GeV]) col0 sh gr
+/Times-Roman ff 330.00 scf sf
+5265 9990 m
+gs 1 -1 sc (Threshold  [mV]) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+1035 5760 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+1035 3960 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+1035 2295 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+1035 675 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+11340 5760 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+2430 5175 m
+gs 1 -1 sc (Beam energy:) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+2430 5625 m
+gs 1 -1 sc (Beam current:              ) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+2475 6075 m
+gs 1 -1 sc (Target:                           ) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+2430 6525 m
+gs 1 -1 sc (Calorimeter angle:) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+2430 6975 m
+gs 1 -1 sc (Calorimeter to target:) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+2430 7425 m
+gs 1 -1 sc (Solid angle:) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6255 6975 m
+gs 1 -1 sc (10.6) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+1395 360 m
+gs 1 -1 sc (5) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+1395 1980 m
+gs 1 -1 sc (4) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+1395 3645 m
+gs 1 -1 sc (3) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+1395 5445 m
+gs 1 -1 sc (2) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+11700 5490 m
+gs 1 -1 sc (2) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+11700 3690 m
+gs 1 -1 sc (3) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+11340 4005 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+11340 2385 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+11700 2070 m
+gs 1 -1 sc (4) col0 sh gr
+/Times-Roman ff 375.00 scf sf
+11340 675 m
+gs 1 -1 sc (10) col0 sh gr
+/Times-Roman ff 270.00 scf sf
+11700 360 m
+gs 1 -1 sc (5) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6255 6525 m
+gs 1 -1 sc (35) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6300 7425 m
+gs 1 -1 sc (0.36) col0 sh gr
+/Times-Roman ff 180.00 scf sf
+6660 6345 m
+gs 1 -1 sc (O) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6255 6075 m
+gs 1 -1 sc (15) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6255 5625 m
+gs 1 -1 sc (10) col0 sh gr
+/Symbol ff 345.00 scf sf
+6705 5625 m
+gs 1 -1 sc (m) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6975 5625 m
+gs 1 -1 sc (A) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6750 6075 m
+gs 1 -1 sc (cm) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6255 5175 m
+gs 1 -1 sc (3.3) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+6885 5175 m
+gs 1 -1 sc (GeV) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+7380 6075 m
+gs 1 -1 sc (LH) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+7065 6975 m
+gs 1 -1 sc (m) col0 sh gr
+/Times-Roman ff 345.00 scf sf
+7065 7425 m
+gs 1 -1 sc (msr) col0 sh gr
+/Times-Roman ff 300.00 scf sf
+7920 6210 m
+gs 1 -1 sc (2) col0 sh gr
+$F2psEnd
+rs
