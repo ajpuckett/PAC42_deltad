@@ -30,13 +30,13 @@
 \contentsline {paragraph}{}{22}{section*.11}
 \contentsline {subsection}{\numberline {3.3.2}SIDIS Cross Section Model}{23}{subsection.3.3.2}
 \contentsline {paragraph}{}{23}{section*.12}
-\contentsline {subsection}{\numberline {3.3.3}SIDIS Kinematic Coverage}{23}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Event Rates and Projected Statistical Uncertainties}{24}{subsection.3.3.4}
-\contentsline {subsubsection}{Event rates and projected statistics}{24}{section*.13}
-\contentsline {subsubsection}{Extraction of Neutron Asymmetries from $^3$He}{24}{section*.14}
-\contentsline {subsubsection}{Extraction of Virtual Photon Asymmetry $A_1^n$ from $A_{LL}$}{24}{section*.15}
-\contentsline {subsubsection}{Projected Statistical Uncertainties}{24}{section*.16}
-\contentsline {subsection}{\numberline {3.3.5}Comparison to Existing Data}{24}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Comparison to Other Approved Experiments}{24}{subsection.3.3.6}
-\contentsline {chapter}{Acknowledgments}{24}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.3}SIDIS Kinematic Coverage}{24}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Event Rates and Projected Statistical Uncertainties}{25}{subsection.3.3.4}
+\contentsline {subsubsection}{Event rates and projected statistics}{25}{section*.13}
+\contentsline {subsubsection}{Extraction of Neutron Asymmetries from $^3$He}{25}{section*.14}
+\contentsline {subsubsection}{Extraction of Virtual Photon Asymmetry $A_1^n$ from $A_{LL}$}{25}{section*.15}
+\contentsline {subsubsection}{Projected Statistical Uncertainties}{25}{section*.16}
+\contentsline {subsection}{\numberline {3.3.5}Comparison to Existing Data}{25}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Comparison to Other Approved Experiments}{25}{subsection.3.3.6}
+\contentsline {chapter}{Acknowledgments}{25}{subsection.3.3.6}
 \contentsline {chapter}{References}{27}{section*.17}

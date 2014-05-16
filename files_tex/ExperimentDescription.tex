@@ -130,6 +130,8 @@ Six light quark flavors $q = u,d,s, \bar{u}, \bar{d}, \bar{s}$ are included in t
   b_q^h &=& \frac{1}{z^2\left<k^2_\perp\right> + \left<p_\perp^2 \right>}, 
 \end{eqnarray}
 where $\left<k^2_\perp\right>$ is the transverse momentum width of the initial quark distribution and $ \left<p_\perp^2 \right>$ is the width of the transverse momentum distribution of hadrons produced in the fragmentation of the recoiling quark. For the purposes of rate estimates for this proposal, constant values $\left<k^2_\perp\right> = 0.25$ GeV$^2$ and  $ \left<p_\perp^2 \right> = 0.20$ GeV$^2$ were assumed, following Ref.~\cite{PhysRevD.71.074006}. The Callan-Gross relation $H_2 = 2xH_1$ is assumed for the SIDIS structure functions, implying neglect of the longitudinal virtual photoabsorbtion cross section. The kinematic coverages and rate estimates shown in the next sections correspond to the simplified SIDIS cross section model of Eqn.~\eqref{sidisxsec} convoluted with the combined acceptance of the two-spectrometer setup.
+
+SIDIS events on $^3$He ``smeared'' by the Fermi motion of the initial nucleons were generated in the GEANT4 simulation using the following procedure. First, the nucleon participating in the scattering event is chosen randomly; i.e., a neutron (proton) is chosen with probability $\frac{1}{3}$ ($\frac{2}{3}$). After choosing the initial nucleon, its initial momentum is sampled from the neutron (proton) momentum distribution in $^3$He obtained from a fit to the results of a calculation using the Argonne V18 potential, and its initial direction of motion is chosen randomly. The polar ($\cos \theta_{e/h}$) and azimuthal ($\phi_{e/h}$) scattering angles and energies $E'_{e/h}$ of outgoing particles in the \emph{lab frame} are generated randomly within limits chosen to populate the full solid angle and momentum acceptance of both spectrometers. The initial and final electron and nucleon four-momenta are then boosted to the nucleon rest frame, and the SIDIS cross section is computed using Eqn.~\eqref{sidisxsec}. The ``true'' (nucleon rest frame) SIDIS kinematics are also calculated. Finally, the lab-frame cross section is computed from the nucleon-rest-frame cross section by accounting for the modification of the flux factor by the boost due to the fact that the collision in the lab frame is no longer collinear\footnote{The flux factor $F \propto \left| \mathbf{v}_e - \mathbf{v}_N\right|$ is the only part of the cross section which is not Lorentz-invariant, but has the Lorentz transformation properties of a cross-sectional area.}. 
 \subsection{SIDIS Kinematic Coverage}
 %\label{phasespaceplots}
 % \begin{figure}[h]
@@ -150,7 +152,7 @@ Figure~\ref{kine14_10_1D} shows the projected SIDIS $^3He(e,e'\pi^+)X$ yield as 
   \begin{center}
     \includegraphics[width=0.98\textwidth]{figures/kine14deg10deg_2Dcomparison.pdf}
   \end{center}
-  \caption{\label{kine14_10_2D} Comparison of SIDIS kinematic coverage between the SBS 14 degree (top) and SBS 10 degree (bottom) settings at 11 GeV.}
+  \caption{\label{kine14_10_2D} SIDIS phase space coverage of the four proposed experiment configurations. }
 \end{figure}
 Figure~\ref{kine14_10_2D} shows the 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  16 MAY 2014 16:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  16 MAY 2014 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -446,7 +446,7 @@ ith the same identifier (name{page.1}) has been already used, duplicate ignored
 
 <to be read again> 
                    \relax 
-l.37 ...ry $A_1^n$ from $A_{LL}$}{24}{section*.15}
+l.37 ...ry $A_1^n$ from $A_{LL}$}{25}{section*.15}
                                                    [1
 
 ])
@@ -1020,80 +1020,76 @@ actions
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 120.
 
-<figures/kine14deg10deg_comparison.pdf, id=654, 569.12625pt x 275.0275pt>
+[23] <figures/kine14deg10deg_comparison.pdf, id=666, 569.12625pt x 275.0275pt>
 File: figures/kine14deg10deg_comparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_comparison.pdf>
 Package pdftex.def Info: figures/kine14deg10deg_comparison.pdf used on input li
-ne 144.
+ne 146.
 (pdftex.def)             Requested size: 460.35788pt x 222.4773pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/kine14deg10deg_2Dcomparison.pdf, id=656, 569.12625pt x 417.56pt>
+<figures/kine14deg10deg_2Dcomparison.pdf, id=668, 569.12625pt x 417.56pt>
 File: figures/kine14deg10deg_2Dcomparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_2Dcomparison.pdf>
 Package pdftex.def Info: figures/kine14deg10deg_2Dcomparison.pdf used on input 
-line 151.
+line 153.
 (pdftex.def)             Requested size: 460.35788pt x 337.77573pt.
- [23]
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 159.
+(hyperref)                removing `math shift' on input line 161.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 159.
+(hyperref)                removing `superscript' on input line 161.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 159.
+(hyperref)                removing `math shift' on input line 161.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 160.
+(hyperref)                removing `math shift' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 160.
+(hyperref)                removing `subscript' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 160.
+(hyperref)                removing `superscript' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 160.
+(hyperref)                removing `math shift' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 160.
+(hyperref)                removing `math shift' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 160.
+(hyperref)                removing `subscript' on input line 162.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 160.
+(hyperref)                removing `math shift' on input line 162.
 
-<figures/A1n_vs_x_E11_pip.pdf, id=669, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_pip.pdf, id=670, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_pip.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_pip.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_pip.pdf used on input line 164.
+Package pdftex.def Info: figures/A1n_vs_x_E11_pip.pdf used on input line 166.
 (pdftex.def)             Requested size: 460.35788pt x 337.77573pt.
-
+ [24 <./figures/kine14deg10deg_comparison.pdf, page is rotated 90 degrees>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [24 <./figures/kine14deg10deg_comparison.pdf, page is rotated 90 degrees>]
-[25 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
+) [25 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
 [26 <./figures/A1n_vs_x_E11_pip.pdf, page is rotated 90 degrees>]
 (./main_Deltaq.bbl
 Missing character: There is no â in font cmr10!
@@ -1200,39 +1196,40 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
  ) 
 Here is how much of TeX's memory you used:
- 7247 strings out of 493315
- 103743 string characters out of 6137904
- 205581 words of memory out of 5000000
- 10429 multiletter control sequences out of 15000+600000
- 18376 words of font info for 70 fonts, out of 8000000 for 9000
+ 7256 strings out of 493315
+ 103830 string characters out of 6137904
+ 205538 words of memory out of 5000000
+ 10433 multiletter control sequences out of 15000+600000
+ 19614 words of font info for 74 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  29i,12n,38p,1865b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
-sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/loc
-al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
-/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main_Deltaq.pdf (34 pages, 1418298 bytes).
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
+/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main_Deltaq.pdf (34 pages, 1429268 bytes).
 PDF statistics:
- 981 PDF objects out of 1000 (max. 8388607)
- 734 compressed objects within 8 object streams
- 135 named destinations out of 1000 (max. 500000)
+ 988 PDF objects out of 1000 (max. 8388607)
+ 740 compressed objects within 8 object streams
+ 136 named destinations out of 1000 (max. 500000)
  422 words of extra memory for PDF output out of 10000 (max. 10000000)
 
