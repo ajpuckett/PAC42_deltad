@@ -9,12 +9,6 @@ L.~Adamczyk et~al.
 \newblock 2014.
 \newblock \href {http://arxiv.org/abs/1404.6880} {\path{arXiv:1404.6880}}.
 
-\bibitem{deFlorian:2014yva}
-Daniel de~Florian, Rodolfo Sassot, Marco Stratmann, and Werner Vogelsang.
-\newblock {Evidence for polarization of gluons in the proton}.
-\newblock 2014.
-\newblock \href {http://arxiv.org/abs/1404.4293} {\path{arXiv:1404.4293}}.
-
 \bibitem{dssv2008}
 Daniel de~Florian, Rodolfo Sassot, Marco Stratmann, and Werner Vogelsang.
 \newblock Global analysis of helicity parton densities and their uncertainties.
@@ -226,5 +220,38 @@ K.~Abe et~al.
   \url{http://www.sciencedirect.com/science/article/pii/S0370269399002440},
   \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0370-2693(99)00244-0}
   {\path{doi:http://dx.doi.org/10.1016/S0370-2693(99)00244-0}}.
+
+\bibitem{DSSVplus}
+D.~de~Florian, R.~Sassot, M.~Stratmann, and W.~Vogelsang.
+\newblock {Global analysis of helicity PDFs: Past - present - future}.
+\newblock 2011.
+\newblock \href {http://arxiv.org/abs/1108.3955} {\path{arXiv:1108.3955}}.
+
+\bibitem{DSSV2009}
+Daniel de~Florian, Rodolfo Sassot, Marco Stratmann, and Werner Vogelsang.
+\newblock Extraction of spin-dependent parton densities and their
+  uncertainties.
+\newblock {\em Phys. Rev. D}, 80:034030, Aug 2009.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevD.80.034030}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.80.034030}
+  {\path{doi:10.1103/PhysRevD.80.034030}}.
+
+\bibitem{COMPASS_d_2009}
+M.~Alekseev et~al.
+\newblock {Flavour Separation of Helicity Distributions from Deep Inelastic
+  Muon-Deuteron Scattering}.
+\newblock {\em Phys.Lett.}, B680:217--224, 2009.
+\newblock \href {http://arxiv.org/abs/0905.2828} {\path{arXiv:0905.2828}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2009.08.065}
+  {\path{doi:10.1016/j.physletb.2009.08.065}}.
+
+\bibitem{COMPASS_d_p_2010}
+M.G. Alekseev et~al.
+\newblock {Quark helicity distributions from longitudinal spin asymmetries in
+  muon-proton and muon-deuteron scattering}.
+\newblock {\em Phys.Lett.}, B693:227--235, 2010.
+\newblock \href {http://arxiv.org/abs/1007.4061} {\path{arXiv:1007.4061}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2010.08.034}
+  {\path{doi:10.1016/j.physletb.2010.08.034}}.
 
 \end{thebibliography}

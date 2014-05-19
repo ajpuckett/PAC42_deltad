@@ -17,6 +17,7 @@ Warning--I didn't find a database entry for "jimayuan04_2"
 Warning--I didn't find a database entry for "rolf"
 Warning--I didn't find a database entry for "leader2"
 Warning--I didn't find a database entry for "PhysRevLett.101.072001"
+Warning--I didn't find a database entry for "deFlorian:2014yva"
 Warning--I didn't find a database entry for "epjcxj2006"
 Warning--I didn't find a database entry for "sassotnlo"
 Warning--I didn't find a database entry for "xiaochao"
@@ -49,48 +50,48 @@ Warning--I didn't find a database entry for "dorokhov"
 Warning--I didn't find a database entry for "bbs"
 Warning--I didn't find a database entry for "bhalerao"
 Warning--empty journal in Adamczyk:2014xyw
-Warning--empty journal in deFlorian:2014yva
 Warning--empty title in E06010_ALT_PRL
 Warning--empty title in SLAC_R1998
-You've used 25 entries,
+Warning--empty journal in DSSVplus
+You've used 28 entries,
             2522 wiz_defined-function locations,
-            818 strings with 11237 characters,
-and the built_in function-call counts, 9166 in all, are:
-= -- 913
-> -- 362
+            845 strings with 11913 characters,
+and the built_in function-call counts, 10348 in all, are:
+= -- 1039
+> -- 398
 < -- 0
-+ -- 115
-- -- 90
-* -- 618
-:= -- 1270
-add.period$ -- 93
-call.type$ -- 25
-change.case$ -- 23
++ -- 126
+- -- 98
+* -- 703
+:= -- 1423
+add.period$ -- 105
+call.type$ -- 28
+change.case$ -- 26
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 224
-empty$ -- 945
-format.name$ -- 90
-if$ -- 2502
+cite$ -- 32
+duplicate$ -- 253
+empty$ -- 1070
+format.name$ -- 98
+if$ -- 2828
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 20
-newline$ -- 147
-num.names$ -- 25
-pop$ -- 123
+int.to.str$ -- 28
+missing$ -- 23
+newline$ -- 165
+num.names$ -- 28
+pop$ -- 136
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 685
+skip$ -- 775
 stack$ -- 0
-substring$ -- 378
-swap$ -- 66
+substring$ -- 438
+swap$ -- 79
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 43
-width$ -- 27
-write$ -- 322
-(There were 45 warnings)
+while$ -- 49
+width$ -- 30
+write$ -- 364
+(There were 46 warnings)
