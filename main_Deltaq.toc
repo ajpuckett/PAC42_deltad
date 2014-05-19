@@ -34,9 +34,9 @@
 \contentsline {paragraph}{}{24}{figure.3.7}
 \contentsline {subsection}{\numberline {3.3.4}Event Rates}{24}{subsection.3.3.4}
 \contentsline {paragraph}{}{25}{table.3.2}
-\contentsline {subsection}{\numberline {3.3.5}Projected Statistical Uncertainties in $A_{1h}^n$}{25}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.5}Projected Statistical Uncertainties in $A_{1h}^n(x,z)$}{25}{subsection.3.3.5}
 \contentsline {paragraph}{}{25}{section*.15}
 \contentsline {subsection}{\numberline {3.3.6}Comparison to Existing Data}{27}{subsection.3.3.6}
 \contentsline {subsection}{\numberline {3.3.7}Comparison to Other Approved Experiments}{27}{subsection.3.3.7}
 \contentsline {chapter}{Acknowledgments}{27}{subsection.3.3.7}
-\contentsline {chapter}{References}{29}{section*.16}
+\contentsline {chapter}{References}{30}{section*.16}
