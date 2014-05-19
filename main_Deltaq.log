@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAY 2014 13:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAY 2014 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -441,19 +441,18 @@ tifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.232 \end{abstract}
-                     [1] (./main_Deltaq.tocpdfTeX warning (ext4): destination w
-ith the same identifier (name{page.1}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.37 ... in $A_{1h}^n(x,z)$}{25}{subsection.3.3.5}
-                                                   [1
-
-])
+                     [1] (./main_Deltaq.toc)
 \tf@toc=\write4
 \openout4 = `main_Deltaq.toc'.
 
- [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.246 \chapter
+              {Executive Summary} [1
+
+]
 Chapter 1.
 (./files_tex/executive_summary.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
@@ -470,22 +469,17 @@ been already used, duplicate ignored
 l.28 
       [1
 
-])pdfTeX warning (ext4): destination with the same identifier (name{page.2}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.252 \chapter
-              {Introduction and Physics Motivation} [2]
+]) [2]
 Chapter 2.
 (./files_tex/introduction.tex
-<figs_xj/STAR-WAL_2012.pdf, id=255, 569.12625pt x 655.44875pt>
+<figs_xj/STAR-WAL_2012.pdf, id=201, 569.12625pt x 655.44875pt>
 File: figs_xj/STAR-WAL_2012.pdf Graphic file (type pdf)
 
 <use figs_xj/STAR-WAL_2012.pdf>
 Package pdftex.def Info: figs_xj/STAR-WAL_2012.pdf used on input line 34.
 (pdftex.def)             Requested size: 234.87749pt x 270.50595pt.
 
-<figs_xj/BBS2008_STAR_Wpreliminary.pdf, id=256, 388.45125pt x 485.815pt>
+<figs_xj/BBS2008_STAR_Wpreliminary.pdf, id=202, 388.45125pt x 485.815pt>
 File: figs_xj/BBS2008_STAR_Wpreliminary.pdf Graphic file (type pdf)
 
 <use figs_xj/BBS2008_STAR_Wpreliminary.pdf>
@@ -497,14 +491,14 @@ ne 35.
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 36.
 
-<figs_xj/BBS_deltaqoq.pdf, id=257, 614.295pt x 794.97pt>
+<figs_xj/BBS_deltaqoq.pdf, id=203, 614.295pt x 794.97pt>
 File: figs_xj/BBS_deltaqoq.pdf Graphic file (type pdf)
 
 <use figs_xj/BBS_deltaqoq.pdf>
 Package pdftex.def Info: figs_xj/BBS_deltaqoq.pdf used on input line 42.
 (pdftex.def)             Requested size: 230.18251pt x 297.88254pt.
 
-<figs_xj/BBS_deltaqbaroqbar.pdf, id=258, 614.295pt x 794.97pt>
+<figs_xj/BBS_deltaqbaroqbar.pdf, id=204, 614.295pt x 794.97pt>
 File: figs_xj/BBS_deltaqbaroqbar.pdf Graphic file (type pdf)
 
 <use figs_xj/BBS_deltaqbaroqbar.pdf>
@@ -885,25 +879,20 @@ LaTeX Warning: Citation `jcpengpol' on page 13 undefined on input line 750.
 ) [13] [14]
 Chapter 3.
 (./files_tex/ExperimentDescription.tex
-
-Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 3.
-
-
 Overfull \hbox (5.68095pt too wide) in paragraph at lines 7--20
  [] 
  []
 
 [15
 
-] <figures/thqxfig.pdf, id=403, 569.12625pt x 410.53375pt>
+] <figures/thqxfig.pdf, id=350, 569.12625pt x 410.53375pt>
 File: figures/thqxfig.pdf Graphic file (type pdf)
 
 <use figures/thqxfig.pdf>
 Package pdftex.def Info: figures/thqxfig.pdf used on input line 31.
 (pdftex.def)             Requested size: 225.48038pt x 162.65079pt.
 
-<figures/Q2xfig.pdf, id=404, 569.12625pt x 410.53375pt>
+<figures/Q2xfig.pdf, id=351, 569.12625pt x 410.53375pt>
 File: figures/Q2xfig.pdf Graphic file (type pdf)
 
 <use figures/Q2xfig.pdf>
@@ -911,11 +900,7 @@ Package pdftex.def Info: figures/Q2xfig.pdf used on input line 32.
 (pdftex.def)             Requested size: 225.48038pt x 162.65079pt.
  [16 <./figures/thqxfig.pdf, page is rotated 90 degrees> <./figures/Q2xfig.pdf,
  page is rotated 90 degrees>]
-
-Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 39.
-
-<figures/SIDIS_layout.pdf, id=499, 710.655pt x 481.8pt>
+<figures/SIDIS_layout.pdf, id=445, 710.655pt x 481.8pt>
 File: figures/SIDIS_layout.pdf Graphic file (type pdf)
 
 <use figures/SIDIS_layout.pdf>
@@ -934,27 +919,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 49.
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 51.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 54.
-
-[18]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 59.
-
-[19] <figures/thetaC_vs_p.png, id=567, 1094.0875pt x 1110.1475pt>
+[18] [19] <figures/thetaC_vs_p.png, id=514, 1094.0875pt x 1110.1475pt>
 File: figures/thetaC_vs_p.png Graphic file (type png)
 
 <use figures/thetaC_vs_p.png>
 Package pdftex.def Info: figures/thetaC_vs_p.png used on input line 75.
 (pdftex.def)             Requested size: 155.02pt x 157.28293pt.
 
-<figures/RICH_schematic.png, id=568, 1033.8625pt x 632.3625pt>
+<figures/RICH_schematic.png, id=515, 1033.8625pt x 632.3625pt>
 File: figures/RICH_schematic.png Graphic file (type png)
 
 <use figures/RICH_schematic.png>
@@ -964,14 +936,14 @@ Package pdftex.def Info: figures/RICH_schematic.png used on input line 76.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/RICH_5GEV_pion.png, id=572, 1953.2975pt x 908.39375pt>
+<figures/RICH_5GEV_pion.png, id=519, 1953.2975pt x 908.39375pt>
 File: figures/RICH_5GEV_pion.png Graphic file (type png)
 
 <use figures/RICH_5GEV_pion.png>
 Package pdftex.def Info: figures/RICH_5GEV_pion.png used on input line 86.
 (pdftex.def)             Requested size: 225.48038pt x 104.85812pt.
 
-<figures/RICH_5GEV_kaon.png, id=573, 1953.2975pt x 908.39375pt>
+<figures/RICH_5GEV_kaon.png, id=520, 1953.2975pt x 908.39375pt>
 File: figures/RICH_5GEV_kaon.png Graphic file (type png)
 
 <use figures/RICH_5GEV_kaon.png>
@@ -981,7 +953,7 @@ Package pdftex.def Info: figures/RICH_5GEV_kaon.png used on input line 87.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20] <figures/SBS_PIDfig.pdf, id=588, 569.12625pt x 182.6825pt>
+[20] <figures/SBS_PIDfig.pdf, id=534, 569.12625pt x 182.6825pt>
 File: figures/SBS_PIDfig.pdf Graphic file (type pdf)
 
 <use figures/SBS_PIDfig.pdf>
@@ -993,37 +965,28 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [21 <./figures/thetaC_vs_p.png> <./figures/RICH_schematic.png> <./figures/RICH_
 5GEV_pion.png> <./figures/RICH_5GEV_kaon.png>]
-<figures/SIDISlayout14deg.png, id=599, 1953.2975pt x 908.39375pt>
+<figures/SIDISlayout14deg.png, id=546, 1953.2975pt x 908.39375pt>
 File: figures/SIDISlayout14deg.png Graphic file (type png)
 
 <use figures/SIDISlayout14deg.png>
 Package pdftex.def Info: figures/SIDISlayout14deg.png used on input line 105.
 (pdftex.def)             Requested size: 225.48038pt x 104.85812pt.
 
-<figures/SIDISlayout10deg.png, id=600, 1953.2975pt x 908.39375pt>
+<figures/SIDISlayout10deg.png, id=547, 1953.2975pt x 908.39375pt>
 File: figures/SIDISlayout10deg.png Graphic file (type png)
 
 <use figures/SIDISlayout10deg.png>
 Package pdftex.def Info: figures/SIDISlayout10deg.png used on input line 106.
 (pdftex.def)             Requested size: 225.48038pt x 104.85812pt.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 111.
-
-[22 <./figures/SBS_PIDfig.pdf, page is rotated 90 degrees> <./figures/SIDISlayo
-ut14deg.png> <./figures/SIDISlayout10deg.png>]
+ [22 <./figures/SBS_PIDfig.pdf, page is rotated 90 degrees> <./figures/SIDISlay
+out14deg.png> <./figures/SIDISlayout10deg.png>]
 Overfull \hbox (5.35687pt too wide) in paragraph at lines 116--117
 []$\OML/cmm/m/it/10.95 P[] \OMS/cmsy/m/n/10.95 ^^U \OT1/cmr/m/n/10.95 2$ GeV: M
 in-i-mum hadron mo-men-tum to min-i-mize ef-fects of nu-clear final-state-inter
 actions
  []
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 121.
-
-[23] <figures/kine14deg10deg_comparison.pdf, id=667, 569.12625pt x 275.0275pt>
+[23] <figures/kine14deg10deg_comparison.pdf, id=613, 569.12625pt x 275.0275pt>
 File: figures/kine14deg10deg_comparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_comparison.pdf>
@@ -1034,11 +997,7 @@ ne 147.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 151.
-
-<figures/kine14deg10deg_2Dcomparison.pdf, id=669, 569.12625pt x 417.56pt>
+<figures/kine14deg10deg_2Dcomparison.pdf, id=615, 569.12625pt x 417.56pt>
 File: figures/kine14deg10deg_2Dcomparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_2Dcomparison.pdf>
@@ -1051,10 +1010,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 178.
 
 [24]
 
@@ -1073,47 +1028,103 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 180.
 
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 182.
-
 [25 <./figures/kine14deg10deg_comparison.pdf, page is rotated 90 degrees>]
 [26 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
-<figures/A1n_vs_x_E11_pip.pdf, id=794, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_pip.pdf, id=739, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_pip.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_pip.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_pip.pdf used on input line 203.
+Package pdftex.def Info: figures/A1n_vs_x_E11_pip.pdf used on input line 204.
 (pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E11_pim.pdf, id=797, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_pim.pdf, id=742, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_pim.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_pim.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_pim.pdf used on input line 210.
+Package pdftex.def Info: figures/A1n_vs_x_E11_pim.pdf used on input line 211.
 (pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E11_kp.pdf, id=800, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_kp.pdf, id=745, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_kp.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_kp.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_kp.pdf used on input line 218.
+Package pdftex.def Info: figures/A1n_vs_x_E11_kp.pdf used on input line 219.
 (pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E11_km.pdf, id=803, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_km.pdf, id=748, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_km.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_km.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_km.pdf used on input line 225.
+Package pdftex.def Info: figures/A1n_vs_x_E11_km.pdf used on input line 226.
+(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E11_pi0.pdf, id=751, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E11_pi0.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E11_pi0.pdf>
+Package pdftex.def Info: figures/A1n_vs_x_E11_pi0.pdf used on input line 233.
+(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_pip.pdf, id=758, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_pip.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_pip.pdf>
+Package pdftex.def Info: figures/A1n_vs_x_E88_pip.pdf used on input line 241.
+(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_pim.pdf, id=761, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_pim.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_pim.pdf>
+Package pdftex.def Info: figures/A1n_vs_x_E88_pim.pdf used on input line 248.
+(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_kp.pdf, id=764, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_kp.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_kp.pdf>
+Package pdftex.def Info: figures/A1n_vs_x_E88_kp.pdf used on input line 256.
+(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_km.pdf, id=767, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_km.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_km.pdf>
+Package pdftex.def Info: figures/A1n_vs_x_E88_km.pdf used on input line 263.
+(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_pi0.pdf, id=770, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_pi0.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_pi0.pdf>
+Package pdftex.def Info: figures/A1n_vs_x_E88_pi0.pdf used on input line 270.
 (pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
 
 
@@ -1122,7 +1133,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ) [27] [28 <./figures/A1n_vs_x_E11_pip.pdf, page is rotated 90 degrees> <./figu
 res/A1n_vs_x_E11_pim.pdf, page is rotated 90 degrees>] [29 <./figures/A1n_vs_x_
 E11_kp.pdf, page is rotated 90 degrees> <./figures/A1n_vs_x_E11_km.pdf, page is
- rotated 90 degrees>] (./main_Deltaq.bbl
+ rotated 90 degrees>] [30 <./figures/A1n_vs_x_E11_pi0.pdf, page is rotated 90 d
+egrees> <./figures/A1n_vs_x_E88_pip.pdf, page is rotated 90 degrees>] [31 <./fi
+gures/A1n_vs_x_E88_pim.pdf, page is rotated 90 degrees> <./figures/A1n_vs_x_E88
+_kp.pdf, page is rotated 90 degrees>] [32 <./figures/A1n_vs_x_E88_km.pdf, page 
+is rotated 90 degrees> <./figures/A1n_vs_x_E88_pi0.pdf, page is rotated 90 degr
+ees>] (./main_Deltaq.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -1152,7 +1168,7 @@ Underfull \hbox (badness 1231) in paragraph at lines 51--60
 ted Equip-ment\OT1/cmr/m/n/10.95 , 686(0):20 -- 30, 2012.
  []
 
-[30
+[33
 
 
 ]
@@ -1211,7 +1227,7 @@ Underfull \hbox (badness 2478) in paragraph at lines 156--165
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
-[31]
+[34]
 Underfull \hbox (badness 1024) in paragraph at lines 214--221
 \OT1/cmr/m/n/10.95 flavor de-com-po-si-tion in the va-lence quark re-gion.  \OT
 1/cmr/m/it/10.95 Phys. Rev. Lett.\OT1/cmr/m/n/10.95 , 92:012004, Jan
@@ -1235,13 +1251,13 @@ Underfull \hbox (badness 6995) in paragraph at lines 223--229
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
- [32]
+ [35]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
  (./main_Deltaq.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
 Package rerunfilecheck Info: File `main_Deltaq.out' has not changed.
-(rerunfilecheck)             Checksum: C0C44A659E4DEAF10C0624DA6051EB4A;3186.
+(rerunfilecheck)             Checksum: DF1DBEDD1CF1440A695F9E28F3E455E3;2662.
 
 
 LaTeX Warning: There were undefined references.
@@ -1249,10 +1265,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
  ) 
 Here is how much of TeX's memory you used:
- 7297 strings out of 493315
- 104606 string characters out of 6137904
- 209011 words of memory out of 5000000
- 10455 multiletter control sequences out of 15000+600000
+ 7322 strings out of 493315
+ 105445 string characters out of 6137904
+ 210452 words of memory out of 5000000
+ 10475 multiletter control sequences out of 15000+600000
  19614 words of font info for 74 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  29i,12n,38p,2315b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1279,10 +1295,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf
 ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2013/texmf-dis
 t/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main_Deltaq.pdf (37 pages, 1496575 bytes).
+Output written on main_Deltaq.pdf (39 pages, 1603875 bytes).
 PDF statistics:
- 1183 PDF objects out of 1200 (max. 8388607)
- 849 compressed objects within 9 object streams
- 152 named destinations out of 1000 (max. 500000)
- 437 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1429 PDF objects out of 1440 (max. 8388607)
+ 930 compressed objects within 10 object streams
+ 151 named destinations out of 1000 (max. 500000)
+ 387 words of extra memory for PDF output out of 10000 (max. 10000000)
 
