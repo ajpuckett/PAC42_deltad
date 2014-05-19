@@ -18,12 +18,12 @@
 \contentsline {paragraph}{}{15}{section*.6}
 \contentsline {section}{\numberline {3.2}Experiment Apparatus}{17}{section.3.2}
 \contentsline {paragraph}{}{17}{section*.7}
-\contentsline {subsection}{\numberline {3.2.1}High-Luminosity Polarized $^3$He Target}{17}{subsection.3.2.1}
-\contentsline {paragraph}{}{17}{section*.8}
+\contentsline {subsection}{\numberline {3.2.1}High-Luminosity Polarized $^3$He Target}{18}{subsection.3.2.1}
+\contentsline {paragraph}{}{18}{section*.8}
 \contentsline {subsection}{\numberline {3.2.2}BigBite Spectrometer}{18}{subsection.3.2.2}
 \contentsline {paragraph}{}{18}{section*.9}
-\contentsline {subsection}{\numberline {3.2.3}Super BigBite Spectrometer}{18}{subsection.3.2.3}
-\contentsline {paragraph}{}{18}{section*.10}
+\contentsline {subsection}{\numberline {3.2.3}Super BigBite Spectrometer}{19}{subsection.3.2.3}
+\contentsline {paragraph}{}{19}{section*.10}
 \contentsline {subsection}{\numberline {3.2.4}Ring-Imaging Cherenkov detector for SBS}{20}{subsection.3.2.4}
 \contentsline {section}{\numberline {3.3}Experiment Plan and Expected Results}{22}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Monte Carlo Simulation}{22}{subsection.3.3.1}
@@ -31,12 +31,12 @@
 \contentsline {subsection}{\numberline {3.3.2}SIDIS Cross Section Model}{23}{subsection.3.3.2}
 \contentsline {paragraph}{}{23}{section*.12}
 \contentsline {subsection}{\numberline {3.3.3}SIDIS Kinematic Coverage}{24}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Event Rates and Projected Statistical Uncertainties}{25}{subsection.3.3.4}
-\contentsline {subsubsection}{Event rates and projected statistics}{25}{section*.13}
-\contentsline {subsubsection}{Extraction of Neutron Asymmetries from $^3$He}{25}{section*.14}
+\contentsline {paragraph}{}{24}{figure.3.7}
+\contentsline {subsection}{\numberline {3.3.4}Event Rates}{24}{subsection.3.3.4}
+\contentsline {paragraph}{}{25}{table.3.2}
 \contentsline {subsubsection}{Extraction of Virtual Photon Asymmetry $A_1^n$ from $A_{LL}$}{25}{section*.15}
 \contentsline {subsubsection}{Projected Statistical Uncertainties}{25}{section*.16}
 \contentsline {subsection}{\numberline {3.3.5}Comparison to Existing Data}{25}{subsection.3.3.5}
 \contentsline {subsection}{\numberline {3.3.6}Comparison to Other Approved Experiments}{25}{subsection.3.3.6}
 \contentsline {chapter}{Acknowledgments}{25}{subsection.3.3.6}
-\contentsline {chapter}{References}{27}{section*.17}
+\contentsline {chapter}{References}{28}{section*.17}

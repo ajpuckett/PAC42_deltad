@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.24)  18 MAY 2014 14:02
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.24)  18 MAY 2014 23:07
 entering extended mode
  %&-line parsing enabled.
 **main_Deltaq.tex
@@ -515,10 +515,6 @@ LaTeX Warning: Citation `PhysRevLett.101.072001' on page 6 undefined on input l
 ine 126.
 
 
-LaTeX Warning: Citation `deFlorian:2014yva' on page 6 undefined on input line 1
-29.
-
-
 LaTeX Warning: Citation `epjcxj2006' on page 6 undefined on input line 134.
 
 
@@ -857,11 +853,11 @@ Overfull \hbox (5.68095pt too wide) in paragraph at lines 7--20
 
 [15
 
-] <figures/thqxfig.pdf, id=398, 569.12625pt x 410.53375pt>
+] <figures/thqxfig.pdf, id=400, 569.12625pt x 410.53375pt>
 File: figures/thqxfig.pdf Graphic file (type pdf)
 
 <use figures/thqxfig.pdf>
-<figures/Q2xfig.pdf, id=399, 569.12625pt x 410.53375pt>
+<figures/Q2xfig.pdf, id=401, 569.12625pt x 410.53375pt>
 File: figures/Q2xfig.pdf Graphic file (type pdf)
 
 <use figures/Q2xfig.pdf> [16 <./figures/thqxfig.pdf, page is rotated 90 degrees
@@ -870,76 +866,81 @@ File: figures/Q2xfig.pdf Graphic file (type pdf)
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 39.
 
-<figures/SIDIS_layout.pdf, id=493, 710.655pt x 481.8pt>
+<figures/SIDIS_layout.pdf, id=495, 710.655pt x 481.8pt>
 File: figures/SIDIS_layout.pdf Graphic file (type pdf)
 
-<use figures/SIDIS_layout.pdf>
+<use figures/SIDIS_layout.pdf> [17 <./figures/SIDIS_layout.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 47.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 47.
+(hyperref)                removing `math shift' on input line 49.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 47.
+(hyperref)                removing `superscript' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 49.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 49.
-
-[17 <./figures/SIDIS_layout.pdf>]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 52.
+(hyperref)                than one, level fixed on input line 51.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 57.
+(hyperref)                than one, level fixed on input line 54.
 
-[18] [19] <figures/thetaC_vs_p.png, id=561, 1094.0875pt x 1110.1475pt>
+[18]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 59.
+
+[19] <figures/thetaC_vs_p.png, id=563, 1094.0875pt x 1110.1475pt>
 File: figures/thetaC_vs_p.png Graphic file (type png)
 
 <use figures/thetaC_vs_p.png>
-<figures/RICH_schematic.png, id=562, 1033.8625pt x 632.3625pt>
+<figures/RICH_schematic.png, id=564, 1033.8625pt x 632.3625pt>
 File: figures/RICH_schematic.png Graphic file (type png)
 
 <use figures/RICH_schematic.png>
-<figures/RICH_5GEV_pion.png, id=566, 1953.2975pt x 908.39375pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/RICH_5GEV_pion.png, id=568, 1953.2975pt x 908.39375pt>
 File: figures/RICH_5GEV_pion.png Graphic file (type png)
 
 <use figures/RICH_5GEV_pion.png>
-<figures/RICH_5GEV_kaon.png, id=567, 1953.2975pt x 908.39375pt>
+<figures/RICH_5GEV_kaon.png, id=569, 1953.2975pt x 908.39375pt>
 File: figures/RICH_5GEV_kaon.png Graphic file (type png)
 
 <use figures/RICH_5GEV_kaon.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./figures/thetaC_vs_p.png (PNG copy)> <./figures/RICH_schematic.png (PNG c
-opy)>] <figures/SBS_PIDfig.pdf, id=581, 569.12625pt x 182.6825pt>
+[20] <figures/SBS_PIDfig.pdf, id=584, 569.12625pt x 182.6825pt>
 File: figures/SBS_PIDfig.pdf Graphic file (type pdf)
 
-<use figures/SBS_PIDfig.pdf> [21 <./figures/RICH_5GEV_pion.png (PNG copy)> <./f
-igures/RICH_5GEV_kaon.png (PNG copy)> <./figures/SBS_PIDfig.pdf, page is rotate
-d 90 degrees>]
-<figures/SIDISlayout14deg.png, id=636, 1953.2975pt x 908.39375pt>
+<use figures/SBS_PIDfig.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21 <./figures/thetaC_vs_p.png (PNG copy)> <./figures/RICH_schematic.png (PNG c
+opy)> <./figures/RICH_5GEV_pion.png (PNG copy)> <./figures/RICH_5GEV_kaon.png (
+PNG copy)>] <figures/SIDISlayout14deg.png, id=595, 1953.2975pt x 908.39375pt>
 File: figures/SIDISlayout14deg.png Graphic file (type png)
 
 <use figures/SIDISlayout14deg.png>
-<figures/SIDISlayout10deg.png, id=637, 1953.2975pt x 908.39375pt>
+<figures/SIDISlayout10deg.png, id=596, 1953.2975pt x 908.39375pt>
 File: figures/SIDISlayout10deg.png Graphic file (type png)
 
 <use figures/SIDISlayout10deg.png>
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 109.
+(hyperref)                than one, level fixed on input line 111.
 
-[22 <./figures/SIDISlayout14deg.png (PNG copy)> <./figures/SIDISlayout10deg.png
- (PNG copy)>]
-Overfull \hbox (5.35687pt too wide) in paragraph at lines 114--115
+[22 <./figures/SBS_PIDfig.pdf, page is rotated 90 degrees> <./figures/SIDISlayo
+ut14deg.png (PNG copy)> <./figures/SIDISlayout10deg.png (PNG copy)>]
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 116--117
 []$\OML/cmm/m/it/10.95 P[] \OMS/cmsy/m/n/10.95 ^^U \OT1/cmr/m/n/10.95 2$ GeV: M
 in-i-mum hadron mo-men-tum to min-i-mize ef-fects of nu-clear final-state-inter
 actions
@@ -947,13 +948,20 @@ actions
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 120.
+(hyperref)                than one, level fixed on input line 121.
 
-[23] <figures/kine14deg10deg_comparison.pdf, id=661, 569.12625pt x 275.0275pt>
+[23] <figures/kine14deg10deg_comparison.pdf, id=662, 569.12625pt x 275.0275pt>
 File: figures/kine14deg10deg_comparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_comparison.pdf>
-<figures/kine14deg10deg_2Dcomparison.pdf, id=663, 569.12625pt x 417.56pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 151.
+
+<figures/kine14deg10deg_2Dcomparison.pdf, id=664, 569.12625pt x 417.56pt>
 File: figures/kine14deg10deg_2Dcomparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_2Dcomparison.pdf>
@@ -961,61 +969,57 @@ File: figures/kine14deg10deg_2Dcomparison.pdf Graphic file (type pdf)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 161.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 161.
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 178.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 161.
-
+[24]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 162.
+(hyperref)                removing `math shift' on input line 180.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 162.
+(hyperref)                removing `subscript' on input line 180.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 162.
+(hyperref)                removing `superscript' on input line 180.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 162.
+(hyperref)                removing `math shift' on input line 180.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 162.
+(hyperref)                removing `math shift' on input line 180.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 162.
+(hyperref)                removing `subscript' on input line 180.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 162.
+(hyperref)                removing `math shift' on input line 180.
 
-<figures/A1n_vs_x_E11_pip.pdf, id=665, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_pip.pdf, id=678, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_pip.pdf Graphic file (type pdf)
 
-<use figures/A1n_vs_x_E11_pip.pdf> [24 <./figures/kine14deg10deg_comparison.pdf
-, page is rotated 90 degrees>]
+<use figures/A1n_vs_x_E11_pip.pdf>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [25 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
-[26 <./figures/A1n_vs_x_E11_pip.pdf, page is rotated 90 degrees>]
+) [25 <./figures/kine14deg10deg_comparison.pdf, page is rotated 90 degrees>]
+[26 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
+[27 <./figures/A1n_vs_x_E11_pip.pdf, page is rotated 90 degrees>]
 (./main_Deltaq.bbl
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-Underfull \hbox (badness 5345) in paragraph at lines 21--30
+Underfull \hbox (badness 5345) in paragraph at lines 27--36
 []\OT1/cmr/m/n/10.95 D.J.J.de Lange et al.  The op-ti-cal prop-er-ties of the b
 ig-bite spec-trom-e-ter at
  []
@@ -1023,24 +1027,24 @@ ig-bite spec-trom-e-ter at
 Missing character: There is no ƒ in font cmr10!
 Missing character: There is no ç in font cmr10!
 
-Underfull \hbox (badness 1721) in paragraph at lines 45--54
+Underfull \hbox (badness 1721) in paragraph at lines 51--60
 []\OT1/cmr/m/n/10.95 M. Mi-hovilovi et al.  Meth-ods for op-ti-cal cal-i-bra-ti
 on of the big-bite hadron spec-
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 45--54
+Underfull \hbox (badness 2865) in paragraph at lines 51--60
 \OT1/cmr/m/n/10.95 trom-e-ter.  \OT1/cmr/m/it/10.95 Nu-clear In-stru-ments and 
 Meth-ods in Physics Re-search Sec-tion A: Ac-
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 45--54
+Underfull \hbox (badness 1231) in paragraph at lines 51--60
 \OT1/cmr/m/it/10.95 cel-er-a-tors, Spec-trom-e-ters, De-tec-tors and As-so-ci-a
 ted Equip-ment\OT1/cmr/m/n/10.95 , 686(0):20 -- 30, 2012.
  []
 
-[27
+[28
 
 
 ]
@@ -1048,19 +1052,19 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-Underfull \hbox (badness 1259) in paragraph at lines 112--121
+Underfull \hbox (badness 1259) in paragraph at lines 118--127
 []\OT1/cmr/m/n/10.95 F. Sauli.  Gem: A new con-cept for elec-tron am-pli-fi-ca-
 tion in gas de-tec-tors.  \OT1/cmr/m/it/10.95 Nu-
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 112--121
+Underfull \hbox (badness 1521) in paragraph at lines 118--127
 \OT1/cmr/m/it/10.95 e-ters, De-tec-tors and As-so-ci-ated Equip-ment\OT1/cmr/m/
 n/10.95 , 386(23):531 -- 534, 1997.  URL: []$\OT1/cmtt/m/n/10.95 http :
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 112--121
+Underfull \hbox (badness 6995) in paragraph at lines 118--127
 \OT1/cmtt/m/n/10.95 / / www . sciencedirect . com / science / article / pii / S
 0168900296011722$[]\OT1/cmr/m/n/10.95 , []$\OT1/cmtt/m/n/10.95 doi : http : / /
  dx .
@@ -1078,20 +1082,20 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-Underfull \hbox (badness 3557) in paragraph at lines 150--159
+Underfull \hbox (badness 3557) in paragraph at lines 156--165
 []\OT1/cmr/m/n/10.95 N Akopov et al.  The \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.
 95 HERMES\OMS/cmsy/m/n/10.95 g \OT1/cmr/m/n/10.95 dual-radiator ring imag-ing c
 herenkov de-tec-
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 150--159
+Underfull \hbox (badness 3000) in paragraph at lines 156--165
 \OT1/cmr/m/n/10.95 tor.  \OT1/cmr/m/it/10.95 Nu-clear In-stru-ments and Meth-od
 s in Physics Re-search Sec-tion A: Ac-cel-er-a-
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 150--159
+Underfull \hbox (badness 2478) in paragraph at lines 156--165
 \OT1/cmr/m/it/10.95 tors, Spec-trom-e-ters, De-tec-tors and As-so-ci-ated Equip
 -ment\OT1/cmr/m/n/10.95 , 479(23):511 -- 530, 2002.
  []
@@ -1099,19 +1103,19 @@ Underfull \hbox (badness 2478) in paragraph at lines 150--159
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
-[28]) [29] (./main_Deltaq.aux)
+[29]) [30] (./main_Deltaq.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6318 strings out of 495061
- 87673 string characters out of 1182620
- 179424 words of memory out of 3000000
- 9206 multiletter control sequences out of 15000+50000
+ 6323 strings out of 495061
+ 87730 string characters out of 1182620
+ 180030 words of memory out of 3000000
+ 9207 multiletter control sequences out of 15000+50000
  19614 words of font info for 74 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,12n,40p,1865b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,12n,40p,2303b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-texlive/fonts/
@@ -1132,9 +1136,9 @@ nts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf
 -texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main_Deltaq.pdf (34 pages, 1625253 bytes).
+Output written on main_Deltaq.pdf (35 pages, 1631563 bytes).
 PDF statistics:
- 979 PDF objects out of 1000 (max. 8388607)
- 136 named destinations out of 1000 (max. 500000)
+ 993 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
  422 words of extra memory for PDF output out of 10000 (max. 10000000)
 

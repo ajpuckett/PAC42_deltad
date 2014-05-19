@@ -12,7 +12,6 @@ Warning--I didn't find a database entry for "jimayuan04_2"
 Warning--I didn't find a database entry for "rolf"
 Warning--I didn't find a database entry for "leader2"
 Warning--I didn't find a database entry for "PhysRevLett.101.072001"
-Warning--I didn't find a database entry for "deFlorian:2014yva"
 Warning--I didn't find a database entry for "epjcxj2006"
 Warning--I didn't find a database entry for "sassotnlo"
 Warning--I didn't find a database entry for "xiaochao"
@@ -45,45 +44,46 @@ Warning--I didn't find a database entry for "dorokhov"
 Warning--I didn't find a database entry for "bbs"
 Warning--I didn't find a database entry for "bhalerao"
 Warning--empty journal in Adamczyk:2014xyw
-You've used 21 entries,
+Warning--empty journal in deFlorian:2014yva
+You've used 22 entries,
             2522 wiz_defined-function locations,
-            790 strings with 10645 characters,
-and the built_in function-call counts, 7736 in all, are:
-= -- 769
-> -- 318
+            792 strings with 10705 characters,
+and the built_in function-call counts, 8026 in all, are:
+= -- 793
+> -- 334
 < -- 0
-+ -- 101
-- -- 80
-* -- 516
-:= -- 1086
-add.period$ -- 79
-call.type$ -- 21
-change.case$ -- 21
++ -- 106
+- -- 84
+* -- 532
+:= -- 1127
+add.period$ -- 83
+call.type$ -- 22
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 185
-empty$ -- 789
-format.name$ -- 80
-if$ -- 2109
+cite$ -- 24
+duplicate$ -- 193
+empty$ -- 817
+format.name$ -- 84
+if$ -- 2188
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 16
-newline$ -- 125
-num.names$ -- 21
-pop$ -- 99
+int.to.str$ -- 22
+missing$ -- 17
+newline$ -- 131
+num.names$ -- 22
+pop$ -- 107
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 575
+skip$ -- 599
 stack$ -- 0
 substring$ -- 315
-swap$ -- 53
+swap$ -- 55
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 36
-width$ -- 23
-write$ -- 273
+warning$ -- 2
+while$ -- 37
+width$ -- 24
+write$ -- 284
 (There were 43 warnings)
