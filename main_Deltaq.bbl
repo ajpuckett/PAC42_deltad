@@ -75,8 +75,8 @@ G.~Cates, E.~Cisbani, G.~Franklin, A.~Puckett, B.~Wojtsekhowski, et~al.
   Electroproduction on a Transversely Polarized $^3$He Target using Super
   BigBite and BigBite in Hall A}.
 \newblock
-  \url{http://www.jlab.org/exp_prog/PACpage/PAC38/proposals/Conditionally\%20A%
-pproved/C12-09-018_Update.pdf}, 2011.
+  \url{http://www.jlab.org/exp_prog/PACpage/PAC38/proposals/Conditionally\%20Approved/C12-09-018_Update.pdf},
+  2011.
 
 \bibitem{Helium3_target}
 P.A.M. Dolph, J.~Singh, T.~Averett, A.~Kelleher, K.E. Mooney, et~al.
@@ -202,5 +202,29 @@ M.~Anselmino, M.~Boglione, U.~D'Alesio, A.~Kotzinian, F.~Murgia, and
 \newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevD.71.074006}, \href
   {http://dx.doi.org/10.1103/PhysRevD.71.074006}
   {\path{doi:10.1103/PhysRevD.71.074006}}.
+
+\bibitem{E06010_ALT_PRL}
+J.~Huang et~al.
+\newblock {\em Phys.Rev.Lett.}, 108:052001, 2012.
+\newblock \href {http://arxiv.org/abs/1108.0489} {\path{arXiv:1108.0489}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.108.052001}
+  {\path{doi:10.1103/PhysRevLett.108.052001}}.
+
+\bibitem{A1N_PRL}
+X.~Zheng et~al.
+\newblock Precision measurement of the neutron spin asymmetrya1n and
+  spin-flavor decomposition in the valence quark region.
+\newblock {\em Phys. Rev. Lett.}, 92:012004, Jan 2004.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.92.012004},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.92.012004}
+  {\path{doi:10.1103/PhysRevLett.92.012004}}.
+
+\bibitem{SLAC_R1998}
+K.~Abe et~al.
+\newblock {\em Physics Letters B}, 452(1–2):194 -- 200, 1999.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0370269399002440},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/S0370-2693(99)00244-0}
+  {\path{doi:http://dx.doi.org/10.1016/S0370-2693(99)00244-0}}.
 
 \end{thebibliography}
