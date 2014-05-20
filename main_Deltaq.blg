@@ -1,11 +1,11 @@
-This is BibTeX, Version 0.99c (Web2C 7.5.4)
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main_Deltaq.aux
-Case mismatch error between cite keys dssv2008 and DSSV2008
----line 237 of file main_Deltaq.aux
- : \citation{dssv2008
- :                   }
-I'm skipping whatever remains of this command
 The style file: unsrturl.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main_Deltaq.bib
 Warning--I didn't find a database entry for "Frankfurt"
 Warning--I didn't find a database entry for "PhysRevLett.101.072001"
@@ -87,4 +87,4 @@ warning$ -- 4
 while$ -- 77
 width$ -- 44
 write$ -- 560
-(There was 1 error message)
+(There were 39 warnings)
