@@ -2,6 +2,69 @@
   \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
 \begin{thebibliography}{10}
 
+\bibitem{Blumlein:2010rn}
+Johannes Blumlein and Helmut Bottcher.
+\newblock {QCD Analysis of Polarized Deep Inelastic Scattering Data}.
+\newblock {\em Nucl.Phys.}, B841:205--230, 2010.
+\newblock \href {http://arxiv.org/abs/1005.3113} {\path{arXiv:1005.3113}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysb.2010.08.005}
+  {\path{doi:10.1016/j.nuclphysb.2010.08.005}}.
+
+\bibitem{Adeva:1997qz}
+B.~Adeva et~al.
+\newblock {Polarized quark distributions in the nucleon from semiinclusive spin
+  asymmetries}.
+\newblock {\em Phys.Lett.}, B420:180--190, 1998.
+\newblock \href {http://arxiv.org/abs/hep-ex/9711008}
+  {\path{arXiv:hep-ex/9711008}}, \href
+  {http://dx.doi.org/10.1016/S0370-2693(97)01546-3}
+  {\path{doi:10.1016/S0370-2693(97)01546-3}}.
+
+\bibitem{Airapetian:2004zf}
+A.~Airapetian et~al.
+\newblock {Quark helicity distributions in the nucleon for up, down, and
+  strange quarks from semi-inclusive deep-inelastic scattering}.
+\newblock {\em Phys.Rev.}, D71:012003, 2005.
+\newblock \href {http://arxiv.org/abs/hep-ex/0407032}
+  {\path{arXiv:hep-ex/0407032}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.71.012003}
+  {\path{doi:10.1103/PhysRevD.71.012003}}.
+
+\bibitem{Alekseev:2010ub}
+M.G. Alekseev et~al.
+\newblock {Quark helicity distributions from longitudinal spin asymmetries in
+  muon-proton and muon-deuteron scattering}.
+\newblock {\em Phys.Lett.}, B693:227--235, 2010.
+\newblock \href {http://arxiv.org/abs/1007.4061} {\path{arXiv:1007.4061}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2010.08.034}
+  {\path{doi:10.1016/j.physletb.2010.08.034}}.
+
+\bibitem{Leader:2010rb}
+Elliot Leader, Aleksander~V. Sidorov, and Dimiter~B. Stamenov.
+\newblock {Determination of Polarized PDFs from a QCD Analysis of Inclusive and
+  Semi-inclusive Deep Inelastic Scattering Data}.
+\newblock {\em Phys.Rev.}, D82:114018, 2010.
+\newblock \href {http://arxiv.org/abs/1010.0574} {\path{arXiv:1010.0574}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.82.114018}
+  {\path{doi:10.1103/PhysRevD.82.114018}}.
+
+\bibitem{Hirai:2008aj}
+M.~Hirai and S.~Kumano.
+\newblock {Determination of gluon polarization from deep inelastic scattering
+  and collider data}.
+\newblock {\em Nucl.Phys.}, B813:106--122, 2009.
+\newblock \href {http://arxiv.org/abs/0808.0413} {\path{arXiv:0808.0413}},
+  \href {http://dx.doi.org/10.1016/j.nuclphysb.2008.12.026}
+  {\path{doi:10.1016/j.nuclphysb.2008.12.026}}.
+
+\bibitem{DSSV2008}
+Daniel de~Florian, Rodolfo Sassot, Marco Stratmann, and Werner Vogelsang.
+\newblock Global analysis of helicity parton densities and their uncertainties.
+\newblock {\em Phys. Rev. Lett.}, 101:072001, Aug 2008.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.101.072001},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.101.072001}
+  {\path{doi:10.1103/PhysRevLett.101.072001}}.
+
 \bibitem{Adamczyk:2014xyw}
 L.~Adamczyk et~al.
 \newblock {Measurement of longitudinal spin asymmetries for weak boson
@@ -9,13 +72,83 @@ L.~Adamczyk et~al.
 \newblock 2014.
 \newblock \href {http://arxiv.org/abs/1404.6880} {\path{arXiv:1404.6880}}.
 
-\bibitem{dssv2008}
-Daniel de~Florian, Rodolfo Sassot, Marco Stratmann, and Werner Vogelsang.
-\newblock Global analysis of helicity parton densities and their uncertainties.
-\newblock {\em Phys. Rev. Lett.}, 101:072001, Aug 2008.
-\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.101.072001},
-  \href {http://dx.doi.org/10.1103/PhysRevLett.101.072001}
-  {\path{doi:10.1103/PhysRevLett.101.072001}}.
+\bibitem{Bourrely200739}
+Claude Bourrely, Jacques Soffer, and Franco Buccella.
+\newblock Strangeness asymmetry of the nucleon in the statistical parton model.
+\newblock {\em Physics Letters B}, 648(1):39 -- 45, 2007.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S037026930700295X},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2007.02.063}
+  {\path{doi:http://dx.doi.org/10.1016/j.physletb.2007.02.063}}.
+
+\bibitem{Bourrely2013296}
+Claude Bourrely, Franco Buccella, and Jacques Soffer.
+\newblock bosons production in the quantum statistical parton distributions
+  approach.
+\newblock {\em Physics Letters B}, 726(1Ð3):296 -- 299, 2013.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/S0370269313006849},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/j.physletb.2013.08.045}
+  {\path{doi:http://dx.doi.org/10.1016/j.physletb.2013.08.045}}.
+
+\bibitem{Ji:2004wu}
+Xiang-dong Ji, Jian-ping Ma, and Feng Yuan.
+\newblock {QCD factorization for semi-inclusive deep-inelastic scattering at
+  low transverse momentum}.
+\newblock {\em Phys.Rev.}, D71:034005, 2005.
+\newblock \href {http://arxiv.org/abs/hep-ph/0404183}
+  {\path{arXiv:hep-ph/0404183}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.71.034005}
+  {\path{doi:10.1103/PhysRevD.71.034005}}.
+
+\bibitem{Ji:2004xq}
+Xiang-dong Ji, Jian-Ping Ma, and Feng Yuan.
+\newblock {QCD factorization for spin-dependent cross sections in DIS and
+  Drell-Yan processes at low transverse momentum}.
+\newblock {\em Phys.Lett.}, B597:299--308, 2004.
+\newblock \href {http://arxiv.org/abs/hep-ph/0405085}
+  {\path{arXiv:hep-ph/0405085}}, \href
+  {http://dx.doi.org/10.1016/j.physletb.2004.07.026}
+  {\path{doi:10.1016/j.physletb.2004.07.026}}.
+
+\bibitem{Navasardyan:2006gv}
+T.~Navasardyan, G.S. Adams, A.~Ahmidouch, T.~Angelescu, J.~Arrington, et~al.
+\newblock {The Onset of Quark-Hadron Duality in Pion Electroproduction}.
+\newblock {\em Phys.Rev.Lett.}, 98:022001, 2007.
+\newblock \href {http://arxiv.org/abs/hep-ph/0608214}
+  {\path{arXiv:hep-ph/0608214}}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.98.022001}
+  {\path{doi:10.1103/PhysRevLett.98.022001}}.
+
+\bibitem{Asaturyan:2011mq}
+R.~Asaturyan, R.~Ent, H.~Mkrtchyan, T.~Navasardyan, V.~Tadevosyan, et~al.
+\newblock {Semi-Inclusive Charged-Pion Electroproduction off Protons and
+  Deuterons: Cross Sections, Ratios and Access to the Quark-Parton Model at Low
+  Energies}.
+\newblock {\em Phys.Rev.}, C85:015202, 2012.
+\newblock \href {http://arxiv.org/abs/1103.1649} {\path{arXiv:1103.1649}},
+  \href {http://dx.doi.org/10.1103/PhysRevC.85.015202}
+  {\path{doi:10.1103/PhysRevC.85.015202}}.
+
+\bibitem{Christova:1999he}
+Ekaterina Christova and Elliot Leader.
+\newblock {Semiinclusive pi+- scattering: Tests for independent fragmentation
+  and for polarized quark densities}.
+\newblock {\em Phys.Lett.}, B468:299--303, 1999.
+\newblock \href {http://arxiv.org/abs/hep-ph/9907265}
+  {\path{arXiv:hep-ph/9907265}}, \href
+  {http://dx.doi.org/10.1016/S0370-2693(99)01213-7}
+  {\path{doi:10.1016/S0370-2693(99)01213-7}}.
+
+\bibitem{Christova:2000nz}
+Ekaterina Christova and Elliot Leader.
+\newblock {A Strategy for the analysis of semiinclusive deep inelastic
+  scattering}.
+\newblock {\em Nucl.Phys.}, B607:369--390, 2001.
+\newblock \href {http://arxiv.org/abs/hep-ph/0007303}
+  {\path{arXiv:hep-ph/0007303}}, \href
+  {http://dx.doi.org/10.1016/S0550-3213(01)00244-9}
+  {\path{doi:10.1016/S0550-3213(01)00244-9}}.
 
 \bibitem{BigBiteOptics1998}
 D.J.J.de Lange et~al.
@@ -69,8 +202,8 @@ G.~Cates, E.~Cisbani, G.~Franklin, A.~Puckett, B.~Wojtsekhowski, et~al.
   Electroproduction on a Transversely Polarized $^3$He Target using Super
   BigBite and BigBite in Hall A}.
 \newblock
-  \url{http://www.jlab.org/exp_prog/PACpage/PAC38/proposals/Conditionally\%20Approved/C12-09-018_Update.pdf},
-  2011.
+  \url{http://www.jlab.org/exp_prog/PACpage/PAC38/proposals/Conditionally\%20A%
+pproved/C12-09-018_Update.pdf}, 2011.
 
 \bibitem{Helium3_target}
 P.A.M. Dolph, J.~Singh, T.~Averett, A.~Kelleher, K.E. Mooney, et~al.

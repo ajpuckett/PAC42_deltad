@@ -1,14 +1,24 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAY 2014 17:49
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  20 MAY 2014 01:06
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **main_Deltaq.tex
 (./main_Deltaq.tex
-LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/report.cls
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size11.clo
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,78 +34,71 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
 \Gread@gobject=\count88
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen105
 \epsfysize=\dimen106
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen107
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen108
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count89
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 211.
 \uproot@=\count90
 \leftroot@=\count91
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 307.
 \classnum@=\count92
 \DOTSCASE@=\count93
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen109
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \macc@depth=\count94
 \c@MaxMatrixCols=\count95
 \dotsspace@=\muskip10
@@ -116,20 +119,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen116
 \WF@size=\dimen117
 \c@WF@wrappedlines=\count101
@@ -137,18 +140,18 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \WF@everypar=\toks20
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
@@ -164,14 +167,14 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/makeidx.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 ) (./multicap.sty
 Package: multicap 2002/05/04 v1.0 formatting captions inside multicols
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@mcapsize=\count102
@@ -182,8 +185,8 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \abvmcapskip=\skip46
 \blwmcapskip=\skip47
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \c@tracingmulticols=\count104
 \mult@box=\box32
 \multicol@leftmargin=\dimen118
@@ -228,124 +231,142 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \multicolundershoot=\dimen125
 \mult@nat@firstbox=\box56
 \colbreak@box=\box57
-\multicol@sort@counter=\count112
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty
+(/usr/local/texlive/2010/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen126
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2010/06/18 v6.81g Hypertext links for LaTeX
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
 
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdfescape.sty
+Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
+s (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+))
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
 )
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
 )
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
 )
-(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/12/12 xcolor patch
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/letltxmacro.sty
+Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
 )
 \@linkdim=\dimen127
-\Hy@linkcounter=\count113
-\Hy@pagecounter=\count114
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2010/06/18 v6.81g Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count115
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `linktocpage' set `true' on input line 4319.
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count116
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Option `linktocpage' set `true' on input line 3577.
+Package hyperref Info: Hyper figures OFF on input line 3658.
+Package hyperref Info: Link nesting OFF on input line 3663.
+Package hyperref Info: Hyper index ON on input line 3666.
+Package hyperref Info: Plain pages OFF on input line 3673.
+Package hyperref Info: Backreferencing OFF on input line 3678.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3874.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen128
-\Fld@menulength=\count117
-\Field@Width=\dimen129
-\Fld@charsize=\dimen130
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring OFF on input line 6315.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count118
-\c@Item=\count119
-\c@Hfootnote=\count120
+LaTeX Info: Redefining \url on input line 4159.
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+\Fld@menulength=\count114
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+\Field@toks=\toks21
+Package hyperref Info: Hyper figures OFF on input line 5137.
+Package hyperref Info: Link nesting OFF on input line 5142.
+Package hyperref Info: Hyper index ON on input line 5145.
+Package hyperref Info: backreferencing OFF on input line 5152.
+Package hyperref Info: Link coloring OFF on input line 5157.
+Package hyperref Info: Link coloring with OCG OFF on input line 5162.
+Package hyperref Info: PDF/A mode OFF on input line 5167.
+LaTeX Info: Redefining \ref on input line 5207.
+LaTeX Info: Redefining \pageref on input line 5211.
+
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
 )
+\Hy@abspage=\count115
+\c@Item=\count116
+\c@Hfootnote=\count117
+)
+* hyperref using default driver hpdftex *
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2010/06/18 v6.81g Hyperref driver for pdfTeX
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/atveryend.sty
+Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+)
+\Fld@listcount=\count118
+\c@bookmark@seq@number=\count119
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count121
-\c@bookmark@seq@number=\count122
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/uniquecounter.sty
+Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
+)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
+71.
 )
 \Hy@SectionHShift=\skip50
 )
@@ -367,44 +388,46 @@ LaTeX Font Info:    ... okay on input line 159.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 159.
 LaTeX Font Info:    ... okay on input line 159.
 
-(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
-\scratchdimen=\dimen131
+\scratchcounter=\count120
+\scratchdimen=\dimen130
 \scratchbox=\box58
-\nofMPsegments=\count124
-\nofMParguments=\count125
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count126
-\MPscratchDim=\dimen132
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
-\everyMPtoPDFconversion=\toks22
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen131
+\MPnumerator=\count124
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 436.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box59
 Package hyperref Info: Link coloring OFF on input line 159.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count129
+(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
+)
+\c@section@level=\count125
 )
 LaTeX Info: Redefining \ref on input line 159.
 LaTeX Info: Redefining \pageref on input line 159.
@@ -417,16 +440,16 @@ LaTeX Info: Redefining \nameref on input line 159.
 \GPT@outputbox=\box60
 LaTeX Font Info:    Try loading font information for U+msa on input line 173.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 173.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
@@ -457,7 +480,7 @@ Chapter 1.
 (./files_tex/executive_summary.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
@@ -472,445 +495,392 @@ l.28
 ]) [2]
 Chapter 2.
 (./files_tex/introduction.tex
-<figs_xj/STAR-WAL_2012.pdf, id=201, 569.12625pt x 655.44875pt>
-File: figs_xj/STAR-WAL_2012.pdf Graphic file (type pdf)
 
-<use figs_xj/STAR-WAL_2012.pdf>
-Package pdftex.def Info: figs_xj/STAR-WAL_2012.pdf used on input line 34.
-(pdftex.def)             Requested size: 234.87749pt x 270.50595pt.
-
-<figs_xj/BBS2008_STAR_Wpreliminary.pdf, id=202, 388.45125pt x 485.815pt>
-File: figs_xj/BBS2008_STAR_Wpreliminary.pdf Graphic file (type pdf)
-
-<use figs_xj/BBS2008_STAR_Wpreliminary.pdf>
-Package pdftex.def Info: figs_xj/BBS2008_STAR_Wpreliminary.pdf used on input li
-ne 35.
-(pdftex.def)             Requested size: 220.78542pt x 276.13165pt.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 36.
-
-<figs_xj/BBS_deltaqoq.pdf, id=203, 614.295pt x 794.97pt>
-File: figs_xj/BBS_deltaqoq.pdf Graphic file (type pdf)
-
-<use figs_xj/BBS_deltaqoq.pdf>
-Package pdftex.def Info: figs_xj/BBS_deltaqoq.pdf used on input line 42.
-(pdftex.def)             Requested size: 230.18251pt x 297.88254pt.
-
-<figs_xj/BBS_deltaqbaroqbar.pdf, id=204, 614.295pt x 794.97pt>
-File: figs_xj/BBS_deltaqbaroqbar.pdf Graphic file (type pdf)
-
-<use figs_xj/BBS_deltaqbaroqbar.pdf>
-Package pdftex.def Info: figs_xj/BBS_deltaqbaroqbar.pdf used on input line 43.
-(pdftex.def)             Requested size: 230.18251pt x 297.88254pt.
-
-
-LaTeX Warning: Citation `Frankfurt' on page 3 undefined on input line 55.
-
-
-LaTeX Warning: Citation `hermes2002' on page 3 undefined on input line 66.
-
-
-LaTeX Warning: Citation `hermesthesis' on page 3 undefined on input line 66.
-
-
-LaTeX Warning: Citation `smc1998' on page 3 undefined on input line 77.
-
-
-LaTeX Warning: Citation `compass2007' on page 3 undefined on input line 78.
+LaTeX Warning: Citation `Frankfurt' on page 3 undefined on input line 42.
 
 [3
 
-] [4 <./figs_xj/STAR-WAL_2012.pdf> <./figs_xj/BBS2008_STAR_Wpreliminary.pdf>] [
-5 <./figs_xj/BBS_deltaqoq.pdf> <./figs_xj/BBS_deltaqbaroqbar.pdf>]
+] <figs_xj/pdg_polq2013.pdf, id=217, 569.12625pt x 711.65875pt>
+File: figs_xj/pdg_polq2013.pdf Graphic file (type pdf)
 
-LaTeX Warning: Citation `jimayuan04' on page 6 undefined on input line 87.
+<use figs_xj/pdg_polq2013.pdf>
 
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 65.
 
-LaTeX Warning: Citation `jimayuan04_2' on page 6 undefined on input line 91.
+<figs_xj/hermes_dubar_ddbar2005.pdf, id=230, 572.1375pt x 426.59375pt>
+File: figs_xj/hermes_dubar_ddbar2005.pdf Graphic file (type pdf)
 
+<use figs_xj/hermes_dubar_ddbar2005.pdf>
+<figs_xj/compass_dbar_ubar2010.pdf, id=231, 569.12625pt x 296.10625pt>
+File: figs_xj/compass_dbar_ubar2010.pdf Graphic file (type pdf)
 
-LaTeX Warning: Citation `rolf' on page 6 undefined on input line 92.
+<use figs_xj/compass_dbar_ubar2010.pdf>
+<figs_xj/STAR-WAL_2012.pdf, id=240, 569.12625pt x 655.44875pt>
+File: figs_xj/STAR-WAL_2012.pdf Graphic file (type pdf)
 
+<use figs_xj/STAR-WAL_2012.pdf>
+<figs_xj/BBS2008_STAR_Wpreliminary.pdf, id=241, 388.45125pt x 485.815pt>
+File: figs_xj/BBS2008_STAR_Wpreliminary.pdf Graphic file (type pdf)
 
-LaTeX Warning: Citation `Frankfurt' on page 6 undefined on input line 99.
+<use figs_xj/BBS2008_STAR_Wpreliminary.pdf>
+<figs_xj/BBS_deltaqoq.pdf, id=244, 614.295pt x 794.97pt>
+File: figs_xj/BBS_deltaqoq.pdf Graphic file (type pdf)
 
+<use figs_xj/BBS_deltaqoq.pdf>
+<figs_xj/BBS_deltaqbaroqbar.pdf, id=245, 614.295pt x 794.97pt>
+File: figs_xj/BBS_deltaqbaroqbar.pdf Graphic file (type pdf)
 
-LaTeX Warning: Citation `leader2' on page 6 undefined on input line 99.
+<use figs_xj/BBS_deltaqbaroqbar.pdf>
 
-
-LaTeX Warning: Citation `leader2' on page 6 undefined on input line 106.
+LaTeX Warning: Citation `Frankfurt' on page 4 undefined on input line 126.
 
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 119.
+(amsmath)                 on input line 146.
 
 
-LaTeX Warning: Citation `PhysRevLett.101.072001' on page 6 undefined on input l
-ine 126.
+LaTeX Warning: Citation `PhysRevLett.101.072001' on page 4 undefined on input l
+ine 153.
 
 
-LaTeX Warning: Citation `deFlorian:2014yva' on page 6 undefined on input line 1
-29.
+LaTeX Warning: Citation `deFlorian:2014yva' on page 4 undefined on input line 1
+56.
 
 
-LaTeX Warning: Citation `epjcxj2006' on page 6 undefined on input line 134.
+LaTeX Warning: Citation `epjcxj2006' on page 4 undefined on input line 161.
 
 
-LaTeX Warning: Citation `sassotnlo' on page 6 undefined on input line 139.
+LaTeX Warning: Citation `sassotnlo' on page 4 undefined on input line 166.
 
 
-LaTeX Warning: Citation `epjcxj2006' on page 6 undefined on input line 139.
+LaTeX Warning: Citation `epjcxj2006' on page 4 undefined on input line 166.
+
+[4] [5 <./figs_xj/pdg_polq2013.pdf>] [6 <./figs_xj/hermes_dubar_ddbar2005.pdf> 
+<./figs_xj/compass_dbar_ubar2010.pdf> <./figs_xj/STAR-WAL_2012.pdf> <./figs_xj/
+BBS2008_STAR_Wpreliminary.pdf>] [7 <./figs_xj/BBS_deltaqoq.pdf> <./figs_xj/BBS_
+deltaqbaroqbar.pdf>]
+
+LaTeX Warning: Citation `xiaochao' on page 8 undefined on input line 176.
 
 
-LaTeX Warning: Citation `xiaochao' on page 6 undefined on input line 149.
+LaTeX Warning: Citation `kevin' on page 8 undefined on input line 176.
 
 
-LaTeX Warning: Citation `kevin' on page 6 undefined on input line 149.
-
-[6]
-
-LaTeX Warning: Citation `hermesthesis' on page 7 undefined on input line 201.
-
-[7]
-
-LaTeX Warning: Citation `leader2' on page 8 undefined on input line 253.
-
-
-LaTeX Warning: Citation `sassotnlo' on page 8 undefined on input line 262.
-
-
-LaTeX Warning: Citation `hermes2002' on page 8 undefined on input line 265.
-
-
-LaTeX Warning: Citation `lit:goeke' on page 8 undefined on input line 272.
-
-
-LaTeX Warning: Citation `cao' on page 8 undefined on input line 272.
-
-
-LaTeX Warning: Citation `hermes2002' on page 8 undefined on input line 288.
-
-
-LaTeX Warning: Citation `lit:grsv2000' on page 8 undefined on input line 288.
-
-
-LaTeX Warning: Citation `lit:bbfit' on page 8 undefined on input line 288.
-
-
-LaTeX Warning: Citation `hermes2002' on page 8 undefined on input line 288.
-
-
-LaTeX Warning: Citation `lit:grsv2000' on page 8 undefined on input line 288.
-
-
-LaTeX Warning: Citation `lit:bbfit' on page 8 undefined on input line 288.
-
-
-LaTeX Warning: Citation `leader2' on page 8 undefined on input line 298.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 303.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 303.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 303.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 303.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 303.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 303.
-
-
-LaTeX Warning: Reference `fig:crossq' on page 8 undefined on input line 311.
+LaTeX Warning: Citation `hermesthesis' on page 8 undefined on input line 228.
 
 [8]
 
-LaTeX Warning: Citation `hermes99' on page 9 undefined on input line 319.
+LaTeX Warning: Citation `leader2' on page 9 undefined on input line 280.
 
 
-LaTeX Warning: Reference `fig:sidis' on page 9 undefined on input line 325.
+LaTeX Warning: Citation `sassotnlo' on page 9 undefined on input line 289.
 
 
-LaTeX Warning: Citation `graudenz' on page 9 undefined on input line 326.
+LaTeX Warning: Reference `fig:polxq' on page 9 undefined on input line 297.
 
 
-LaTeX Warning: Citation `wilson' on page 9 undefined on input line 345.
+LaTeX Warning: Citation `lit:goeke' on page 9 undefined on input line 299.
 
 
-LaTeX Warning: Citation `stratmann2001' on page 9 undefined on input line 383.
+LaTeX Warning: Citation `cao' on page 9 undefined on input line 299.
 
 
-LaTeX Warning: Citation `defs2000' on page 9 undefined on input line 389.
+LaTeX Warning: Citation `leader2' on page 9 undefined on input line 308.
 
 
-LaTeX Warning: Citation `sassotnlo' on page 9 undefined on input line 392.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 310.
 
 
-LaTeX Warning: Citation `sassotnlo' on page 9 undefined on input line 399.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 310.
 
 
-LaTeX Warning: Reference `fig:sasnlo' on page 9 undefined on input line 399.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 310.
 
 
-LaTeX Warning: Citation `epjcxj2006' on page 9 undefined on input line 412.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 310.
+
+
+LaTeX Warning: Reference `fig:crossq' on page 9 undefined on input line 318.
 
 [9]
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
+LaTeX Warning: Citation `hermes99' on page 10 undefined on input line 326.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 433.
+LaTeX Warning: Reference `fig:sidis' on page 10 undefined on input line 332.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 433.
+LaTeX Warning: Citation `graudenz' on page 10 undefined on input line 333.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
+LaTeX Warning: Citation `wilson' on page 10 undefined on input line 352.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 433.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 433.
-
-
-LaTeX Warning: Citation `leader2' on page 10 undefined on input line 437.
-
-
-LaTeX Warning: Citation `leader2' on page 10 undefined on input line 440.
-
-
-LaTeX Warning: Reference `fig:hermescl' on page 10 undefined on input line 475.
+LaTeX Warning: Citation `stratmann2001' on page 10 undefined on input line 390.
 
 
 
-LaTeX Warning: Citation `hermesthesis' on page 10 undefined on input line 476.
+LaTeX Warning: Citation `defs2000' on page 10 undefined on input line 396.
+
+
+LaTeX Warning: Citation `sassotnlo' on page 10 undefined on input line 399.
+
+
+LaTeX Warning: Citation `sassotnlo' on page 10 undefined on input line 406.
+
+
+LaTeX Warning: Reference `fig:sasnlo' on page 10 undefined on input line 406.
 
 [10]
 
-LaTeX Warning: Citation `leader2' on page 11 undefined on input line 520.
+LaTeX Warning: Citation `epjcxj2006' on page 11 undefined on input line 419.
 
 
-LaTeX Warning: Citation `sassotnlo' on page 11 undefined on input line 539.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 440.
 
 
-LaTeX Warning: Citation `ssissakian2' on page 11 undefined on input line 548.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 440.
 
 
-LaTeX Warning: Citation `ssissakian2' on page 11 undefined on input line 569.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 440.
 
 
-LaTeX Warning: Citation `ssissakian2' on page 11 undefined on input line 573.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 440.
+
+
+LaTeX Warning: Citation `leader2' on page 11 undefined on input line 444.
+
+
+LaTeX Warning: Citation `leader2' on page 11 undefined on input line 447.
+
+
+LaTeX Warning: Reference `fig:hermescl' on page 11 undefined on input line 482.
+
+
+
+LaTeX Warning: Citation `hermesthesis' on page 11 undefined on input line 483.
 
 [11]
 
-LaTeX Warning: Citation `compass2007' on page 12 undefined on input line 584.
+LaTeX Warning: Citation `leader2' on page 12 undefined on input line 527.
 
 
-LaTeX Warning: Reference `fig:compass2' on page 12 undefined on input line 584.
+LaTeX Warning: Citation `sassotnlo' on page 12 undefined on input line 546.
 
 
-
-LaTeX Warning: Reference `fig:compass3' on page 12 undefined on input line 586.
-
+LaTeX Warning: Citation `ssissakian2' on page 12 undefined on input line 555.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 589.
+LaTeX Warning: Citation `ssissakian2' on page 12 undefined on input line 576.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 589.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 589.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 589.
-
-
-LaTeX Warning: Citation `bunce00' on page 12 undefined on input line 592.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 596.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 596.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 596.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 596.
-
-
-LaTeX Warning: Citation `leader2' on page 12 undefined on input line 599.
-
-
-LaTeX Warning: Reference `fig:hermesc' on page 12 undefined on input line 653.
+LaTeX Warning: Citation `ssissakian2' on page 12 undefined on input line 580.
 
 [12]
 
+LaTeX Warning: Citation `compass2007' on page 13 undefined on input line 591.
+
+
+LaTeX Warning: Reference `fig:compass2' on page 13 undefined on input line 591.
+
+
+
+LaTeX Warning: Reference `fig:compass3' on page 13 undefined on input line 593.
+
+
+
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 666.
+(hyperref)                removing `math shift' on input line 596.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 666.
+(hyperref)                removing `\Delta' on input line 596.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 666.
+(hyperref)                removing `subscript' on input line 596.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 666.
+(hyperref)                removing `math shift' on input line 596.
 
 
-LaTeX Warning: Citation `e8661' on page 13 undefined on input line 669.
+LaTeX Warning: Citation `bunce00' on page 13 undefined on input line 599.
 
 
-LaTeX Warning: Citation `e8662' on page 13 undefined on input line 669.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 603.
 
 
-LaTeX Warning: Reference `fig:e866' on page 13 undefined on input line 671.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 603.
 
 
-LaTeX Warning: Citation `jcpengpol' on page 13 undefined on input line 712.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 603.
 
 
-LaTeX Warning: Citation `eichten' on page 13 undefined on input line 725.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 603.
 
 
-LaTeX Warning: Citation `thomas' on page 13 undefined on input line 726.
+LaTeX Warning: Citation `leader2' on page 13 undefined on input line 606.
 
 
-LaTeX Warning: Citation `fries' on page 13 undefined on input line 727.
+LaTeX Warning: Reference `fig:hermesc' on page 13 undefined on input line 660.
+
+[13]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 673.
 
 
-LaTeX Warning: Citation `Boreskov' on page 13 undefined on input line 729.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 673.
 
 
-LaTeX Warning: Citation `cao' on page 13 undefined on input line 731.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 673.
 
 
-LaTeX Warning: Citation `Kumano' on page 13 undefined on input line 733.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 673.
 
 
-LaTeX Warning: Citation `fries2' on page 13 undefined on input line 735.
+LaTeX Warning: Citation `e8661' on page 14 undefined on input line 676.
 
 
-LaTeX Warning: Citation `cao' on page 13 undefined on input line 737.
+LaTeX Warning: Citation `e8662' on page 14 undefined on input line 676.
 
 
-LaTeX Warning: Citation `gluck' on page 13 undefined on input line 738.
+LaTeX Warning: Reference `fig:e866' on page 14 undefined on input line 678.
 
 
-LaTeX Warning: Citation `steffens' on page 13 undefined on input line 739.
+LaTeX Warning: Citation `jcpengpol' on page 14 undefined on input line 719.
 
 
-LaTeX Warning: Citation `dressler' on page 13 undefined on input line 740.
+LaTeX Warning: Citation `eichten' on page 14 undefined on input line 732.
 
 
-LaTeX Warning: Citation `wakamatsu' on page 13 undefined on input line 741.
+LaTeX Warning: Citation `thomas' on page 14 undefined on input line 733.
 
 
-LaTeX Warning: Citation `dorokhov' on page 13 undefined on input line 742.
+LaTeX Warning: Citation `fries' on page 14 undefined on input line 734.
 
 
-LaTeX Warning: Citation `bbs' on page 13 undefined on input line 743.
+LaTeX Warning: Citation `Boreskov' on page 14 undefined on input line 736.
 
 
-LaTeX Warning: Citation `bhalerao' on page 13 undefined on input line 744.
+LaTeX Warning: Citation `cao' on page 14 undefined on input line 738.
 
 
-LaTeX Warning: Citation `jcpengpol' on page 13 undefined on input line 750.
+LaTeX Warning: Citation `Kumano' on page 14 undefined on input line 740.
 
 
-LaTeX Warning: Citation `jcpengpol' on page 13 undefined on input line 750.
+LaTeX Warning: Citation `fries2' on page 14 undefined on input line 742.
 
-) [13] [14]
+
+LaTeX Warning: Citation `cao' on page 14 undefined on input line 744.
+
+
+LaTeX Warning: Citation `gluck' on page 14 undefined on input line 745.
+
+
+LaTeX Warning: Citation `steffens' on page 14 undefined on input line 746.
+
+
+LaTeX Warning: Citation `dressler' on page 14 undefined on input line 747.
+
+
+LaTeX Warning: Citation `wakamatsu' on page 14 undefined on input line 748.
+
+
+LaTeX Warning: Citation `dorokhov' on page 14 undefined on input line 749.
+
+
+LaTeX Warning: Citation `bbs' on page 14 undefined on input line 750.
+
+
+LaTeX Warning: Citation `bhalerao' on page 14 undefined on input line 751.
+
+
+LaTeX Warning: Citation `jcpengpol' on page 14 undefined on input line 757.
+
+
+LaTeX Warning: Citation `jcpengpol' on page 14 undefined on input line 757.
+
+) [14] [15]
 Chapter 3.
 (./files_tex/ExperimentDescription.tex
 Overfull \hbox (5.68095pt too wide) in paragraph at lines 7--20
  [] 
  []
 
-[15
+[16
 
-] <figures/thqxfig.pdf, id=348, 569.12625pt x 410.53375pt>
+] <figures/thqxfig.pdf, id=487, 569.12625pt x 410.53375pt>
 File: figures/thqxfig.pdf Graphic file (type pdf)
 
 <use figures/thqxfig.pdf>
-Package pdftex.def Info: figures/thqxfig.pdf used on input line 31.
-(pdftex.def)             Requested size: 225.48038pt x 162.65079pt.
-
-<figures/Q2xfig.pdf, id=349, 569.12625pt x 410.53375pt>
+<figures/Q2xfig.pdf, id=488, 569.12625pt x 410.53375pt>
 File: figures/Q2xfig.pdf Graphic file (type pdf)
 
-<use figures/Q2xfig.pdf>
-Package pdftex.def Info: figures/Q2xfig.pdf used on input line 32.
-(pdftex.def)             Requested size: 225.48038pt x 162.65079pt.
- [16 <./figures/thqxfig.pdf, page is rotated 90 degrees> <./figures/Q2xfig.pdf,
- page is rotated 90 degrees>]
-<figures/SIDIS_layout.pdf, id=443, 710.655pt x 481.8pt>
+<use figures/Q2xfig.pdf> [17 <./figures/thqxfig.pdf, page is rotated 90 degrees
+> <./figures/Q2xfig.pdf, page is rotated 90 degrees>]
+<figures/SIDIS_layout.pdf, id=582, 710.655pt x 481.8pt>
 File: figures/SIDIS_layout.pdf Graphic file (type pdf)
 
-<use figures/SIDIS_layout.pdf>
-Package pdftex.def Info: figures/SIDIS_layout.pdf used on input line 42.
-(pdftex.def)             Requested size: 352.31624pt x 238.86299pt.
- [17 <./figures/SIDIS_layout.pdf>]
+<use figures/SIDIS_layout.pdf> [18 <./figures/SIDIS_layout.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 49.
@@ -923,99 +893,71 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 49.
 
-[18] [19] <figures/thetaC_vs_p.png, id=512, 1094.0875pt x 1110.1475pt>
+[19] [20] <figures/thetaC_vs_p.png, id=651, 1094.0875pt x 1110.1475pt>
 File: figures/thetaC_vs_p.png Graphic file (type png)
 
 <use figures/thetaC_vs_p.png>
-Package pdftex.def Info: figures/thetaC_vs_p.png used on input line 75.
-(pdftex.def)             Requested size: 155.02pt x 157.28293pt.
-
-<figures/RICH_schematic.png, id=513, 1033.8625pt x 632.3625pt>
+<figures/RICH_schematic.png, id=652, 1033.8625pt x 632.3625pt>
 File: figures/RICH_schematic.png Graphic file (type png)
 
 <use figures/RICH_schematic.png>
-Package pdftex.def Info: figures/RICH_schematic.png used on input line 76.
-(pdftex.def)             Requested size: 234.87749pt x 143.65524pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/RICH_5GEV_pion.png, id=517, 1953.2975pt x 908.39375pt>
+<figures/RICH_5GEV_pion.png, id=656, 1953.2975pt x 908.39375pt>
 File: figures/RICH_5GEV_pion.png Graphic file (type png)
 
 <use figures/RICH_5GEV_pion.png>
-Package pdftex.def Info: figures/RICH_5GEV_pion.png used on input line 86.
-(pdftex.def)             Requested size: 225.48038pt x 104.85812pt.
-
-<figures/RICH_5GEV_kaon.png, id=518, 1953.2975pt x 908.39375pt>
+<figures/RICH_5GEV_kaon.png, id=657, 1953.2975pt x 908.39375pt>
 File: figures/RICH_5GEV_kaon.png Graphic file (type png)
 
 <use figures/RICH_5GEV_kaon.png>
-Package pdftex.def Info: figures/RICH_5GEV_kaon.png used on input line 87.
-(pdftex.def)             Requested size: 225.48038pt x 104.85812pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20] <figures/SBS_PIDfig.pdf, id=532, 569.12625pt x 182.6825pt>
+[21] <figures/SBS_PIDfig.pdf, id=672, 569.12625pt x 182.6825pt>
 File: figures/SBS_PIDfig.pdf Graphic file (type pdf)
 
 <use figures/SBS_PIDfig.pdf>
-Package pdftex.def Info: figures/SBS_PIDfig.pdf used on input line 95.
-(pdftex.def)             Requested size: 460.35788pt x 147.77687pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./figures/thetaC_vs_p.png> <./figures/RICH_schematic.png> <./figures/RICH_
-5GEV_pion.png> <./figures/RICH_5GEV_kaon.png>]
-<figures/SIDISlayout14deg.png, id=544, 1953.2975pt x 908.39375pt>
+[22 <./figures/thetaC_vs_p.png (PNG copy)> <./figures/RICH_schematic.png (PNG c
+opy)> <./figures/RICH_5GEV_pion.png (PNG copy)> <./figures/RICH_5GEV_kaon.png (
+PNG copy)>] <figures/SIDISlayout14deg.png, id=683, 1953.2975pt x 908.39375pt>
 File: figures/SIDISlayout14deg.png Graphic file (type png)
 
 <use figures/SIDISlayout14deg.png>
-Package pdftex.def Info: figures/SIDISlayout14deg.png used on input line 105.
-(pdftex.def)             Requested size: 225.48038pt x 104.85812pt.
-
-<figures/SIDISlayout10deg.png, id=545, 1953.2975pt x 908.39375pt>
+<figures/SIDISlayout10deg.png, id=684, 1953.2975pt x 908.39375pt>
 File: figures/SIDISlayout10deg.png Graphic file (type png)
 
-<use figures/SIDISlayout10deg.png>
-Package pdftex.def Info: figures/SIDISlayout10deg.png used on input line 106.
-(pdftex.def)             Requested size: 225.48038pt x 104.85812pt.
- [22 <./figures/SBS_PIDfig.pdf, page is rotated 90 degrees> <./figures/SIDISlay
-out14deg.png> <./figures/SIDISlayout10deg.png>]
+<use figures/SIDISlayout10deg.png> [23 <./figures/SBS_PIDfig.pdf, page is rotat
+ed 90 degrees> <./figures/SIDISlayout14deg.png (PNG copy)> <./figures/SIDISlayo
+ut10deg.png (PNG copy)>]
 Overfull \hbox (5.35687pt too wide) in paragraph at lines 116--117
 []$\OML/cmm/m/it/10.95 P[] \OMS/cmsy/m/n/10.95 ^^U \OT1/cmr/m/n/10.95 2$ GeV: M
 in-i-mum hadron mo-men-tum to min-i-mize ef-fects of nu-clear final-state-inter
 actions
  []
 
-[23] <figures/kine14deg10deg_comparison.pdf, id=611, 569.12625pt x 275.0275pt>
+[24] <figures/kine14deg10deg_comparison.pdf, id=750, 569.12625pt x 275.0275pt>
 File: figures/kine14deg10deg_comparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_comparison.pdf>
-Package pdftex.def Info: figures/kine14deg10deg_comparison.pdf used on input li
-ne 147.
-(pdftex.def)             Requested size: 460.35788pt x 222.4773pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/kine14deg10deg_2Dcomparison.pdf, id=613, 569.12625pt x 417.56pt>
+<figures/kine14deg10deg_2Dcomparison.pdf, id=752, 569.12625pt x 417.56pt>
 File: figures/kine14deg10deg_2Dcomparison.pdf Graphic file (type pdf)
 
 <use figures/kine14deg10deg_2Dcomparison.pdf>
-Package pdftex.def Info: figures/kine14deg10deg_2Dcomparison.pdf used on input 
-line 155.
-(pdftex.def)             Requested size: 460.35788pt x 337.77573pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24]
+[25]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 180.
@@ -1032,147 +974,97 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 180.
 
-[25 <./figures/kine14deg10deg_comparison.pdf, page is rotated 90 degrees>]
-[26 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
-<figures/A1n_vs_x_E11_pip.pdf, id=737, 569.12625pt x 417.56pt>
+[26 <./figures/kine14deg10deg_comparison.pdf, page is rotated 90 degrees>]
+[27 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
+<figures/A1n_vs_x_E11_pip.pdf, id=881, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_pip.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_pip.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_pip.pdf used on input line 204.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E11_pim.pdf, id=740, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_pim.pdf, id=884, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_pim.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_pim.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_pim.pdf used on input line 211.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E11_kp.pdf, id=743, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_kp.pdf, id=887, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_kp.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_kp.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_kp.pdf used on input line 219.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E11_km.pdf, id=746, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_km.pdf, id=890, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_km.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_km.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_km.pdf used on input line 226.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E11_pi0.pdf, id=749, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E11_pi0.pdf, id=893, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E11_pi0.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E11_pi0.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E11_pi0.pdf used on input line 233.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E88_pip.pdf, id=760, 569.12625pt x 417.56pt>
+
+LaTeX Warning: Citation `dssv2008' on page 28 undefined on input line 237.
+
+<figures/A1n_vs_x_E88_pip.pdf, id=903, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E88_pip.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E88_pip.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E88_pip.pdf used on input line 241.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E88_pim.pdf, id=763, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E88_pim.pdf, id=906, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E88_pim.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E88_pim.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E88_pim.pdf used on input line 248.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E88_kp.pdf, id=766, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E88_kp.pdf, id=909, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E88_kp.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E88_kp.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E88_kp.pdf used on input line 256.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E88_km.pdf, id=769, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E88_km.pdf, id=912, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E88_km.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E88_km.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E88_km.pdf used on input line 263.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/A1n_vs_x_E88_pi0.pdf, id=772, 569.12625pt x 417.56pt>
+<figures/A1n_vs_x_E88_pi0.pdf, id=915, 569.12625pt x 417.56pt>
 File: figures/A1n_vs_x_E88_pi0.pdf Graphic file (type pdf)
 
 <use figures/A1n_vs_x_E88_pi0.pdf>
-Package pdftex.def Info: figures/A1n_vs_x_E88_pi0.pdf used on input line 270.
-(pdftex.def)             Requested size: 352.31624pt x 258.50223pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [27] [28 <./figures/A1n_vs_x_E11_pip.pdf, page is rotated 90 degrees> <./figu
-res/A1n_vs_x_E11_pim.pdf, page is rotated 90 degrees>] [29 <./figures/A1n_vs_x_
+) [28] [29 <./figures/A1n_vs_x_E11_pip.pdf, page is rotated 90 degrees> <./figu
+res/A1n_vs_x_E11_pim.pdf, page is rotated 90 degrees>] [30 <./figures/A1n_vs_x_
 E11_kp.pdf, page is rotated 90 degrees> <./figures/A1n_vs_x_E11_km.pdf, page is
- rotated 90 degrees>] [30 <./figures/A1n_vs_x_E11_pi0.pdf, page is rotated 90 d
-egrees> <./figures/A1n_vs_x_E88_pip.pdf, page is rotated 90 degrees>] [31 <./fi
+ rotated 90 degrees>] [31 <./figures/A1n_vs_x_E11_pi0.pdf, page is rotated 90 d
+egrees> <./figures/A1n_vs_x_E88_pip.pdf, page is rotated 90 degrees>] [32 <./fi
 gures/A1n_vs_x_E88_pim.pdf, page is rotated 90 degrees> <./figures/A1n_vs_x_E88
-_kp.pdf, page is rotated 90 degrees>] [32 <./figures/A1n_vs_x_E88_km.pdf, page 
+_kp.pdf, page is rotated 90 degrees>] [33 <./figures/A1n_vs_x_E88_km.pdf, page 
 is rotated 90 degrees> <./figures/A1n_vs_x_E88_pi0.pdf, page is rotated 90 degr
 ees>] (./main_Deltaq.bbl
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-
-Underfull \hbox (badness 5345) in paragraph at lines 21--30
-[]\OT1/cmr/m/n/10.95 D.J.J.de Lange et al.  The op-ti-cal prop-er-ties of the b
-ig-bite spec-trom-e-ter at
+Underfull \hbox (badness 1490) in paragraph at lines 76--83
+\OT1/cmr/m/n/10.95 nu-cleon in the sta-tis-ti-cal par-ton model.  \OT1/cmr/m/it
+/10.95 Physics Let-ters B\OT1/cmr/m/n/10.95 , 648(1):39 -- 45, 2007.
  []
 
-Missing character: There is no ƒ in font cmr10!
-Missing character: There is no ç in font cmr10!
-
-Underfull \hbox (badness 1721) in paragraph at lines 45--54
-[]\OT1/cmr/m/n/10.95 M. Mi-hovilovi et al.  Meth-ods for op-ti-cal cal-i-bra-ti
-on of the big-bite hadron spec-
- []
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 45--54
-\OT1/cmr/m/n/10.95 trom-e-ter.  \OT1/cmr/m/it/10.95 Nu-clear In-stru-ments and 
-Meth-ods in Physics Re-search Sec-tion A: Ac-
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 45--54
-\OT1/cmr/m/it/10.95 cel-er-a-tors, Spec-trom-e-ters, De-tec-tors and As-so-ci-a
-ted Equip-ment\OT1/cmr/m/n/10.95 , 686(0):20 -- 30, 2012.
- []
-
-[33
+Missing character: There is no – in font cmr10!
+[34
 
 
 ]
@@ -1180,19 +1072,49 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-Underfull \hbox (badness 1259) in paragraph at lines 112--121
+Underfull \hbox (badness 5345) in paragraph at lines 154--163
+[]\OT1/cmr/m/n/10.95 D.J.J.de Lange et al.  The op-ti-cal prop-er-ties of the b
+ig-bite spec-trom-e-ter at
+ []
+
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ç in font cmr10!
+
+Underfull \hbox (badness 1721) in paragraph at lines 178--187
+[]\OT1/cmr/m/n/10.95 M. Mi-hovilovi et al.  Meth-ods for op-ti-cal cal-i-bra-ti
+on of the big-bite hadron spec-
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 178--187
+\OT1/cmr/m/n/10.95 trom-e-ter.  \OT1/cmr/m/it/10.95 Nu-clear In-stru-ments and 
+Meth-ods in Physics Re-search Sec-tion A: Ac-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 178--187
+\OT1/cmr/m/it/10.95 cel-er-a-tors, Spec-trom-e-ters, De-tec-tors and As-so-ci-a
+ted Equip-ment\OT1/cmr/m/n/10.95 , 686(0):20 -- 30, 2012.
+ []
+
+[35]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 1259) in paragraph at lines 245--254
 []\OT1/cmr/m/n/10.95 F. Sauli.  Gem: A new con-cept for elec-tron am-pli-fi-ca-
 tion in gas de-tec-tors.  \OT1/cmr/m/it/10.95 Nu-
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 112--121
+Underfull \hbox (badness 1521) in paragraph at lines 245--254
 \OT1/cmr/m/it/10.95 e-ters, De-tec-tors and As-so-ci-ated Equip-ment\OT1/cmr/m/
 n/10.95 , 386(23):531 -- 534, 1997.  URL: []$\OT1/cmtt/m/n/10.95 http :
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 112--121
+Underfull \hbox (badness 6995) in paragraph at lines 245--254
 \OT1/cmtt/m/n/10.95 / / www . sciencedirect . com / science / article / pii / S
 0168900296011722$[]\OT1/cmr/m/n/10.95 , []$\OT1/cmtt/m/n/10.95 doi : http : / /
  dx .
@@ -1210,20 +1132,20 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-Underfull \hbox (badness 3557) in paragraph at lines 150--159
+Underfull \hbox (badness 3557) in paragraph at lines 283--292
 []\OT1/cmr/m/n/10.95 N Akopov et al.  The \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.
 95 HERMES\OMS/cmsy/m/n/10.95 g \OT1/cmr/m/n/10.95 dual-radiator ring imag-ing c
 herenkov de-tec-
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 150--159
+Underfull \hbox (badness 3000) in paragraph at lines 283--292
 \OT1/cmr/m/n/10.95 tor.  \OT1/cmr/m/it/10.95 Nu-clear In-stru-ments and Meth-od
 s in Physics Re-search Sec-tion A: Ac-cel-er-a-
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 150--159
+Underfull \hbox (badness 2478) in paragraph at lines 283--292
 \OT1/cmr/m/it/10.95 tors, Spec-trom-e-ters, De-tec-tors and As-so-ci-ated Equip
 -ment\OT1/cmr/m/n/10.95 , 479(23):511 -- 530, 2002.
  []
@@ -1231,8 +1153,8 @@ Underfull \hbox (badness 2478) in paragraph at lines 150--159
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
-[34]
-Underfull \hbox (badness 1024) in paragraph at lines 208--215
+[36]
+Underfull \hbox (badness 1024) in paragraph at lines 341--348
 \OT1/cmr/m/n/10.95 flavor de-com-po-si-tion in the va-lence quark re-gion.  \OT
 1/cmr/m/it/10.95 Phys. Rev. Lett.\OT1/cmr/m/n/10.95 , 92:012004, Jan
  []
@@ -1241,13 +1163,13 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-Underfull \hbox (badness 5203) in paragraph at lines 217--223
+Underfull \hbox (badness 5203) in paragraph at lines 350--356
 []\OT1/cmr/m/n/10.95 K. Abe et al.  \OT1/cmr/m/it/10.95 Physics Let-ters B\OT1/
 cmr/m/n/10.95 , 452(12):194 -- 200, 1999.  URL: []$\OT1/cmtt/m/n/10.95 http :
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 217--223
+Underfull \hbox (badness 6995) in paragraph at lines 350--356
 \OT1/cmtt/m/n/10.95 / / www . sciencedirect . com / science / article / pii / S
 0370269399002440$[]\OT1/cmr/m/n/10.95 , []$\OT1/cmtt/m/n/10.95 doi : http : / /
  dx .
@@ -1255,54 +1177,85 @@ Underfull \hbox (badness 6995) in paragraph at lines 217--223
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
- [35]
+ [37]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
  (./main_Deltaq.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
-Package rerunfilecheck Info: File `main_Deltaq.out' has not changed.
-(rerunfilecheck)             Checksum: DF1DBEDD1CF1440A695F9E28F3E455E3;2662.
 
+
+Package rerunfilecheck Warning: File `main_Deltaq.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main_Deltaq.out':
+(rerunfilecheck)             Before: 8847CD9C8130913B5EA278BFE28BC6F6;2555
+(rerunfilecheck)             After:  F53C2C5ADD92009B7A970797C64ED821;2674.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 7329 strings out of 493315
- 105543 string characters out of 6137904
- 210460 words of memory out of 5000000
- 10479 multiletter control sequences out of 15000+600000
- 19614 words of font info for 74 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 29i,12n,38p,2315b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
-sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
-al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
-/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
-e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2013/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2013/texmf-dis
-t/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main_Deltaq.pdf (39 pages, 1605064 bytes).
+ 6974 strings out of 493747
+ 101517 string characters out of 3143546
+ 196040 words of memory out of 3000000
+ 9894 multiletter control sequences out of 15000+200000
+ 19614 words of font info for 74 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 31i,12n,38p,2315b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{equation.3.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.3.6} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.2.3} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.3.1} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.2.21} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.2.9} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.2.1} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.2.5} has been referenced but does not exis
+t, replaced by a fixed one
+
+</usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></us
+r/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></us
+r/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/l
+ocal/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loc
+al/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/t
+exlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texli
+ve/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2010/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2010/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2010/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2010/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2010/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2010/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2010/texmf-dist/
+fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main_Deltaq.pdf (41 pages, 2293326 bytes).
 PDF statistics:
- 1443 PDF objects out of 1728 (max. 8388607)
- 944 compressed objects within 10 object streams
- 154 named destinations out of 1000 (max. 500000)
- 387 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1630 PDF objects out of 1728 (max. 8388607)
+ 1100 compressed objects within 11 object streams
+ 179 named destinations out of 1000 (max. 500000)
+ 402 words of extra memory for PDF output out of 10000 (max. 10000000)
 
