@@ -3,13 +3,12 @@ The top-level auxiliary file: main_Deltaq.aux
 The style file: unsrturl.bst
 Database file #1: main_Deltaq.bib
 Warning--I didn't find a database entry for "Frankfurt"
-Warning--I didn't find a database entry for "LFrankfurt1989141"
-Warning--I didn't find a database entry for "PhysRevD.44.3691"
 Warning--I didn't find a database entry for "PhysRevLett.101.072001"
 Warning--I didn't find a database entry for "deFlorian:2014yva"
 Warning--I didn't find a database entry for "epjcxj2006"
 Warning--I didn't find a database entry for "sassotnlo"
-Warning--I didn't find a database entry for "A1N_PR"
+Warning--I didn't find a database entry for "xiaochao"
+Warning--I didn't find a database entry for "kevin"
 Warning--I didn't find a database entry for "hermesthesis"
 Warning--I didn't find a database entry for "leader2"
 Warning--I didn't find a database entry for "lit:goeke"
@@ -18,7 +17,7 @@ Warning--I didn't find a database entry for "hermes99"
 Warning--I didn't find a database entry for "graudenz"
 Warning--I didn't find a database entry for "wilson"
 Warning--I didn't find a database entry for "stratmann2001"
-Warning--I didn't find a database entry for "Jiang:2006qc"
+Warning--I didn't find a database entry for "defs2000"
 Warning--I didn't find a database entry for "ssissakian2"
 Warning--I didn't find a database entry for "compass2007"
 Warning--I didn't find a database entry for "bunce00"
@@ -44,7 +43,7 @@ Warning--empty title in SLAC_R1998
 Warning--empty journal in DSSVplus
 You've used 42 entries,
             2522 wiz_defined-function locations,
-            952 strings with 14955 characters,
+            947 strings with 14874 characters,
 and the built_in function-call counts, 15904 in all, are:
 = -- 1623
 > -- 577
@@ -83,4 +82,4 @@ warning$ -- 4
 while$ -- 77
 width$ -- 44
 write$ -- 560
-(There were 40 warnings)
+(There were 39 warnings)
