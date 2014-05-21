@@ -1,0 +1,1160 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2011.1.27)  20 MAY 2014 06:56
+entering extended mode
+**main_Deltaq.tex
+(./main_Deltaq.tex
+LaTeX2e <2008/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(/sw/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2004/02/16 v1.4f Standard LaTeX document class
+(/sw/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/sw/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/sw/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/sw/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/sw/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/sw/share/texmf-dist/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(/sw/share/texmf-dist/tex/latex/graphics/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/sw/share/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(/sw/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/sw/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/sw/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen107
+))
+(/sw/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+(/sw/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/sw/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/sw/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/sw/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen116
+\WF@size=\dimen117
+\c@WF@wrappedlines=\count101
+\WF@box=\box28
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/sw/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+
+(/sw/share/texmf-dist/tex/latex/graphics/color.cfg
+File: color.cfg 2005/02/03 v1.3 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+)
+(/sw/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2004/07/04 v2.00 LaTeX color extensions (UK)
+
+(/sw/share/texmf-dist/tex/latex/graphics/color.cfg
+File: color.cfg 2005/02/03 v1.3 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 128.
+Package xcolor Info: Driver file: pdftex.def on input line 136.
+LaTeX Info: Redefining \color on input line 494.
+Package xcolor Info: Color model `cmy' added on input line 972.
+Package xcolor Info: Color model `hsb' added on input line 980.
+Package xcolor Info: Color model `HTML' added on input line 1000.
+Package xcolor Info: Color model `HSB' added on input line 1006.
+Package xcolor Info: Color model `Gray' added on input line 1012.
+
+(/sw/share/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/sw/share/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+) (./multicap.sty
+Package: multicap 2002/05/04 v1.0 formatting captions inside multicols
+
+(/sw/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@mcapsize=\count102
+\c@mcapskip=\count103
+\mf@tempbox=\box29
+\mt@tempbox=\box30
+\@temp@box=\box31
+\abvmcapskip=\skip46
+\blwmcapskip=\skip47
+)
+(/sw/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2004/02/14 v1.6e multicolumn formatting (FMi)
+\c@tracingmulticols=\count104
+\mult@box=\box32
+\multicol@leftmargin=\dimen118
+\c@unbalance=\count105
+\c@collectmore=\count106
+\doublecol@number=\count107
+\multicoltolerance=\count108
+\multicolpretolerance=\count109
+\full@width=\dimen119
+\page@free=\dimen120
+\premulticols=\dimen121
+\postmulticols=\dimen122
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box33
+\last@line=\box34
+\mult@rightbox=\box35
+\mult@grightbox=\box36
+\mult@gfirstbox=\box37
+\mult@firstbox=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\c@columnbadness=\count110
+\c@finalcolumnbadness=\count111
+\last@try=\dimen123
+\multicolovershoot=\dimen124
+\multicolundershoot=\dimen125
+\mult@nat@firstbox=\box56
+\colbreak@box=\box57
+)
+(/sw/share/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen126
+)
+(/sw/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
+\@linkdim=\dimen127
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+(/sw/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
+)
+(/sw/share/texmf-dist/tex/latex/hyperref/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive and teTeX
+)
+Package hyperref Info: Option `linktocpage' set `true' on input line 1830.
+Package hyperref Info: Hyper figures OFF on input line 1880.
+Package hyperref Info: Link nesting OFF on input line 1885.
+Package hyperref Info: Hyper index ON on input line 1888.
+Package hyperref Info: Plain pages ON on input line 1893.
+Package hyperref Info: Backreferencing OFF on input line 1900.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2004.
+(/sw/share/texmf-local/tex/latex/html/url.sty
+Package: url 1999/03/02  ver 1.4  Verb mode for urls, email addresses, and file
+ names
+)
+LaTeX Info: Redefining \url on input line 2143.
+\Fld@menulength=\count114
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+\Choice@toks=\toks21
+\Field@toks=\toks22
+Package hyperref Info: Hyper figures OFF on input line 2618.
+Package hyperref Info: Link nesting OFF on input line 2623.
+Package hyperref Info: Hyper index ON on input line 2626.
+Package hyperref Info: backreferencing OFF on input line 2633.
+Package hyperref Info: Link coloring OFF on input line 2638.
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+*hyperref using default driver hpdftex*
+(/sw/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2003/11/30 v6.74m Hyperref driver for pdfTeX
+
+(/sw/share/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2004/09/15 PSNFSS-v9.2 Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/sw/share/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\Fld@listcount=\count117
+\@outlinefile=\write3
+) (./main_Deltaq.aux)
+\openout1 = `main_Deltaq.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+
+(/sw/share/texmf-dist/tex/context/base/supp-pdf.tex
+(/sw/share/texmf-dist/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count118
+\scratchcounter=\count119
+\scratchtoks=\toks23
+\scratchdimen=\dimen130
+\scratchskip=\skip50
+\scratchmuskip=\muskip11
+\scratchbox=\box58
+\scratchread=\read1
+\scratchwrite=\write4
+\zeropoint=\dimen131
+\onepoint=\dimen132
+\onebasepoint=\dimen133
+\minusone=\count120
+\thousandpoint=\dimen134
+\onerealpoint=\dimen135
+\emptytoks=\toks24
+\nextbox=\box59
+\nextdepth=\dimen136
+\everyline=\toks25
+\!!counta=\count121
+\!!countb=\count122
+\recursecounter=\count123
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen137
+\MPnumerator=\count127
+\everyMPtoPDFconversion=\toks26
+)
+Package hyperref Info: Link coloring OFF on input line 159.
+ (/sw/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 159.
+LaTeX Info: Redefining \pageref on input line 159.
+ (./main_Deltaq.out)
+(./main_Deltaq.out)
+\openout3 = `main_Deltaq.out'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 173.
+ (/sw/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 173.
+
+(/sw/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [1
+
+{/sw/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.210 \begin{abstract}
+                       [1]
+! pdfTeX warning (ext4): destination with the same identifier (name{page.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.232 \end{abstract}
+                     [1] (./main_Deltaq.toc)
+\tf@toc=\write5
+\openout5 = `main_Deltaq.toc'.
+
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.246 \chapter
+              {Executive Summary} [1
+
+]
+Chapter 1.
+(./files_tex/executive_summary.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
+
+(/sw/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.28 
+      [1
+
+]) [2]
+Chapter 2.
+(./files_tex/introduction.tex
+
+LaTeX Warning: Citation `Frankfurt' on page 3 undefined on input line 42.
+
+[3
+
+] <figs_xj/pdg_polq2013.pdf, id=243, 569.12625pt x 711.65875pt>
+File: figs_xj/pdg_polq2013.pdf Graphic file (type pdf)
+
+<use figs_xj/pdg_polq2013.pdf>
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 65.
+
+<figs_xj/hermes_dubar_ddbar2005.pdf, id=244, 572.1375pt x 426.59375pt>
+File: figs_xj/hermes_dubar_ddbar2005.pdf Graphic file (type pdf)
+
+<use figs_xj/hermes_dubar_ddbar2005.pdf>
+<figs_xj/compass_dbar_ubar2010.pdf, id=245, 569.12625pt x 296.10625pt>
+File: figs_xj/compass_dbar_ubar2010.pdf Graphic file (type pdf)
+
+<use figs_xj/compass_dbar_ubar2010.pdf>
+<figs_xj/STAR-WAL_2012.pdf, id=246, 569.12625pt x 655.44875pt>
+File: figs_xj/STAR-WAL_2012.pdf Graphic file (type pdf)
+
+<use figs_xj/STAR-WAL_2012.pdf>
+<figs_xj/BBS2008_STAR_Wpreliminary.pdf, id=247, 388.45125pt x 485.815pt>
+File: figs_xj/BBS2008_STAR_Wpreliminary.pdf Graphic file (type pdf)
+
+<use figs_xj/BBS2008_STAR_Wpreliminary.pdf>
+<figs_xj/BBS_deltaqoq.pdf, id=248, 614.295pt x 794.97pt>
+File: figs_xj/BBS_deltaqoq.pdf Graphic file (type pdf)
+
+<use figs_xj/BBS_deltaqoq.pdf>
+<figs_xj/BBS_deltaqbaroqbar.pdf, id=249, 614.295pt x 794.97pt>
+File: figs_xj/BBS_deltaqbaroqbar.pdf Graphic file (type pdf)
+
+<use figs_xj/BBS_deltaqbaroqbar.pdf>
+
+LaTeX Warning: Citation `Frankfurt' on page 4 undefined on input line 126.
+
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 146.
+
+
+LaTeX Warning: Citation `PhysRevLett.101.072001' on page 4 undefined on input l
+ine 153.
+
+
+LaTeX Warning: Citation `deFlorian:2014yva' on page 4 undefined on input line 1
+56.
+
+
+LaTeX Warning: Citation `epjcxj2006' on page 4 undefined on input line 161.
+
+
+LaTeX Warning: Citation `sassotnlo' on page 4 undefined on input line 166.
+
+
+LaTeX Warning: Citation `epjcxj2006' on page 4 undefined on input line 166.
+
+[4] [5 <./figs_xj/pdg_polq2013.pdf>] [6 <./figs_xj/hermes_dubar_ddbar2005.pdf> 
+<./figs_xj/compass_dbar_ubar2010.pdf> <./figs_xj/STAR-WAL_2012.pdf> <./figs_xj/
+BBS2008_STAR_Wpreliminary.pdf>] [7 <./figs_xj/BBS_deltaqoq.pdf> <./figs_xj/BBS_
+deltaqbaroqbar.pdf>]
+
+LaTeX Warning: Citation `xiaochao' on page 8 undefined on input line 176.
+
+
+LaTeX Warning: Citation `kevin' on page 8 undefined on input line 176.
+
+
+LaTeX Warning: Citation `hermesthesis' on page 8 undefined on input line 228.
+
+[8]
+
+LaTeX Warning: Citation `leader2' on page 9 undefined on input line 280.
+
+
+LaTeX Warning: Citation `sassotnlo' on page 9 undefined on input line 289.
+
+
+LaTeX Warning: Reference `fig:polxq' on page 9 undefined on input line 297.
+
+
+LaTeX Warning: Citation `lit:goeke' on page 9 undefined on input line 299.
+
+
+LaTeX Warning: Citation `cao' on page 9 undefined on input line 299.
+
+
+LaTeX Warning: Citation `leader2' on page 9 undefined on input line 308.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 310.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 310.
+
+
+LaTeX Warning: Reference `fig:crossq' on page 9 undefined on input line 318.
+
+[9]
+
+LaTeX Warning: Citation `hermes99' on page 10 undefined on input line 326.
+
+
+LaTeX Warning: Reference `fig:sidis' on page 10 undefined on input line 332.
+
+
+LaTeX Warning: Citation `graudenz' on page 10 undefined on input line 333.
+
+
+LaTeX Warning: Citation `wilson' on page 10 undefined on input line 352.
+
+
+LaTeX Warning: Citation `stratmann2001' on page 10 undefined on input line 390.
+
+
+
+LaTeX Warning: Citation `defs2000' on page 10 undefined on input line 396.
+
+
+LaTeX Warning: Citation `sassotnlo' on page 10 undefined on input line 399.
+
+
+LaTeX Warning: Citation `sassotnlo' on page 10 undefined on input line 406.
+
+
+LaTeX Warning: Reference `fig:sasnlo' on page 10 undefined on input line 406.
+
+[10]
+
+LaTeX Warning: Citation `epjcxj2006' on page 11 undefined on input line 419.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 440.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 440.
+
+
+LaTeX Warning: Citation `leader2' on page 11 undefined on input line 444.
+
+
+LaTeX Warning: Citation `leader2' on page 11 undefined on input line 447.
+
+
+LaTeX Warning: Reference `fig:hermescl' on page 11 undefined on input line 482.
+
+
+
+LaTeX Warning: Citation `hermesthesis' on page 11 undefined on input line 483.
+
+[11]
+
+LaTeX Warning: Citation `leader2' on page 12 undefined on input line 527.
+
+
+LaTeX Warning: Citation `sassotnlo' on page 12 undefined on input line 546.
+
+
+LaTeX Warning: Citation `ssissakian2' on page 12 undefined on input line 555.
+
+
+LaTeX Warning: Citation `ssissakian2' on page 12 undefined on input line 576.
+
+
+LaTeX Warning: Citation `ssissakian2' on page 12 undefined on input line 580.
+
+[12]
+
+LaTeX Warning: Citation `compass2007' on page 13 undefined on input line 591.
+
+
+LaTeX Warning: Reference `fig:compass2' on page 13 undefined on input line 591.
+
+
+
+LaTeX Warning: Reference `fig:compass3' on page 13 undefined on input line 593.
+
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 596.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 596.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 596.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 596.
+
+
+LaTeX Warning: Citation `bunce00' on page 13 undefined on input line 599.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 603.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 603.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 603.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 603.
+
+
+LaTeX Warning: Citation `leader2' on page 13 undefined on input line 606.
+
+
+LaTeX Warning: Reference `fig:hermesc' on page 13 undefined on input line 660.
+
+[13]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 673.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 673.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\Delta' on input line 673.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 673.
+
+
+LaTeX Warning: Citation `e8661' on page 14 undefined on input line 676.
+
+
+LaTeX Warning: Citation `e8662' on page 14 undefined on input line 676.
+
+
+LaTeX Warning: Reference `fig:e866' on page 14 undefined on input line 678.
+
+
+LaTeX Warning: Citation `jcpengpol' on page 14 undefined on input line 719.
+
+
+LaTeX Warning: Citation `eichten' on page 14 undefined on input line 732.
+
+
+LaTeX Warning: Citation `thomas' on page 14 undefined on input line 733.
+
+
+LaTeX Warning: Citation `fries' on page 14 undefined on input line 734.
+
+
+LaTeX Warning: Citation `Boreskov' on page 14 undefined on input line 736.
+
+
+LaTeX Warning: Citation `cao' on page 14 undefined on input line 738.
+
+
+LaTeX Warning: Citation `Kumano' on page 14 undefined on input line 740.
+
+
+LaTeX Warning: Citation `fries2' on page 14 undefined on input line 742.
+
+
+LaTeX Warning: Citation `cao' on page 14 undefined on input line 744.
+
+
+LaTeX Warning: Citation `gluck' on page 14 undefined on input line 745.
+
+
+LaTeX Warning: Citation `steffens' on page 14 undefined on input line 746.
+
+
+LaTeX Warning: Citation `dressler' on page 14 undefined on input line 747.
+
+
+LaTeX Warning: Citation `wakamatsu' on page 14 undefined on input line 748.
+
+
+LaTeX Warning: Citation `dorokhov' on page 14 undefined on input line 749.
+
+
+LaTeX Warning: Citation `bbs' on page 14 undefined on input line 750.
+
+
+LaTeX Warning: Citation `bhalerao' on page 14 undefined on input line 751.
+
+
+LaTeX Warning: Citation `jcpengpol' on page 14 undefined on input line 757.
+
+
+LaTeX Warning: Citation `jcpengpol' on page 14 undefined on input line 757.
+
+) [14] [15]
+Chapter 3.
+(./files_tex/ExperimentDescription.tex
+Overfull \hbox (5.68095pt too wide) in paragraph at lines 7--20
+ [] 
+ []
+
+[16
+
+] <figures/thqxfig.pdf, id=517, 569.12625pt x 410.53375pt>
+File: figures/thqxfig.pdf Graphic file (type pdf)
+
+<use figures/thqxfig.pdf>
+<figures/Q2xfig.pdf, id=518, 569.12625pt x 410.53375pt>
+File: figures/Q2xfig.pdf Graphic file (type pdf)
+
+<use figures/Q2xfig.pdf> [17 <./figures/thqxfig.pdf, page is rotated 90 degrees
+> <./figures/Q2xfig.pdf, page is rotated 90 degrees>]
+<figures/SIDIS_layout.pdf, id=615, 710.655pt x 481.8pt>
+File: figures/SIDIS_layout.pdf Graphic file (type pdf)
+
+<use figures/SIDIS_layout.pdf> [18 <./figures/SIDIS_layout.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 49.
+
+[19] [20] <figures/thetaC_vs_p.png, id=685, 1094.0875pt x 1110.1475pt>
+File: figures/thetaC_vs_p.png Graphic file (type png)
+
+<use figures/thetaC_vs_p.png>
+<figures/RICH_schematic.png, id=686, 1033.8625pt x 632.3625pt>
+File: figures/RICH_schematic.png Graphic file (type png)
+
+<use figures/RICH_schematic.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/RICH_5GEV_pion.png, id=687, 1953.2975pt x 908.39375pt>
+File: figures/RICH_5GEV_pion.png Graphic file (type png)
+
+<use figures/RICH_5GEV_pion.png>
+<figures/RICH_5GEV_kaon.png, id=688, 1953.2975pt x 908.39375pt>
+File: figures/RICH_5GEV_kaon.png Graphic file (type png)
+
+<use figures/RICH_5GEV_kaon.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21] <figures/SBS_PIDfig.pdf, id=705, 569.12625pt x 182.6825pt>
+File: figures/SBS_PIDfig.pdf Graphic file (type pdf)
+
+<use figures/SBS_PIDfig.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./figures/thetaC_vs_p.png> <./figures/RICH_schematic.png> <./figures/RICH_
+5GEV_pion.png> <./figures/RICH_5GEV_kaon.png>]
+<figures/SIDISlayout14deg.png, id=719, 1953.2975pt x 908.39375pt>
+File: figures/SIDISlayout14deg.png Graphic file (type png)
+
+<use figures/SIDISlayout14deg.png>
+<figures/SIDISlayout10deg.png, id=720, 1953.2975pt x 908.39375pt>
+File: figures/SIDISlayout10deg.png Graphic file (type png)
+
+<use figures/SIDISlayout10deg.png> [23 <./figures/SBS_PIDfig.pdf, page is rotat
+ed 90 degrees> <./figures/SIDISlayout14deg.png> <./figures/SIDISlayout10deg.png
+>]
+Overfull \hbox (5.35687pt too wide) in paragraph at lines 116--117
+[]$\OML/cmm/m/it/10.95 P[] \OMS/cmsy/m/n/10.95 ^^U \OT1/cmr/m/n/10.95 2$ GeV: M
+in-i-mum hadron mo-men-tum to min-i-mize ef-fects of nu-clear final-state-inter
+actions
+ []
+
+[24] <figures/kine14deg10deg_comparison.pdf, id=783, 569.12625pt x 275.0275pt>
+File: figures/kine14deg10deg_comparison.pdf Graphic file (type pdf)
+
+<use figures/kine14deg10deg_comparison.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/kine14deg10deg_2Dcomparison.pdf, id=784, 569.12625pt x 417.56pt>
+File: figures/kine14deg10deg_2Dcomparison.pdf Graphic file (type pdf)
+
+<use figures/kine14deg10deg_2Dcomparison.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `subscript' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `superscript' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 180.
+
+[26 <./figures/kine14deg10deg_comparison.pdf, page is rotated 90 degrees>]
+[27 <./figures/kine14deg10deg_2Dcomparison.pdf, page is rotated 90 degrees>]
+<figures/A1n_vs_x_E11_pip.pdf, id=917, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E11_pip.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E11_pip.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E11_pim.pdf, id=918, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E11_pim.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E11_pim.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E11_kp.pdf, id=919, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E11_kp.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E11_kp.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E11_km.pdf, id=920, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E11_km.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E11_km.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E11_pi0.pdf, id=921, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E11_pi0.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E11_pi0.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_pip.pdf, id=922, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_pip.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_pip.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_pim.pdf, id=923, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_pim.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_pim.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_kp.pdf, id=924, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_kp.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_kp.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_km.pdf, id=925, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_km.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_km.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/A1n_vs_x_E88_pi0.pdf, id=926, 569.12625pt x 417.56pt>
+File: figures/A1n_vs_x_E88_pi0.pdf Graphic file (type pdf)
+
+<use figures/A1n_vs_x_E88_pi0.pdf>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [28] [29 <./figures/A1n_vs_x_E11_pip.pdf, page is rotated 90 degrees> <./figu
+res/A1n_vs_x_E11_pim.pdf, page is rotated 90 degrees>] [30 <./figures/A1n_vs_x_
+E11_kp.pdf, page is rotated 90 degrees> <./figures/A1n_vs_x_E11_km.pdf, page is
+ rotated 90 degrees>] [31 <./figures/A1n_vs_x_E11_pi0.pdf, page is rotated 90 d
+egrees> <./figures/A1n_vs_x_E88_pip.pdf, page is rotated 90 degrees>] [32 <./fi
+gures/A1n_vs_x_E88_pim.pdf, page is rotated 90 degrees> <./figures/A1n_vs_x_E88
+_kp.pdf, page is rotated 90 degrees>] [33 <./figures/A1n_vs_x_E88_km.pdf, page 
+is rotated 90 degrees> <./figures/A1n_vs_x_E88_pi0.pdf, page is rotated 90 degr
+ees>] (./main_Deltaq.bbl
+Underfull \hbox (badness 4084) in paragraph at lines 14--22
+[]\OT1/cmr/m/n/10.95 B. Adeva et al.  Po-lar-ized quark dis-tri-bu-tions in the
+ nu-cleon from semi-in-clu-
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 14--22
+\OT1/cmr/m/n/10.95 sive spin asym-me-tries.  \OT1/cmr/m/it/10.95 Phys.Lett.\OT1
+/cmr/m/n/10.95 , B420:180--190, 1998.  []$\OT1/cmtt/m/n/10.95 arXiv : hep-[]ex 
+/ 9711008$[]\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 76--83
+\OT1/cmr/m/n/10.95 nu-cleon in the sta-tis-ti-cal par-ton model.  \OT1/cmr/m/it
+/10.95 Physics Let-ters B\OT1/cmr/m/n/10.95 , 648(1):39 -- 45, 2007.
+ []
+
+Missing character: There is no – in font cmr10!
+[34
+
+
+]
+Underfull \hbox (badness 1009) in paragraph at lines 134--142
+[]\OT1/cmr/m/n/10.95 Ekaterina Chris-tova and El-liot Leader.  Semi-in-clu-sive
+ pi+- scat-ter-ing: Tests for in-
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 144--152
+\OT1/cmr/m/n/10.95 deep in-elas-tic scat-ter-ing.  \OT1/cmr/m/it/10.95 Nucl.Phy
+s.\OT1/cmr/m/n/10.95 , B607:369--390, 2001.  []$\OT1/cmtt/m/n/10.95 arXiv : hep
+-[]ph / 0007303$[]\OT1/cmr/m/n/10.95 ,
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 5345) in paragraph at lines 154--163
+[]\OT1/cmr/m/n/10.95 D.J.J.de Lange et al.  The op-ti-cal prop-er-ties of the b
+ig-bite spec-trom-e-ter at
+ []
+
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ç in font cmr10!
+
+Underfull \hbox (badness 1721) in paragraph at lines 178--187
+[]\OT1/cmr/m/n/10.95 M. Mi-hovilovi et al.  Meth-ods for op-ti-cal cal-i-bra-ti
+on of the big-bite hadron spec-
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 178--187
+\OT1/cmr/m/n/10.95 trom-e-ter.  \OT1/cmr/m/it/10.95 Nu-clear In-stru-ments and 
+Meth-ods in Physics Re-search Sec-tion A: Ac-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 178--187
+\OT1/cmr/m/it/10.95 cel-er-a-tors, Spec-trom-e-ters, De-tec-tors and As-so-ci-a
+ted Equip-ment\OT1/cmr/m/n/10.95 , 686(0):20 -- 30, 2012.
+ []
+
+[35]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 1259) in paragraph at lines 245--254
+[]\OT1/cmr/m/n/10.95 F. Sauli.  Gem: A new con-cept for elec-tron am-pli-fi-ca-
+tion in gas de-tec-tors.  \OT1/cmr/m/it/10.95 Nu-
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 245--254
+\OT1/cmr/m/it/10.95 e-ters, De-tec-tors and As-so-ci-ated Equip-ment\OT1/cmr/m/
+n/10.95 , 386(23):531 -- 534, 1997.  URL: []$\OT1/cmtt/m/n/10.95 http :
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 245--254
+\OT1/cmtt/m/n/10.95 / / www . sciencedirect . com / science / article / pii / S
+0168900296011722$[]\OT1/cmr/m/n/10.95 , []$\OT1/cmtt/m/n/10.95 doi : http : / /
+ dx .
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 3557) in paragraph at lines 283--292
+[]\OT1/cmr/m/n/10.95 N Akopov et al.  The \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.
+95 HERMES\OMS/cmsy/m/n/10.95 g \OT1/cmr/m/n/10.95 dual-radiator ring imag-ing c
+herenkov de-tec-
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 283--292
+\OT1/cmr/m/n/10.95 tor.  \OT1/cmr/m/it/10.95 Nu-clear In-stru-ments and Meth-od
+s in Physics Re-search Sec-tion A: Ac-cel-er-a-
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 283--292
+\OT1/cmr/m/it/10.95 tors, Spec-trom-e-ters, De-tec-tors and As-so-ci-ated Equip
+-ment\OT1/cmr/m/n/10.95 , 479(23):511 -- 530, 2002.
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+[36]
+Underfull \hbox (badness 5696) in paragraph at lines 325--332
+\OT1/cmr/m/n/10.95 Role of cahn and sivers ef-fects in deep in-elas-tic scat-te
+r-ing.  \OT1/cmr/m/it/10.95 Phys. Rev. D\OT1/cmr/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 341--348
+\OT1/cmr/m/n/10.95 flavor de-com-po-si-tion in the va-lence quark re-gion.  \OT
+1/cmr/m/it/10.95 Phys. Rev. Lett.\OT1/cmr/m/n/10.95 , 92:012004, Jan
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 5203) in paragraph at lines 350--356
+[]\OT1/cmr/m/n/10.95 K. Abe et al.  \OT1/cmr/m/it/10.95 Physics Let-ters B\OT1/
+cmr/m/n/10.95 , 452(12):194 -- 200, 1999.  URL: []$\OT1/cmtt/m/n/10.95 http :
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 350--356
+\OT1/cmtt/m/n/10.95 / / www . sciencedirect . com / science / article / pii / S
+0370269399002440$[]\OT1/cmr/m/n/10.95 , []$\OT1/cmtt/m/n/10.95 doi : http : / /
+ dx .
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 364--371
+[]\OT1/cmr/m/n/10.95 Daniel de Flo-rian, Rodolfo Sas-sot, Marco Strat-mann, and
+ Werner Vo-gel-sang.  Ex-
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 364--371
+\OT1/cmr/m/n/10.95 trac-tion of spin-dependent par-ton den-si-ties and their un
+-cer-tain-ties.  \OT1/cmr/m/it/10.95 Phys. Rev. D\OT1/cmr/m/n/10.95 ,
+ []
+
+) [37] (./main_Deltaq.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4736 strings out of 94500
+ 63026 string characters out of 1176114
+ 129984 words of memory out of 1500000
+ 7605 multiletter control sequences out of 10000+50000
+ 20322 words of font info for 76 fonts, out of 1200000 for 2000
+ 580 hyphenation exceptions out of 8191
+ 27i,12n,40p,2315b,286s stack positions out of 5000i,500n,6000p,200000b,5000s
+PDF statistics:
+ 1545 PDF objects out of 65536
+ 171 named destinations out of 20000
+ 418 words of extra memory for PDF output out of 65536
+</sw/share/texmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb></sw/share/texmf-dist
+/fonts/type1/bluesky/cm/cmbx9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/
+cmsy9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/symbols/msam10.pfb></sw/sha
+re/texmf-dist/fonts/type1/bluesky/cm/cmmi9.pfb></sw/share/texmf-dist/fonts/type
+1/bluesky/cm/cmr9.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmmi12.pfb><
+/sw/share/texmf-dist/fonts/type1/bluesky/cm/cmmi6.pfb></sw/share/texmf-dist/fon
+ts/type1/bluesky/cm/cmcsc10.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cm
+ss10.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmex10.pfb></sw/share/tex
+mf-dist/fonts/type1/bluesky/cm/cmsy6.pfb></sw/share/texmf-dist/fonts/type1/blue
+sky/cm/cmr6.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmsy10.pfb></sw/sh
+are/texmf-dist/fonts/type1/bluesky/cm/cmsy8.pfb></sw/share/texmf-dist/fonts/typ
+e1/bluesky/cm/cmr8.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmmi8.pfb><
+/sw/share/texmf-dist/fonts/type1/bluesky/cm/cmmi10.pfb></sw/share/texmf-dist/fo
+nts/type1/bluesky/cm/cmti10.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cm
+r10.pfb></sw/share/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></sw/share/texm
+f-dist/fonts/type1/bluesky/cm/cmr12.pfb></sw/share/texmf-dist/fonts/type1/blues
+ky/cm/cmbx12.pfb>
+Output written on main_Deltaq.pdf (41 pages, 2212960 bytes).
