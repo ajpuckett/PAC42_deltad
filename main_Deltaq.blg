@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: main_Deltaq.aux
+The style file: unsrturl.bst
+Database file #1: main_Deltaq.bib
+Warning--I didn't find a database entry for "Frankfurt"
+Warning--I didn't find a database entry for "PhysRevLett.101.072001"
+Warning--I didn't find a database entry for "deFlorian:2014yva"
+Warning--I didn't find a database entry for "epjcxj2006"
+Warning--I didn't find a database entry for "sassotnlo"
+Warning--I didn't find a database entry for "A1N_PR"
+Warning--I didn't find a database entry for "jcpengpol"
+Warning--I didn't find a database entry for "eichten"
+Warning--I didn't find a database entry for "thomas"
+Warning--I didn't find a database entry for "fries"
+Warning--I didn't find a database entry for "Boreskov"
+Warning--I didn't find a database entry for "cao"
+Warning--I didn't find a database entry for "Kumano"
+Warning--I didn't find a database entry for "fries2"
+Warning--I didn't find a database entry for "gluck"
+Warning--I didn't find a database entry for "steffens"
+Warning--I didn't find a database entry for "dressler"
+Warning--I didn't find a database entry for "wakamatsu"
+Warning--I didn't find a database entry for "dorokhov"
+Warning--I didn't find a database entry for "bbs"
+Warning--I didn't find a database entry for "bhalerao"
+Warning--I didn't find a database entry for "hermesthesis"
+Warning--I didn't find a database entry for "leader2"
+Warning--I didn't find a database entry for "lit:goeke"
+Warning--I didn't find a database entry for "hermes99"
+Warning--I didn't find a database entry for "graudenz"
+Warning--I didn't find a database entry for "wilson"
+Warning--I didn't find a database entry for "stratmann2001"
+Warning--I didn't find a database entry for "ssissakian2"
+Warning--I didn't find a database entry for "compass2007"
+Warning--I didn't find a database entry for "bunce00"
+Warning--I didn't find a database entry for "purity"
+Warning--I didn't find a database entry for "lund"
+Warning--I didn't find a database entry for "hermes2002"
+Warning--I didn't find a database entry for "smc1998"
+Warning--I didn't find a database entry for "field"
+Warning--empty journal in Adamczyk:2014xyw
+Warning--empty title in E06010_ALT_PRL
+Warning--empty title in SLAC_R1998
+Warning--empty journal in DSSVplus
+You've used 47 entries,
+            2522 wiz_defined-function locations,
+            989 strings with 16782 characters,
+and the built_in function-call counts, 18553 in all, are:
+= -- 1847
+> -- 774
+< -- 0
++ -- 245
+- -- 198
+* -- 1363
+:= -- 2547
+add.period$ -- 181
+call.type$ -- 47
+change.case$ -- 45
+chr.to.int$ -- 0
+cite$ -- 51
+duplicate$ -- 434
+empty$ -- 1867
+format.name$ -- 198
+if$ -- 5001
+int.to.chr$ -- 0
+int.to.str$ -- 47
+missing$ -- 42
+newline$ -- 279
+num.names$ -- 47
+pop$ -- 217
+preamble$ -- 2
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1340
+stack$ -- 0
+substring$ -- 845
+swap$ -- 164
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 89
+width$ -- 49
+write$ -- 630
+(There were 40 warnings)
