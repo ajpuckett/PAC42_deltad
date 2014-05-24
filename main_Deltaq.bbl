@@ -130,6 +130,25 @@ R.~Asaturyan, R.~Ent, H.~Mkrtchyan, T.~Navasardyan, V.~Tadevosyan, et~al.
   \href {http://dx.doi.org/10.1103/PhysRevC.85.015202}
   {\path{doi:10.1103/PhysRevC.85.015202}}.
 
+\bibitem{LFrankfurt1989141}
+Leonid~L. Frankfurt, Mark~I. Strikman, Lech Mankiewicz, Andreas Schäfer, Ewa
+  Rondio, Andrzej Sandacz, and Vassilios Papavassiliou.
+\newblock The valence and strange-sea quark spin distributions in the nucleon
+  from semi-inclusive deep inelastic lepton scattering.
+\newblock {\em Physics Letters B}, 230(1–2):141 -- 148, 1989.
+\newblock URL:
+  \url{http://www.sciencedirect.com/science/article/pii/0370269389916687},
+  \href {http://dx.doi.org/http://dx.doi.org/10.1016/0370-2693(89)91668-7}
+  {\path{doi:http://dx.doi.org/10.1016/0370-2693(89)91668-7}}.
+
+\bibitem{PhysRevD.44.3691}
+F.~E. Close and R.~G. Milner.
+\newblock Probing the polarized sea by inclusive leptoproduction of hadrons.
+\newblock {\em Phys. Rev. D}, 44:3691--3694, Dec 1991.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevD.44.3691}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.44.3691}
+  {\path{doi:10.1103/PhysRevD.44.3691}}.
+
 \bibitem{Christova:1999he}
 Ekaterina Christova and Elliot Leader.
 \newblock {Semiinclusive pi+- scattering: Tests for independent fragmentation
@@ -149,6 +168,41 @@ Ekaterina Christova and Elliot Leader.
   {\path{arXiv:hep-ph/0007303}}, \href
   {http://dx.doi.org/10.1016/S0550-3213(01)00244-9}
   {\path{doi:10.1016/S0550-3213(01)00244-9}}.
+
+\bibitem{e8661}
+E.~A. Hawker, T.~C. Awes, M.~E. Beddo, C.~N. Brown, J.~D. Bush, T.~A. Carey,
+  T.~H. Chang, W.~E. Cooper, C.~A. Gagliardi, G.~T. Garvey, D.~F. Geesaman,
+  X.~C. He, L.~D. Isenhower, S.~B. Kaufman, D.~M. Kaplan, P.~N. Kirk, D.~D.
+  Koetke, G.~Kyle, D.~M. Lee, W.~M. Lee, M.~J. Leitch, N.~Makins, P.~L.
+  McGaughey, J.~M. Moss, B.~A. Mueller, P.~M. Nord, B.~K. Park,
+  V.~Papavassiliou, J.~C. Peng, G.~Petitt, P.~E. Reimer, M.~E. Sadler,
+  J.~Selden, P.~W. Stankus, W.~E. Sondheim, T.~N. Thompson, R.~S. Towell, R.~E.
+  Tribble, M.~A. Vasiliev, Y.~C. Wang, Z.~F. Wang, J.~C. Webb, J.~L. Willis,
+  D.~K. Wise, and G.~R. Young.
+\newblock Measurement of the light antiquark flavor asymmetry in the nucleon
+  sea.
+\newblock {\em Phys. Rev. Lett.}, 80:3715--3718, Apr 1998.
+\newblock URL: \url{http://link.aps.org/doi/10.1103/PhysRevLett.80.3715}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.80.3715}
+  {\path{doi:10.1103/PhysRevLett.80.3715}}.
+
+\bibitem{e8662}
+J.C. Peng et~al.
+\newblock {Anti-d / anti-u asymmetry and the origin of the nucleon sea}.
+\newblock {\em Phys.Rev.}, D58:092004, 1998.
+\newblock \href {http://arxiv.org/abs/hep-ph/9804288}
+  {\path{arXiv:hep-ph/9804288}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.58.092004}
+  {\path{doi:10.1103/PhysRevD.58.092004}}.
+
+\bibitem{Jiang:2006qc}
+X.~Jiang, G.A. Navarro, and R.~Sassot.
+\newblock {Sea quark polarization and semi-inclusive DIS data}.
+\newblock {\em Eur.Phys.J.}, C47:81--85, 2006.
+\newblock \href {http://arxiv.org/abs/hep-ph/0602236}
+  {\path{arXiv:hep-ph/0602236}}, \href
+  {http://dx.doi.org/10.1140/epjc/s2006-02525-7}
+  {\path{doi:10.1140/epjc/s2006-02525-7}}.
 
 \bibitem{BigBiteOptics1998}
 D.J.J.de Lange et~al.
@@ -202,8 +256,8 @@ G.~Cates, E.~Cisbani, G.~Franklin, A.~Puckett, B.~Wojtsekhowski, et~al.
   Electroproduction on a Transversely Polarized $^3$He Target using Super
   BigBite and BigBite in Hall A}.
 \newblock
-  \url{http://www.jlab.org/exp_prog/PACpage/PAC38/proposals/Conditionally\%20Approved/C12-09-018_Update.pdf},
-  2011.
+  \url{http://www.jlab.org/exp_prog/PACpage/PAC38/proposals/Conditionally\%20A%
+pproved/C12-09-018_Update.pdf}, 2011.
 
 \bibitem{Helium3_target}
 P.A.M. Dolph, J.~Singh, T.~Averett, A.~Kelleher, K.E. Mooney, et~al.
