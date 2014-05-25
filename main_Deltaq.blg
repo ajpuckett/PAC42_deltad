@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99c (Web2C 7.5.4)
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: main_Deltaq.aux
 The style file: unsrturl.bst
 Database file #1: main_Deltaq.bib
@@ -42,45 +42,45 @@ Warning--empty journal in Adamczyk:2014xyw
 Warning--empty title in E06010_ALT_PRL
 Warning--empty title in SLAC_R1998
 Warning--empty journal in DSSVplus
-You've used 47 entries,
+You've used 48 entries,
             2522 wiz_defined-function locations,
-            989 strings with 16782 characters,
-and the built_in function-call counts, 18553 in all, are:
-= -- 1847
-> -- 774
+            997 strings with 17028 characters,
+and the built_in function-call counts, 18938 in all, are:
+= -- 1889
+> -- 784
 < -- 0
-+ -- 245
-- -- 198
-* -- 1363
-:= -- 2547
-add.period$ -- 181
-call.type$ -- 47
-change.case$ -- 45
++ -- 248
+- -- 200
+* -- 1390
+:= -- 2596
+add.period$ -- 185
+call.type$ -- 48
+change.case$ -- 46
 chr.to.int$ -- 0
-cite$ -- 51
-duplicate$ -- 434
-empty$ -- 1867
-format.name$ -- 198
-if$ -- 5001
+cite$ -- 52
+duplicate$ -- 443
+empty$ -- 1908
+format.name$ -- 200
+if$ -- 5108
 int.to.chr$ -- 0
-int.to.str$ -- 47
-missing$ -- 42
-newline$ -- 279
-num.names$ -- 47
-pop$ -- 217
+int.to.str$ -- 48
+missing$ -- 43
+newline$ -- 285
+num.names$ -- 48
+pop$ -- 221
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1340
+skip$ -- 1370
 stack$ -- 0
-substring$ -- 845
-swap$ -- 164
+substring$ -- 866
+swap$ -- 169
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 89
-width$ -- 49
-write$ -- 630
+while$ -- 91
+width$ -- 50
+write$ -- 644
 (There were 40 warnings)
