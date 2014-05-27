@@ -1,0 +1,35 @@
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=.75\textwidth]{figures/A1n_vs_x_E11_pip.pdf}
+  \end{center}
+  \caption{\label{A1n_pip_11gev} Projected uncertainties in $A_{1,\pi^+}^{n}(x,z)$ from combined 11 GeV running at both SBS angle settings, compared to the predictions of the recent NLO global QCD analysis of DSSV~\cite{DSSVplus}}
+\end{figure}
+
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=.75\textwidth]{figures/A1n_vs_x_E11_pim.pdf}
+  \end{center}
+  \caption{\label{A1n_pim_11gev} Projected uncertainties in $A_{1,\pi^-}^{n}(x,z)$ from combined 11 GeV running at both SBS angle settings, compared to the predictions of the recent NLO global QCD analysis of DSSV~\cite{DSSVplus}}
+\end{figure}
+
+
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=.75\textwidth]{figures/A1n_vs_x_E11_kp.pdf}
+  \end{center}
+  \caption{\label{A1n_kp_11gev} Projected uncertainties in $A_{1,K^+}^{n}(x,z)$ from combined 11 GeV running at both SBS angle settings, compared to the predictions of the recent NLO global QCD analysis of DSSV~\cite{DSSVplus}}
+\end{figure}
+
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=.75\textwidth]{figures/A1n_vs_x_E11_km.pdf}
+  \end{center}
+  \caption{\label{A1n_km_11gev} Projected uncertainties in $A_{1,K^-}^{n}(x,z)$ from combined 11 GeV running at both SBS angle settings, compared to the predictions of the recent NLO global QCD analysis of DSSV~\cite{DSSVplus}}
+\end{figure}
+
+\begin{figure}[h]
+  \begin{center}
+    \includegraphics[width=.75\textwidth]{figures/A1n_vs_x_E11_pi0.pdf}
+  \end{center}
+  \caption{\label{A1n_pi0_11gev} Projected uncertainties in $A_{1,\pi^0}^{n}(x,z)$ from combined 11 GeV running at both SBS angle settings, compared to the predictions of the recent NLO global QCD analysis of DSSV~\cite{DSSVplus}}
+\end{figure}
