@@ -2,7 +2,7 @@
 \contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Nucleon Spin: Valence and Sea Quark Polarization}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Flavor Asymmetry of Unpolarized and Polarized Sea}{8}{section.2.2}
-\contentsline {chapter}{\numberline {3}SIDIS Spin Asymmetries and Method of Spin-Flavor Decomposition}{11}{chapter.3}
+\contentsline {chapter}{\numberline {3}SIDIS Spin Asymmetries $A_{1N}^h$ and Methods of Spin-Flavor Decomposition}{11}{chapter.3}
 \contentsline {section}{\numberline {3.1}Semi-Inclusive DIS kinematic definitions}{11}{section.3.1}
 \contentsline {section}{\numberline {3.2}Beam-target double-spin asymmetries at leading order\nobreakspace {}}{11}{section.3.2}
 \contentsline {section}{\numberline {3.3}HERMES and COMPASS results from leading order\nobreakspace {}purity method }{12}{section.3.3}
@@ -29,18 +29,31 @@
 \contentsline {subsection}{\numberline {4.3.5}Projected Statistical Uncertainties in $A_{1h}^n(x,z)$}{31}{subsection.4.3.5}
 \contentsline {subsection}{\numberline {4.3.6}Comparison to Existing Data}{33}{subsection.4.3.6}
 \contentsline {subsection}{\numberline {4.3.7}Comparison to Other Approved Experiments and the Role of This Proposal in the Overall JLab 12 GeV SIDIS Program}{34}{subsection.4.3.7}
-\contentsline {chapter}{Acknowledgments}{34}{figure.4.11}
-\contentsline {chapter}{\numberline {A}HERMES and COMPASS Results and NLO Global Fits}{36}{appendix.A}
-\contentsline {section}{\numberline {A.1}HERMES and COMPASS results of Leading-Order purity method }{36}{section.A.1}
-\contentsline {section}{\numberline {A.2}NLO global fit to DIS and SIDIS Data}{38}{section.A.2}
-\contentsline {chapter}{\numberline {B}Leading-Order SIDIS Asymmetries and SU(2) Assumptions }{40}{appendix.B}
-\contentsline {section}{\numberline {B.1}Leading-order SIDIS asymmetries}{40}{section.B.1}
-\contentsline {subsection}{\numberline {B.1.1}Spin-dependent and spin-independent cross sections}{41}{subsection.B.1.1}
-\contentsline {subsection}{\numberline {B.1.2}The asymmetries expressed in ``fixed-$z$ purity''}{41}{subsection.B.1.2}
-\contentsline {section}{\numberline {B.2}Systematic uncertainties introduced by SU(2) symmetry violations }{41}{section.B.2}
-\contentsline {subsection}{\numberline {B.2.1}Case-1: only $u$ and $d$ fragmentation functions violate SU(2)}{42}{subsection.B.2.1}
-\contentsline {subsection}{\numberline {B.2.2}Case-12: only $\mathaccentV {bar}016{u}$ and $\mathaccentV {bar}016{d}$ fragmentation functions violate SU(2)}{43}{subsection.B.2.2}
-\contentsline {chapter}{\numberline {C}Projected Results of SIDIS Asymmetries on $^3$He and Neutron}{44}{appendix.C}
-\contentsline {chapter}{\numberline {D}Projected Results of LO Spin-Flavor Decomposition}{50}{appendix.D}
-\contentsline {section}{\numberline {D.1} Statistical Uncertainties of LO Christova-Leader Method of Spin-Flavor Decomposition}{50}{section.D.1}
-\contentsline {chapter}{References}{53}{section*.2}
+\contentsline {chapter}{\numberline {5}Expected Results on Nucleon Spin-Flavor Decomposition}{38}{chapter.5}
+\contentsline {section}{\numberline {5.1}Systematic uncertainties on asymmetry $A_{1He}^h$ and $A_{1n}^h$}{38}{section.5.1}
+\contentsline {section}{\numberline {5.2}Expected results from NLO global fit and impacts to DSSV2008}{39}{section.5.2}
+\contentsline {section}{\numberline {5.3}Expected results from Leading-Oder ``purity'' method}{39}{section.5.3}
+\contentsline {section}{\numberline {5.4}Expected results fromLeading-Order Christova-Leader method}{39}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Statistical uncertainties of the combined asymmetries $A_{1He}^{\pi ^+ - \pi ^-}$ }{39}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Valence quark polarization and their moments}{39}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}??? Need doble-check ??? Statistical and systematic uncertainty $\Delta \mathaccentV {bar}016{u} -\Delta \mathaccentV {bar}016{d}$}{40}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}??? Need double-check??? Other systematic uncertainties}{40}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Effective nucleon polarization in $^3$He}{40}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}$\pi $-$N$ final state interaction }{40}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Target fragmentation and vector meson production }{40}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Corrections from non-vanishing $A^n_{\perp }$ (or $A^n_{LT}$) }{41}{subsection.5.5.4}
+\contentsline {chapter}{Acknowledgments}{41}{subsection.5.5.4}
+\contentsline {chapter}{\numberline {A}HERMES and COMPASS Results and NLO Global Fits}{42}{appendix.A}
+\contentsline {section}{\numberline {A.1}HERMES and COMPASS results of Leading-Order purity method }{42}{section.A.1}
+\contentsline {section}{\numberline {A.2}NLO global fit to DIS and SIDIS Data}{44}{section.A.2}
+\contentsline {chapter}{\numberline {B}Leading-Order SIDIS Asymmetries and SU(2) Assumptions }{47}{appendix.B}
+\contentsline {section}{\numberline {B.1}Leading-order SIDIS asymmetries}{47}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}Spin-dependent and spin-independent cross sections}{48}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {B.1.2}The asymmetries expressed in ``fixed-$z$ purity''}{48}{subsection.B.1.2}
+\contentsline {section}{\numberline {B.2}Systematic uncertainties introduced by SU(2) symmetry violations }{48}{section.B.2}
+\contentsline {subsection}{\numberline {B.2.1}Case-1: only $u$ and $d$ fragmentation functions violate SU(2)}{49}{subsection.B.2.1}
+\contentsline {subsection}{\numberline {B.2.2}Case-12: only $\mathaccentV {bar}016{u}$ and $\mathaccentV {bar}016{d}$ fragmentation functions violate SU(2)}{50}{subsection.B.2.2}
+\contentsline {chapter}{\numberline {C}Projected Results of SIDIS Asymmetries on $^3$He and Neutron}{51}{appendix.C}
+\contentsline {chapter}{\numberline {D}Projected Results of LO Spin-Flavor Decomposition}{57}{appendix.D}
+\contentsline {section}{\numberline {D.1} Statistical Uncertainties of LO Christova-Leader Method of Spin-Flavor Decomposition}{57}{section.D.1}
+\contentsline {chapter}{References}{60}{section*.2}
