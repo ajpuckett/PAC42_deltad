@@ -451,4 +451,19 @@ M.G. Alekseev et~al.
   \href {http://dx.doi.org/10.1016/j.physletb.2010.08.034}
   {\path{doi:10.1016/j.physletb.2010.08.034}}.
 
+\bibitem{CLAS12_ND3_longitudinal}
+H.~Avagyan, P.~Bosted, K.~Griffioen, K.~Hafidi, P.~Rossi, et~al.
+\newblock {Studies of Spin-orbit Correlations with Longitudinally Polarized
+  Target}.
+\newblock \url{http://www.jlab.org/exp_prog/proposals/07/PR12-07-107.pdf},
+  2007.
+
+\bibitem{SOLID_He3_longitudinal}
+J.~P. Chen, J.~Huang, Y.~Qiang, et~al.
+\newblock {Asymmetries in Semi-Inclusive Deep-Inelastic $(e,e'\pi^\pm)$
+  Reactions on a Longitudinally Polarized $^3$He Target at 8.8 and 11 GeV}.
+\newblock
+  \url{http://www.jlab.org/exp_prog/PACpage/PAC37/proposals/Proposals/New\%20P%
+roposals/PR-11-007.pdf}, 2011.
+
 \end{thebibliography}
