@@ -1,4 +1,4 @@
-\section{Leading-order SIDIS asymmetries}
+\section{Leading-order SIDIS asymmetries $A_{1N}^h$}
 Following the  short-hand notation of 
 Ref~\cite{leader2}, we take the spin-independent cross section as:
 \begin{equation}  
@@ -31,12 +31,12 @@ For the quark to kaon fragmentation functions, the following relations are valid
 \label{eq:fragk}  
 \end{eqnarray} 
 
-For this experiment, which covers $0.110<x<0.461$,
+For this experiment, which covers $0.16<x<0.73$,
  we will assume a symmetrical strange quark distribution and polarization
  ($s(x)=\bar{s}(x)$, $\Delta s(x)=\Delta \bar{s}(x)$) and neglect 
  heavy quark contributions.   
 
-\subsection{Spin-dependent and spin-independent cross sections} 
+\subsection{Spin-dependent and spin-independent cross sections at LO} 
 According to Eq.~\ref{eq:fact2}, semi-inclusive  $\pi^{+}$ and $\pi^{-}$ cross section
  on proton and neutron are: 
 \begin{eqnarray}  
@@ -64,41 +64,51 @@ The semi-inclusive  $K^{+}$ and $K^{-}$ cross sections are:
  + (4 {\bar d}+ s)D_{K}^+ + (u +\bar{u}) D_d^{K}. 
 \label{eq:nucleonk}  
 \end{eqnarray}  
-To  get the spin-dependent cross sections ($\Delta \sigma^h$), one   
-replaces the quark distributions in Eq.~\ref{eq:nucleon} and ~\ref{eq:nucleonk} 
-with the quark polarization distributions.
+To obtain the spin-dependent cross sections ($\Delta \sigma^h$), one   
+replaces the unpolarized quark distributions $q(x)$ in Eq.~\ref{eq:nucleon} and ~\ref{eq:nucleonk} 
+with the quark polarization distributions $\Delta q(x)$.
 
 \subsection{The asymmetries expressed in  ``fixed-$z$ purity''} 
-The ``fixed-$z$ purity'' is defined as the linear coefficients 
-in front of $\Delta q$ in the 
-expression of double spin asymmetries, $A_{1}^h=\Delta \sigma^h/\sigma^h$.
-At the fixed value of $z$ and $x$, these coefficients are obtained from the
-unpolarized parton distribution functions and the fragmentation function ratios.  
-For example:
+
+For this experiment,   due to the high statistics nature, we can afford to follow the HERMES analysis of  ``purity'' method at every fixed $z$-bins instead of integrating over  $z$ to obtain spin-flavor decomposition, and scrutinizing the $z$-dependent behavior of the extracted parton distributions, as an extra systematic crosscheck.
+
+With the ``fixed-$z$ purity'' method,  we solve for five unknown quantities, taking the notation of $(\Delta s +\Delta \bar{s})/(s+\bar{s}= \Delta s/s$,
+ $$X=\{\Delta u/u, \Delta d/d, \Delta \bar{u}/\bar{u},
+ \Delta \bar{d}/\bar{d},   \Delta s/s\}$$ first for each kinematic bin of $(x, Q^2,z)$  through measurements of asymmetries $$A=\{ A_{1n}, A_{1n}^{\pi^+}, A_{1n}^{\pi^-},A_{1n}^{K^+},A_{1n}^{K^-} \}$$ with  linear relations  of $A=M\cdot X$.  Notice that for multiple $z$-bins corresponding to the same $(x,Q^2)$, the same inclusive asymmetry $A_{1n}$ will be used.  Once we have clearly verified the $z$-independency of  the extracted polarized parton quantities $X$, we can solve the linear equations once again, combining data of all $z$-bin of the same  $(x,Q^2)$.
+
+We define the ``fixed-$z$ purity'' matrix elements $M_{ij}$ as  the linear coefficients 
+in front of $\Delta q/q$ in linear relations of $A=M\cdot X$, as defined in Eq.~\ref{Eq:a1nh}. These coefficients ($M_{ij}$) are obtained from the
+unpolarized parton distribution functions and the fragmentation function ratios.   This experiment will have a somewhat lower statistics for SIDIS $\pi^0$ production channel, relative to the charged pion channels, due to the lower efficiency of $\pi^0 \rightarrow 2 \gamma$  reconstruction by the SBS calorimeter.   At this moment, we chose not to include $\pi^0$  asymmetry data in ``fixed-$z$' purity'' LO spin-flavor decomposition.   On the other hand, we include the expected inclusive $A_{1n}$ data points,  they provide similar constrains to $\Delta q/q$ as SIDIS $\pi^0$ channel, but with higher available statistical precisions.  
+
+The  double spin asymmetries, $A_{1N}^h=\Delta \sigma^h/\sigma^h$ can be expressed
+at a fixed value of $(x, Q^2, z)$,  we have: 
 \begin{eqnarray}
-%\label{Eq:a1pi}
-A_{1p}^{\pi^+} & = & 
-{  4\Delta u+ \Delta {\bar d} + \left( 4\Delta {\bar u} + \Delta d \right) 
+\label{Eq:a1nh}
+A_{1n} & = & 
+{  \Delta u+ \Delta {\bar u} + 4 ( \Delta d + \Delta \bar{d} ) + 2 \Delta s 
+\over u  + {\bar u} + 4(d+\bar{d} )+ 2s },  \nonumber  \\
+A_{1n}^{\pi^+} & = & 
+{  4\Delta d+ \Delta {\bar u} + \left( 4\Delta {\bar d} + \Delta u \right) 
  \lambda_{\pi} + 2 \Delta s  \xi_{\pi}
-\over 4u  + {\bar d} + \left(4{\bar u} + d \right)  \lambda_{\pi} + 
-2 s \ \xi_{\pi}},  \\
-%A_{1d}^{\pi^+} & = & 
-%{  4(\Delta u+\Delta d)+ \Delta {\bar u}+ \Delta {\bar d} + \left( \Delta u + \Delta d + 4(\Delta {\bar u} + \Delta \bar{d}) \right) 
-% \lambda_{\pi} + 4 \Delta s \xi_{\pi}
-%\over 4(u +d) + {\bar u}+ {\bar d} + \left(u+d+4({\bar u} + \bar{d}) \right)  \lambda_{\pi} + 
-%4 s  \xi_{\pi}}, \\ 
-A_{1He}^{\pi^+} & = & 
-{ 4 \Delta d+ \Delta {\bar u} + \left( \Delta u + 4 \Delta {\bar d} \right) 
+\over 4d  + {\bar u} + \left(4{\bar d} + u \right)  \lambda_{\pi} + 
+2 s \ \xi_{\pi}},  \nonumber  \\
+A_{1n}^{\pi^-} & = & 
+{  4\Delta \bar{d}+ \Delta u + \left( 4\Delta d + \Delta \bar{u} \right) 
  \lambda_{\pi} + 2 \Delta s  \xi_{\pi}
-\over 8u  + 4d + {\bar u} +2 {\bar d} + \left(u + 2d+ 8{\bar u} + 4{\bar d} \right)  \lambda_{\pi} + 
-6s \xi_{\pi}},  \\
-A_{1p}^{K^+} & = & 
-{  4\Delta u+ \Delta s + \left( 4\Delta {\bar u} + \Delta s \right) 
- \lambda_{K} + (\Delta d+\Delta \bar{d})  \xi_{K}
-\over 4u  + s + \left(4{\bar u} + s \right)  \lambda_{K} + 
-(d+\bar{d})  \xi_{K}}, etc. 
+\over 4\bar{d}  + u + \left(4 d + \bar{u} \right)  \lambda_{\pi} + 
+2 s \ \xi_{\pi}},  \nonumber  \\
+A_{1n}^{K^+} & = & 
+{  4\Delta d+ \Delta s + \left( 4\Delta {\bar d} + \Delta s \right) 
+ \lambda_{K} + (\Delta u+\Delta \bar{u})  \xi_{K}
+\over 4d  + s + \left(4{\bar d} + s \right)  \lambda_{K} + 
+(u+\bar{u})  \xi_{K}}, \nonumber  \\
+A_{1n}^{K^-} & = & 
+{  4\Delta \bar{d}+ \Delta s + \left( 4\Delta  d + \Delta s \right) 
+ \lambda_{K} + (\Delta u+\Delta \bar{u})  \xi_{K}
+\over 4\bar{d}  + s + \left(4d + s \right)  \lambda_{K} + 
+(u+\bar{u})  \xi_{K}}. 
 \end{eqnarray}
-%and charge kaon asymmetries: 
+
 where the fragmentation function ratios are defined as:
 \begin{eqnarray}
 \lambda_{\pi}(z)  & = & D_{\pi}^-(z)/D_{\pi}^+(z), 
@@ -107,8 +117,33 @@ where the fragmentation function ratios are defined as:
 \hspace{1.0cm} \xi_{K}(z)=D_{d}^{K}(z)/D_{K}^+(z).
 %\label{Eq:dratio}
 \end{eqnarray}  
-%
-\section{Systematic uncertainties introduced by SU(2) symmetry 
+
+Therefore, through Eq.~\ref{Eq:a1nh}, we can read off matrix elements of $M_{ij}$, for example:
+ \begin{eqnarray}
+\label{Eq:mij}
+M_{11} & = & 
+{ u 
+\over u  + {\bar u} + 4(d+\bar{d} )+ 2s },  \nonumber  \\
+M_{21} & = & 
+{  u \cdot  \lambda_{\pi} 
+\over 4d  + {\bar u} + \left(4{\bar d} + u \right)  \lambda_{\pi} + 
+2 s \ \xi_{\pi}},  \nonumber  \\
+M_{31} & = & 
+{   u 
+\over 4\bar{d}  + u + \left(4 d + \bar{u} \right)  \lambda_{\pi} + 
+2 s \ \xi_{\pi}},  \nonumber  \\
+M_{41} & = & 
+{   u \cdot  \xi_{K}
+\over 4d  + s + \left(4{\bar d} + s \right)  \lambda_{K} + 
+(u+\bar{u})  \xi_{K}}, \nonumber  \\
+M_{51} & = & 
+{  u \cdot  \xi_{K}
+\over 4\bar{d}  + s + \left(4d + s \right)  \lambda_{K} + 
+(u+\bar{u})  \xi_{K}},  etc. 
+\end{eqnarray}
+
+
+\section{Systematic uncertainties in Chritova-Leader LO method introduced by SU(2) symmetry 
 violations }
 
 This section was originally provided to PAC34 to address questions raised by Dr. N. Makins  on systematic uncertainties introduced by 
