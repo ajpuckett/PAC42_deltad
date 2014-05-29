@@ -474,4 +474,13 @@ H.~Gao, X.~Qian, J.~P. Chen, X.~Jiang, et~al.
 \newblock \url{http://www.jlab.org/exp_prog/proposals/10/PR12-10-006.pdf},
   2010.
 
+\bibitem{Cloet:2005pp}
+I.C. Cloet, Wolfgang Bentz, and Anthony~William Thomas.
+\newblock {Nucleon quark distributions in a covariant quark-diquark model}.
+\newblock {\em Phys.Lett.}, B621:246--252, 2005.
+\newblock \href {http://arxiv.org/abs/hep-ph/0504229}
+  {\path{arXiv:hep-ph/0504229}}, \href
+  {http://dx.doi.org/10.1016/j.physletb.2005.06.065}
+  {\path{doi:10.1016/j.physletb.2005.06.065}}.
+
 \end{thebibliography}

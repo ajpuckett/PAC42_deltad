@@ -49,45 +49,45 @@ Warning--empty journal in Adamczyk:2014xyw
 Warning--empty title in E06010_ALT_PRL
 Warning--empty title in SLAC_R1998
 Warning--empty journal in DSSVplus
-You've used 51 entries,
+You've used 52 entries,
             2522 wiz_defined-function locations,
-            1023 strings with 18094 characters,
-and the built_in function-call counts, 19679 in all, are:
-= -- 1952
-> -- 838
+            1031 strings with 18296 characters,
+and the built_in function-call counts, 20078 in all, are:
+= -- 1994
+> -- 851
 < -- 0
-+ -- 266
-- -- 215
-* -- 1417
-:= -- 2719
-add.period$ -- 194
-call.type$ -- 51
-change.case$ -- 49
++ -- 270
+- -- 218
+* -- 1448
+:= -- 2771
+add.period$ -- 198
+call.type$ -- 52
+change.case$ -- 50
 chr.to.int$ -- 0
-cite$ -- 55
-duplicate$ -- 455
-empty$ -- 1971
-format.name$ -- 215
-if$ -- 5312
+cite$ -- 56
+duplicate$ -- 464
+empty$ -- 2012
+format.name$ -- 218
+if$ -- 5421
 int.to.chr$ -- 0
-int.to.str$ -- 51
-missing$ -- 43
-newline$ -- 300
-num.names$ -- 51
-pop$ -- 233
+int.to.str$ -- 52
+missing$ -- 44
+newline$ -- 306
+num.names$ -- 52
+pop$ -- 237
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1430
+skip$ -- 1459
 stack$ -- 0
-substring$ -- 866
-swap$ -- 169
+substring$ -- 887
+swap$ -- 174
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 94
-width$ -- 53
-write$ -- 674
+while$ -- 96
+width$ -- 54
+write$ -- 688
 (There were 47 warnings)
