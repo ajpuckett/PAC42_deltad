@@ -1,7 +1,9 @@
-This is BibTeX, Version 0.99c (Web2C 7.5.4)
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: main_Deltaq.aux
 The style file: unsrturl.bst
 Database file #1: main_Deltaq.bib
+Warning--string name "june" is undefined
+--line 417 of file main_Deltaq.bib
 Warning--I didn't find a database entry for "Frankfurt"
 Warning--I didn't find a database entry for "PhysRevLett.101.072001"
 Warning--I didn't find a database entry for "deFlorian:2014yva"
@@ -33,6 +35,7 @@ Warning--I didn't find a database entry for "stratmann2001"
 Warning--I didn't find a database entry for "ssissakian2"
 Warning--I didn't find a database entry for "compass2007"
 Warning--I didn't find a database entry for "bunce00"
+Warning--I didn't find a database entry for "COMPASS_d_p_2010"
 Warning--I didn't find a database entry for "hermes2002"
 Warning--I didn't find a database entry for "lit:bbfit"
 Warning--I didn't find a database entry for "xiaochao"
@@ -49,36 +52,37 @@ Warning--empty journal in Adamczyk:2014xyw
 Warning--empty title in E06010_ALT_PRL
 Warning--empty title in SLAC_R1998
 Warning--empty journal in DSSVplus
-You've used 52 entries,
+Warning--empty title in Projections_link
+You've used 53 entries,
             2522 wiz_defined-function locations,
-            1031 strings with 18296 characters,
-and the built_in function-call counts, 20078 in all, are:
-= -- 1994
-> -- 851
+            1042 strings with 18555 characters,
+and the built_in function-call counts, 20251 in all, are:
+= -- 2010
+> -- 855
 < -- 0
-+ -- 270
-- -- 218
-* -- 1448
-:= -- 2771
-add.period$ -- 198
-call.type$ -- 52
++ -- 272
+- -- 219
+* -- 1452
+:= -- 2797
+add.period$ -- 200
+call.type$ -- 53
 change.case$ -- 50
 chr.to.int$ -- 0
-cite$ -- 56
-duplicate$ -- 464
-empty$ -- 2012
-format.name$ -- 218
-if$ -- 5421
+cite$ -- 58
+duplicate$ -- 468
+empty$ -- 2032
+format.name$ -- 219
+if$ -- 5472
 int.to.chr$ -- 0
-int.to.str$ -- 52
+int.to.str$ -- 53
 missing$ -- 44
-newline$ -- 306
-num.names$ -- 52
-pop$ -- 237
+newline$ -- 310
+num.names$ -- 53
+pop$ -- 242
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1459
+skip$ -- 1476
 stack$ -- 0
 substring$ -- 887
 swap$ -- 174
@@ -86,8 +90,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
-while$ -- 96
-width$ -- 54
-write$ -- 688
-(There were 47 warnings)
+warning$ -- 5
+while$ -- 97
+width$ -- 55
+write$ -- 696
+(There were 50 warnings)

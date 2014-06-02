@@ -442,14 +442,13 @@ M.~Alekseev et~al.
   \href {http://dx.doi.org/10.1016/j.physletb.2009.08.065}
   {\path{doi:10.1016/j.physletb.2009.08.065}}.
 
-\bibitem{COMPASS_d_p_2010}
-M.G. Alekseev et~al.
-\newblock {Quark helicity distributions from longitudinal spin asymmetries in
-  muon-proton and muon-deuteron scattering}.
-\newblock {\em Phys.Lett.}, B693:227--235, 2010.
-\newblock \href {http://arxiv.org/abs/1007.4061} {\path{arXiv:1007.4061}},
-  \href {http://dx.doi.org/10.1016/j.physletb.2010.08.034}
-  {\path{doi:10.1016/j.physletb.2010.08.034}}.
+\bibitem{Alekseev:2007vi}
+M.~Alekseev et~al.
+\newblock {The Polarised Valence Quark Distribution from semi-inclusive DIS}.
+\newblock {\em Phys.Lett.}, B660:458--465, 2008.
+\newblock \href {http://arxiv.org/abs/0707.4077} {\path{arXiv:0707.4077}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2007.12.056}
+  {\path{doi:10.1016/j.physletb.2007.12.056}}.
 
 \bibitem{CLAS12_ND3_longitudinal}
 H.~Avagyan, P.~Bosted, K.~Griffioen, K.~Hafidi, P.~Rossi, et~al.
@@ -482,5 +481,10 @@ I.C. Cloet, Wolfgang Bentz, and Anthony~William Thomas.
   {\path{arXiv:hep-ph/0504229}}, \href
   {http://dx.doi.org/10.1016/j.physletb.2005.06.065}
   {\path{doi:10.1016/j.physletb.2005.06.065}}.
+
+\bibitem{Projections_link}
+A.~J.~R. Puckett.
+\newblock \url{https://userweb.jlab.org/~puckett/PAC42_deltad/projections},
+  2014.
 
 \end{thebibliography}
