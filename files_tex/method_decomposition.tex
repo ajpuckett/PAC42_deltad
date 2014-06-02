@@ -13,12 +13,66 @@ Throughout this proposal, SU(2) isospin symmetry and charge conjugation invarian
 assumed and heavy quark contributions are neglected.
 
 \section{Semi-Inclusive DIS kinematic definitions}
+%
+The deep inelastic electron scattering process is: 
+$e(k) + N(P) \rightarrow e'(k') + X(P_{_X})$.
+The initial electron $(e)$ with 4-momentum $k \,=\, (E, {\bf k})$ exchanges 
+a photon of 4-momentum $q$ with a target $(N)$ with 4-momentum $P$.
+In an inclusive experiment the outgoing electron $(e')$ with 4-momentum 
+$k' \,=\, (E', {\bf k'})$ is detected. 
+The DIS process is often modeled in the Bjorken limit in which $Q^2$ and photon
+energy $\nu$ both go 
+to infinity while the ratio, $x_{_{Bj}} \,=\, Q^2/(2M\nu)$, is held fixed.
+Another useful dimensionless variable is $y= \nu/E$, the fractional energy
+loss of the electron in the scattering process.
+The target's spin 4-vector ${\bf S}$ describes the target polarization direction in the lab
+frame.
+This direction, ${\bf S}$, is often decomposed into $S_{_L}$ and the ${\bf S_{_T}}$,
+longitudinal and transverse projections  
+with respect to the direction of the 3-momentum of the virtual photon.
+%
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{|rll|}
+\hline
+$M$ & & Mass of target nucleon \\
+$k$ & $ =\, (E,{\bf k}) $ & 4-momenta of the initial state electron \\
+$P$ & $ \stackrel{lab}{=} (M, 0)$ & 4-momentum of the initial target nucleon \\
+$S_T$ & & Target's spin 4-vector \\
+\hline
+$k^\prime$ & $ =\, (E^\prime, {\bf k^\prime})$ & 4-momenta of the final state electron \\
+$\theta$ & & Polar angle of the scattered electron \\
+$q $   & $ =\, (E-E^\prime, {\bf k-k^\prime})$ & $\gamma^*$ 4-momentum  \\
+$Q^2 $ & $ =\, -q^2$ & Negative squared 4-momentum transfer \\
+$\nu $ & $ = {P \cdot q}/{M}$ & $\gamma^*$ energy in the target rest frame \\ 
+$\epsilon $ & $ \stackrel{lab}{=}\left[ 1 \,+\, 2 \frac{\nu^2+Q^2}{Q^2} \tan^2 \frac{\theta_e}{2} \right]^{-1}$ &
+       $\gamma^*$ polarization parameter \\
+$y $   & $ = (P \cdot q)/(P \cdot k) \stackrel{lab}{=} \nu/E$ & $\gamma^*$ fractional energy \\
+$x $   & $ = Q^2/(2 P \cdot q) \stackrel{lab}{=} Q^2/(2 M\nu)$ & Bjorken scaling variable $x$ \\
+$s $   & $ = (k +P)^2 = Q^2/xy +M^2$ & Square of the total 4-momentum \\
+$z $   & $ =\, {E_h}/{\nu}$ & Elasticity, fractional energy of the observed hadron\\
+$W^2 $ & $ =\, (P \,+\, q)^2 =$ & \\
+       & $ =\, M^2 + 2M\nu -Q^2$ & Squared invariant mass of the $\gamma^*$-nucleon system \\
+$P_h $ & $ =\, (E_h, {\bf P}_h)$ & 4-momentum of an observed hadron\\
+$p_T$ & & Component of ${\bf P}_h$ perpendicular to ${\bf q}$  \\
+$\theta_{qh}$ & & Polar angle between virtual photon and detected \\
+& & hadron directions\\
+$\phi$ & & Angle between the electron scattering and hadron \\ 
+& & production planes \\
+$\phi_{S}$ & & Azimuthal angle of the nucleon spin with respect to ${\bf q}$ \\ 
+$W'^2 $ & $ = \, (M + \nu - E_h)^2 - | {\bf q} - {\bf P}_h | ^2$ & invariant mass of the hadron system \\
+\hline
+\end{tabular}
+\end{center} 
+\caption[]{Kinematic variables of DIS and SIDIS.}
+\label{tab:variables}
+\end{table}
 
 \section{Beam-target double-spin asymmetries at \lo}
- At the leading order, the 
+Integrated over hadron transverse momentum $p_T$ and azimuthal angle $\phi_h$,  at the leading order, the 
  SIDIS process is separated into a hard-scale quark scattering 
  followed by a soft-scale hadronization.
- The ``naive $x$-$z$ separation'' assumption, on which the SMC and HERMES
+ The ``naive $x$-$z$ separation'' assumption, on which the SMC, HERMES, and COMPASS
 analysis were based, implies that the spin-independent 
 ($\sigma^{h}$)
 and the spin-dependent ($\Delta \sigma^{h}$)
