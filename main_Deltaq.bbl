@@ -343,6 +343,34 @@ R.~S. Bhalerao.
   {http://dx.doi.org/10.1103/PhysRevC.63.025208}
   {\path{doi:10.1103/PhysRevC.63.025208}}.
 
+\bibitem{hermesthesis}
+A.~Airapetian et~al.
+\newblock {Quark helicity distributions in the nucleon for up, down, and
+  strange quarks from semi-inclusive deep-inelastic scattering}.
+\newblock {\em Phys.Rev.}, D71:012003, 2005.
+\newblock \href {http://arxiv.org/abs/hep-ex/0407032}
+  {\path{arXiv:hep-ex/0407032}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.71.012003}
+  {\path{doi:10.1103/PhysRevD.71.012003}}.
+
+\bibitem{ssissakian2}
+A.N. Sissakian, O.~Yu. Shevchenko, and O.N. Ivanov.
+\newblock {NLO QCD procedure of the semi-inclusive deep inelastic scattering
+  data analysis with respect to the light quark polarized sea}.
+\newblock {\em Phys.Rev.}, D70:074032, 2004.
+\newblock \href {http://arxiv.org/abs/hep-ph/0411243}
+  {\path{arXiv:hep-ph/0411243}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.70.074032}
+  {\path{doi:10.1103/PhysRevD.70.074032}}.
+
+\bibitem{compass2007}
+M.~Alekseev et~al.
+\newblock {The Polarised Valence Quark Distribution from semi-inclusive DIS}.
+\newblock {\em Phys.Lett.}, B660:458--465, 2008.
+\newblock \href {http://arxiv.org/abs/0707.4077} {\path{arXiv:0707.4077}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2007.12.056}
+  {\path{doi:10.1016/j.physletb.2007.12.056}}.
+
 \bibitem{BigBiteOptics1998}
 D.J.J.de Lange et~al.
 \newblock The optical properties of the bigbite spectrometer at \{NIKHEF\}.

@@ -3,20 +3,9 @@ The top-level auxiliary file: main_Deltaq.aux
 The style file: unsrturl.bst
 Database file #1: main_Deltaq.bib
 Warning--string name "june" is undefined
---line 642 of file main_Deltaq.bib
+--line 696 of file main_Deltaq.bib
 Warning--I didn't find a database entry for "A1N_PR"
-Warning--I didn't find a database entry for "hermesthesis"
-Warning--I didn't find a database entry for "leader2"
-Warning--I didn't find a database entry for "sassotnlo"
-Warning--I didn't find a database entry for "lit:goeke"
 Warning--I didn't find a database entry for "hermes99"
-Warning--I didn't find a database entry for "graudenz"
-Warning--I didn't find a database entry for "wilson"
-Warning--I didn't find a database entry for "stratmann2001"
-Warning--I didn't find a database entry for "Jiang:2006qc"
-Warning--I didn't find a database entry for "ssissakian2"
-Warning--I didn't find a database entry for "compass2007"
-Warning--I didn't find a database entry for "bunce00"
 Warning--I didn't find a database entry for "COMPASS_d_p_2010"
 Warning--I didn't find a database entry for "lit:bbfit"
 Warning--I didn't find a database entry for "xiaochao"
@@ -29,6 +18,7 @@ Warning--I didn't find a database entry for "purity"
 Warning--I didn't find a database entry for "lund"
 Warning--I didn't find a database entry for "hermes2002"
 Warning--I didn't find a database entry for "smc1998"
+Warning--I didn't find a database entry for "leader2"
 Warning--I didn't find a database entry for "field"
 Warning--empty journal in Adamczyk:2014xyw
 Warning--empty journal in DSSVplusplus
@@ -38,45 +28,45 @@ Warning--empty title in E06010_ALT_PRL
 Warning--empty title in SLAC_R1998
 Warning--empty journal in DSSVplus
 Warning--empty title in Projections_link
-You've used 69 entries,
+You've used 72 entries,
             2522 wiz_defined-function locations,
-            1129 strings with 20934 characters,
-and the built_in function-call counts, 26145 in all, are:
-= -- 2628
-> -- 1029
+            1127 strings with 21089 characters,
+and the built_in function-call counts, 27290 in all, are:
+= -- 2750
+> -- 1062
 < -- 0
-+ -- 326
-- -- 257
-* -- 1864
-:= -- 3560
-add.period$ -- 264
-call.type$ -- 69
-change.case$ -- 66
++ -- 336
+- -- 264
+* -- 1947
+:= -- 3708
+add.period$ -- 276
+call.type$ -- 72
+change.case$ -- 69
 chr.to.int$ -- 0
-cite$ -- 77
-duplicate$ -- 613
-empty$ -- 2656
-format.name$ -- 257
-if$ -- 7097
+cite$ -- 80
+duplicate$ -- 640
+empty$ -- 2777
+format.name$ -- 264
+if$ -- 7412
 int.to.chr$ -- 0
-int.to.str$ -- 69
-missing$ -- 60
-newline$ -- 406
-num.names$ -- 69
-pop$ -- 320
+int.to.str$ -- 72
+missing$ -- 63
+newline$ -- 424
+num.names$ -- 72
+pop$ -- 332
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1934
+skip$ -- 2023
 stack$ -- 0
-substring$ -- 1164
-swap$ -- 241
+substring$ -- 1221
+swap$ -- 256
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 8
-while$ -- 127
-width$ -- 71
-write$ -- 911
-(There were 35 warnings)
+while$ -- 133
+width$ -- 74
+write$ -- 953
+(There were 25 warnings)
