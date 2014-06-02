@@ -6,7 +6,7 @@ the corresponding statistical uncertainties.  We also address major sources of s
 
 Knowledge of target polarization and dilution factor dominates the systematic uncertainty of $A_{1n}^h$.
 The effects of radiative corrections will be treated in a Monte Carlo simulation
-following the procedures of the HERMES analysis~\cite{hermes2002}, which found that the 
+following the procedures of the HERMES analysis~\cite{Airapetian:2004zf}, which found that the 
 systematic uncertainties introduced by this procedure are negligible.  
 Kinematic smearing will also be treated following the procedure of the HERMES analysis. 
 
@@ -32,7 +32,60 @@ Kinematic smearing will also be treated following the procedure of the HERMES an
 
 \section{Expected results from NLO global fit and impacts to DSSV2008}
 
+The high precision SIDIS asymmetry data of this experiment will add strong constraints to quark polarization $\Delta q$ as well as gluon polarization $\Delta g$ through NLO global fit. An independent effort to investigate the impacts of this experiment to DSSV2008, and DSSV2014 global fits is currently under way by Dr. R, Sassot of the  DSSV group.   The results of the impact study will be presented at PAC42 in July 2014,  a paper will be posted on arXiv based on this  study.    
+
+An earlier impact study~\cite{epjcxj2006} of JLab-6GeV $^3$He measurement  to NLO global fit has been conducted based on an expected data set two orders of magnitude smaller than this experiment, corresponding to a BigBite and HRS spectrometer combination.  Even with an equivalent of $\sim 1\%$ data set of this experiment, significant improvements on $\Delta q$ and $\Delta g$ are shown to have a similar constrain power as the RHIC 2006 $A_{LL}^{\pi^0}$ data set~\cite{epjcxj2006}.     
+
 \section{Expected results from Leading-Oder ``purity''  method}
+\subsection{Results of ``purity'' method at fixed-$z$ bins}
+At each fixed $z$-point corresponding to each $(x,Q^2)$ ,  `purity'' method is applied to solve for $\Delta u/u$, $\Delta d/d$, $\Delta \bar{u}/\bar{u}$,  $\Delta bar{d}/\bar{d}$ and $(\Delta s+\Delta \bar{s})/(s+\bar{s})$ from five measured asymmetries $A_{1n}$, $A_{1n}^{\pi^+}$, $A_{1n}^{\pi^-}$, $A_{1n}^{K^+}$ and  $A_{1n}^{K^-}$.  We note that we have not used  the extra constraints from $A_{1n}^{\pi^0}$ measurement yet, due to the expected  $\sim 10 \%$  $\pi^0$ reconstruction efficiency.
+
+The expected statistical uncertainties of fixed$-z$ ``purity'' spin flavor decomposition are listed in Appendix~\ref{App:spin_flavor}, Table~\ref{tab:purity1}  and Table~\ref{tab:purity2} . For different $z$-bins corresponding to the same $(x,Q^2)$, the $z$-dependency, or the lack of it, of the extracted $\Delta q/q$ can be used to verify the predicted Leading-Order $x-z$ naive separation, or set a systematic upper limit on how well this assumption holds. 
+
+Once the $z$-independence behavior is verified, data from different $z$-bins corresponding to the same $(x,Q^2)$ will add extra independent linear equations to constrain the five unknowns of $\Delta q/q$. The results are listed in Table~\ref{tab:purityallz}. Notice that relative quark polarization  uncertainty values larger than $100 \%$ are not listed in the table.  
+%
+%-------------------------------------------------------------------------------
+\begin{table}[htbp]
+\begin{center}
+%\vspace{-0.5cm}
+\begin{tabular}{|ccc||ccccc|}
+\hline
+$\langle x \rangle $   & $ \langle Q^2 \rangle $   &  \# of  & $\displaystyle{\delta \left({ \Delta u \over u} \right)}$  & $\displaystyle{\delta \left({ \Delta d \over d} \right)}$&
+$\displaystyle{ \delta \left({ \Delta \bar{u} \over\bar{u}} \right)}$ & $\displaystyle{\delta \left({ \Delta \bar{d} \over\bar{d}} \right)}$ &  $\displaystyle{\delta \left({ \Delta s + \Delta  \bar{s} \over s+ \bar{s}} \right)}$  \\
+                       & GeV$^2$            &       constrain    &  $\%$  &   $\%$    &  $\%$    &     $\%$    &       $\%$                                                   \\ \hline 
+   E$_0$=11 GV  &    & &         &          &         &          &         \\
+   0.166 &   3.288 & 25&        0.90 &         0.63 &        18.79 &         1.66 &        12.88 \\
+   0.249 &   4.639 & 25&        0.70 &         0.64 &        28.84 &         2.73 &        20.06 \\
+   0.347 &   6.090 & 25&        0.86 &         0.98 &        65.77 &         8.73 &        54.18 \\
+   0.445 &   7.384 & 25&        1.13 &         1.64 &            - &        30.42 &            - \\
+   0.543 &   8.483 & 21&        1.77 &         3.15 &            - &            - &            - \\
+   0.641 &   9.583 & 13&        3.92 &         8.74 &            - &            - &            - \\
+   E$_0$=8.8 GV  &    & &         &          &         &          &         \\
+   0.168 &   2.576 & 25&        0.94 &         0.68 &        20.53 &         1.72 &        13.93 \\
+   0.248 &   3.544 & 25&        0.76 &         0.71 &        32.33 &         2.89 &        22.49 \\
+   0.345 &   4.610 & 25&        1.04 &         1.16 &        77.42 &        10.18 &        63.44 \\
+   0.436 &   5.598 & 21&        1.55 &         2.25 &            - &        40.46 &            - \\
+   0.540 &   6.368 & 13&        2.96 &         5.36 &            - &            - &            - \\
+ \hline
+\end{tabular}
+\end{center}
+\caption{\label{tab:purityallz}  The expected statistical uncertainties of  all $z$-bins,  according to  `LO `purity' spin flavor decomposition.  Relative quark polarization  uncertainty values larger than $100 \%$ are not listed in the table.
+%Values of $x u_v(x)$ and $x d_v(x)$ f are rom CTEQ leading order.
+}
+\end{table}
+%------------------------------------------------------------------------------
+
+The expected statistics of Leading-Order ``purity'' method extracted  $\Delta q/q$, compared with HERMES~\cite{Airapetian:2004zf}  experiment and predictions from Statistical Model,   are  shown in Fig.~\ref{fig:delta5q}.  The COMPASS experiment~\cite{Alekseev:2010ub}  presented its results in $x\cdot \Delta q$ not in ratios. We can clearly pin down $\Delta u/u$ $\Delta d/d$, and $\Delta \bar{d}/\bar{d}$ very well, as expected. We can also obtain reasonable precisions for $\Delta \bar{u}/\bar{u}$ and $\Delta s/s$. Of course, when combined with future proton (NH$_3$) target data from CLAS12,  precision on $\Delta \bar{u}/\bar{u}$ can be much improved.
+%---------------------------------------------------------------------------------------------
+\begin{figure}[htbp]
+\centering
+    \includegraphics[width=0.92\linewidth]{figs_xj/delta5q_purity_060114.pdf}
+\caption{\label{fig:delta5q} The expected statistical precision of $\Delta q/q$ from Leading Oder ``purity'' method.  
+The published data of $\Delta q/q$ of  HERMES experiment~\cite{Airapetian:2004zf} are shown.  The COMPASS experiment~\cite{Alekseev:2010ub}  presented its results in $x\cdot \Delta q$ not in ratios.
+Predictions of Statistical Model~\cite{Bourrely200739}, calculated at $Q^2=4.0$ GeV$^2$  are also shown.
+}
+\end{figure}
+%-------------------------------------------------------------------------------
 
 \section{Expected results fromLeading-Order Christova-Leader method}
 \subsection{Statistical uncertainties of the combined asymmetries  $A_{1He}^{\pi^+ - \pi^-}$ }
@@ -210,7 +263,7 @@ The expected statistical accuracy of $\Delta \bar{u} - \Delta \bar{d}$, assuming
 The published HERMES~\cite{Airapetian:2004zf} and COMPASS~\cite{Alekseev:2010ub}  purity 
 results, which 
 included combined data sets of inclusive and semi-inclusive asymmetries, are also shown.
-Model predictions are from the Statistical Model~\protect\cite{bbs}, Meson Cloud Model~\protect\cite{cao} and 
+Model predictions are from the Statistical Model~\protect\cite{Bourrely200739}, Meson Cloud Model~\protect\cite{cao} and 
 the Chiral Quark Soliton
 Model~\protect\cite{dressler}. 
 }

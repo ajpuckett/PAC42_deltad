@@ -1,42 +1,23 @@
-This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
 The top-level auxiliary file: main_Deltaq.aux
 The style file: unsrturl.bst
 Database file #1: main_Deltaq.bib
 Warning--string name "june" is undefined
---line 417 of file main_Deltaq.bib
-Warning--I didn't find a database entry for "Frankfurt"
-Warning--I didn't find a database entry for "PhysRevLett.101.072001"
-Warning--I didn't find a database entry for "deFlorian:2014yva"
-Warning--I didn't find a database entry for "epjcxj2006"
-Warning--I didn't find a database entry for "sassotnlo"
+--line 642 of file main_Deltaq.bib
 Warning--I didn't find a database entry for "A1N_PR"
-Warning--I didn't find a database entry for "jcpengpol"
-Warning--I didn't find a database entry for "eichten"
-Warning--I didn't find a database entry for "thomas"
-Warning--I didn't find a database entry for "fries"
-Warning--I didn't find a database entry for "Boreskov"
-Warning--I didn't find a database entry for "cao"
-Warning--I didn't find a database entry for "Kumano"
-Warning--I didn't find a database entry for "fries2"
-Warning--I didn't find a database entry for "gluck"
-Warning--I didn't find a database entry for "steffens"
-Warning--I didn't find a database entry for "dressler"
-Warning--I didn't find a database entry for "wakamatsu"
-Warning--I didn't find a database entry for "dorokhov"
-Warning--I didn't find a database entry for "bbs"
-Warning--I didn't find a database entry for "bhalerao"
 Warning--I didn't find a database entry for "hermesthesis"
 Warning--I didn't find a database entry for "leader2"
+Warning--I didn't find a database entry for "sassotnlo"
 Warning--I didn't find a database entry for "lit:goeke"
 Warning--I didn't find a database entry for "hermes99"
 Warning--I didn't find a database entry for "graudenz"
 Warning--I didn't find a database entry for "wilson"
 Warning--I didn't find a database entry for "stratmann2001"
+Warning--I didn't find a database entry for "Jiang:2006qc"
 Warning--I didn't find a database entry for "ssissakian2"
 Warning--I didn't find a database entry for "compass2007"
 Warning--I didn't find a database entry for "bunce00"
 Warning--I didn't find a database entry for "COMPASS_d_p_2010"
-Warning--I didn't find a database entry for "hermes2002"
 Warning--I didn't find a database entry for "lit:bbfit"
 Warning--I didn't find a database entry for "xiaochao"
 Warning--I didn't find a database entry for "theory:PnPp_friar"
@@ -46,52 +27,56 @@ Warning--I didn't find a database entry for "theory:PnPp_bissey"
 Warning--I didn't find a database entry for "misak"
 Warning--I didn't find a database entry for "purity"
 Warning--I didn't find a database entry for "lund"
+Warning--I didn't find a database entry for "hermes2002"
 Warning--I didn't find a database entry for "smc1998"
 Warning--I didn't find a database entry for "field"
 Warning--empty journal in Adamczyk:2014xyw
+Warning--empty journal in DSSVplusplus
+Warning--empty journal in Adamczyk:2014ozi
+Warning--empty journal in dressler
 Warning--empty title in E06010_ALT_PRL
 Warning--empty title in SLAC_R1998
 Warning--empty journal in DSSVplus
 Warning--empty title in Projections_link
-You've used 53 entries,
+You've used 69 entries,
             2522 wiz_defined-function locations,
-            1042 strings with 18555 characters,
-and the built_in function-call counts, 20251 in all, are:
-= -- 2010
-> -- 855
+            1129 strings with 20934 characters,
+and the built_in function-call counts, 26145 in all, are:
+= -- 2628
+> -- 1029
 < -- 0
-+ -- 272
-- -- 219
-* -- 1452
-:= -- 2797
-add.period$ -- 200
-call.type$ -- 53
-change.case$ -- 50
++ -- 326
+- -- 257
+* -- 1864
+:= -- 3560
+add.period$ -- 264
+call.type$ -- 69
+change.case$ -- 66
 chr.to.int$ -- 0
-cite$ -- 58
-duplicate$ -- 468
-empty$ -- 2032
-format.name$ -- 219
-if$ -- 5472
+cite$ -- 77
+duplicate$ -- 613
+empty$ -- 2656
+format.name$ -- 257
+if$ -- 7097
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 44
-newline$ -- 310
-num.names$ -- 53
-pop$ -- 242
+int.to.str$ -- 69
+missing$ -- 60
+newline$ -- 406
+num.names$ -- 69
+pop$ -- 320
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1476
+skip$ -- 1934
 stack$ -- 0
-substring$ -- 887
-swap$ -- 174
+substring$ -- 1164
+swap$ -- 241
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 97
-width$ -- 55
-write$ -- 696
-(There were 50 warnings)
+warning$ -- 8
+while$ -- 127
+width$ -- 71
+write$ -- 911
+(There were 35 warnings)
